@@ -3,12 +3,15 @@
 Authorized module version for Foundry VTT
 
 **WRITING, DESIGN, LAYOUT**
+
 Kevin Sheller, Bunni Daniel
 
 **ART**
+
 Bunni Daniel, Mark Lyons, Mark McKenna
 
 **LEGAL**
+
 Printed in the USA. Not for resale or redistribution. Permission
 granted to copy for personal use only. Unnatural Selection © 2023
 Dungeon Damsel Creations. Unnatural Selection and Dungeon
