@@ -1,6 +1,6 @@
 # Unnatural Selection: The Untamed and the Underworld
 
-Authorized module version for Foundry VTTT
+Authorized module version for Foundry VTT
 
 **WRITING, DESIGN, LAYOUT**
 Kevin Sheller, Bunni Daniel
