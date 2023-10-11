@@ -1,0 +1,151 @@
+{
+    "id": "unnatural-selection",
+    "title": "Unnatural Selection",
+	"description": "",
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "compatibility": {},
+                "id": "shadowdark",
+                "type": "system"
+            }
+        ]
+    },
+    "authors": [
+        {
+            "discord": "muttley",
+            "email": "mu77ley@gmail.com",
+            "flags": {},
+            "name": "Paul Maskelyne"
+        }
+    ],
+    "packs": [
+        {
+            "flags": {},
+            "label": "Ancestries",
+            "name": "ancestries",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/ancestries",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
+            "label": "Backgrounds",
+            "name": "backgrounds",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/backgrounds",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
+            "label": "Chants and Spells",
+            "name": "chants-and-spells",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/chants-and-spells",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
+            "label": "Classes",
+            "name": "classes",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/classes",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
+            "label": "Deities",
+            "name": "deities",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/deities",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
+            "label": "Gear",
+            "name": "gear",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/gear",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
+            "label": "Languages",
+            "name": "languages",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/languages",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
+            "label": "Talents",
+            "name": "talents",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/talents",
+            "system": "shadowdark",
+            "type": "Item"
+        }
+    ],
+	"packFolders": [
+		{
+			"name": "Unnatural Selection",
+			"sorting": "a",
+			"color": "#472022",
+			"packs": [
+				"gear"
+			],
+			"folders": [
+				{
+					"name": "Character Options",
+					"sorting": "a",
+					"color": "#3a1a1d",
+					"packs": [
+						"ancestries",
+						"backgrounds",
+						"chants-and-spells",
+						"classes",
+						"deities",
+						"languages",
+						"talents"
+					]
+				}
+			]
+		}
+	]
+}
