@@ -1,3 +1,7 @@
+![GitHub Release](https://img.shields.io/github/release-date/Muttley/foundryvtt-unnatural-selection)
+![All Versions](https://img.shields.io/github/downloads/Muttley/foundryvtt-unnatural-selection/total)
+![Latest Version](https://img.shields.io/github/downloads/Muttley/foundryvtt-unnatural-selection/latest/total)
+
 # Unnatural Selection: The Untamed and the Underworld
 
 Authorized module version for Foundry VTT
