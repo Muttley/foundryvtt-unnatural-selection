@@ -3,9 +3,10 @@ import gulp from "gulp";
 import * as packs from "./utils/packs.mjs";
 
 export default gulp.series(
-	gulp.parallel(packs.compile),
+	packs.clean,
+	packs.compile
 );
 
-export const build = gulp.parallel(packs.compile);
+export const build = gulp.series(packs.compile);
 
-export const clean = gulp.parallel(packs.clean);
+export const clean = gulp.series(packs.clean);
