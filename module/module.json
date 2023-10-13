@@ -87,6 +87,18 @@
         },
         {
             "flags": {},
+            "label": "Effects",
+            "name": "effects",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/effects",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
             "label": "Gear",
             "name": "gear",
             "ownership": {
@@ -128,6 +140,7 @@
 			"sorting": "a",
 			"color": "#472022",
 			"packs": [
+				"effects",
 				"gear"
 			],
 			"folders": [
