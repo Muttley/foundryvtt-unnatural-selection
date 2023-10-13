@@ -1,0 +1,34 @@
+{
+	"_id": "l9TGVfQ33DEP0w7M",
+	"_key": "!items!l9TGVfQ33DEP0w7M",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Shadow Elf",
+	"system": {
+		"description": "<p><span class=\"fontstyle0\">Lithe, stealthy offspring of drow who have embraced the surface as their home.</span></p><p></p><p><span class=\"fontstyle0\">You know the common, elvish, and drow languages.</span></p><p></p><p><span class=\"fontstyle2\"><strong>Friend of the shadows.</strong> </span><span class=\"fontstyle0\">When shrouded in darkness, monsters attack your allies first.</span></p>",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.shadowdark.languages.Item.wABiw5UhzG2G8Kpa",
+				"Compendium.unnatural-selection.languages.Item.xrqBvGHnWXXgp4qz"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.sNniXatsofp2Fhvs"
+		]
+	},
+	"type": "Ancestry"
+}

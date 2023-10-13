@@ -1,0 +1,20 @@
+{
+	"_id": "sNniXatsofp2Fhvs",
+	"_key": "!items!sNniXatsofp2Fhvs",
+	"effects": [
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Friend of the Shadows",
+	"system": {
+		"description": "<p>When shrouded in darkness, monsters attack your allies first.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "sMw6u6Ixi6rnUQMB",
+	"_key": "!items!sMw6u6Ixi6rnUQMB",
+	"effects": [
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Breath Weapon",
+	"system": {
+		"description": "<p>1/day, unleash a breath weapon based on your draconic heritage via ranged attack, dealing [[/r 1d8]] damage to a near-sized cube in near range.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

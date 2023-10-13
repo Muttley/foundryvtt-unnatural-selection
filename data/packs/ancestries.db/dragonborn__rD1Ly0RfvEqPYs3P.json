@@ -1,0 +1,33 @@
+{
+	"_id": "rD1Ly0RfvEqPYs3P",
+	"_key": "!items!rD1Ly0RfvEqPYs3P",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Dragonborn",
+	"system": {
+		"description": "<p>Proud descendants of dragons whose honor holds greater value than their own lives.</p><p></p><p>You know the common and draconic languages.</p><p></p><p><strong>Breath Weapon.</strong> 1/day, unleash a breath weapon based on your draconic heritage via ranged attack, dealing [[/r 1d8]] damage to a near-sized cube in near range.</p><p></p>",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.shadowdark.languages.Item.GVbmj6D47b9lbOHz"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.sMw6u6Ixi6rnUQMB"
+		]
+	},
+	"type": "Ancestry"
+}

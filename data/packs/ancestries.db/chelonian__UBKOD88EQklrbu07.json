@@ -1,0 +1,33 @@
+{
+	"_id": "UBKOD88EQklrbu07",
+	"_key": "!items!UBKOD88EQklrbu07",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Chelonian",
+	"system": {
+		"description": "<p>Contemplative, wise turtle beings who act with caution and carry their homes on their backs.</p><p></p><p>You know the common and chelonian languages.</p><p></p><p><strong>Armored.</strong> You gain a +1 to AC.</p>",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.unnatural-selection.languages.Item.BERsCLwB4uNgIitv"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.bupJ6qkltAYAg88v"
+		]
+	},
+	"type": "Ancestry"
+}

@@ -1,0 +1,21 @@
+{
+	"_id": "pGS1AGBns9322YCv",
+	"_key": "!items!pGS1AGBns9322YCv",
+	"effects": [
+		"iMx79GrmNj0lWitb"
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Regenerate",
+	"system": {
+		"description": "<p><span class=\"fontstyle0\">Regain 1HP per hour unless damaged by fire or acid.</span></p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

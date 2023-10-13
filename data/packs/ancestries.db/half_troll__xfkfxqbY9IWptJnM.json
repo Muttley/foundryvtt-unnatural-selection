@@ -1,0 +1,33 @@
+{
+	"_id": "xfkfxqbY9IWptJnM",
+	"_key": "!items!xfkfxqbY9IWptJnM",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Half Troll",
+	"system": {
+		"description": "<p><span class=\"fontstyle0\">Ugly, burly beasts who easily anger and struggle to find their place within humanoid society.</span></p><p></p><p><span class=\"fontstyle0\">You know the common and giant languages.</span></p><p></p><p><span class=\"fontstyle2\"><strong>Regenerate.</strong> </span><span class=\"fontstyle0\">Regain 1HP per hour unless damaged by fire or acid.</span></p>",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.shadowdark.languages.Item.hW4BI5ySXhxQiYiV"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.pGS1AGBns9322YCv"
+		]
+	},
+	"type": "Ancestry"
+}

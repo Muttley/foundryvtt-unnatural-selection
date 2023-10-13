@@ -1,0 +1,34 @@
+{
+	"_id": "OUq1rrg94D5Sq18D",
+	"_key": "!items!OUq1rrg94D5Sq18D",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Forest Elf",
+	"system": {
+		"description": "<p>Slender, patient elves who are one with nature and uneasy amidst urban bustle.</p><p></p><p>You know the common, elvish, and sylvan languages.</p><p></p><p><strong>Forest Footwork.</strong> In a forest, you can move up to near again without skipping an action on your turn.</p><p></p>",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.shadowdark.languages.Item.Lf6kATbC1uNPLnPi",
+				"Compendium.shadowdark.languages.Item.wABiw5UhzG2G8Kpa"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.m4mguDhvYdwz3hQw"
+		]
+	},
+	"type": "Ancestry"
+}

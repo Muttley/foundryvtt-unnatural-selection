@@ -1,0 +1,19 @@
+{
+	"_id": "BERsCLwB4uNgIitv",
+	"_key": "!items!BERsCLwB4uNgIitv",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Chelonian",
+	"system": {
+		"description": "",
+		"predefinedEffects": "",
+		"rarity": "common",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

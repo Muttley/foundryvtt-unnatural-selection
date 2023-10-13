@@ -1,0 +1,20 @@
+{
+	"_id": "m4mguDhvYdwz3hQw",
+	"_key": "!items!m4mguDhvYdwz3hQw",
+	"effects": [
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Forest Footwork",
+	"system": {
+		"description": "<p>In a forest, you can move up to near again without skipping an action on your turn.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

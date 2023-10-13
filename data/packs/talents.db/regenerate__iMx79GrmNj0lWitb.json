@@ -1,0 +1,24 @@
+{
+	"_id": "iMx79GrmNj0lWitb",
+	"_key": "!items.effects!pGS1AGBns9322YCv.iMx79GrmNj0lWitb",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/life/cross-area-circle-green-white.webp",
+	"name": "Regenerate",
+	"origin": "Compendium.unnatural-selection.talents.Item.pGS1AGBns9322YCv",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

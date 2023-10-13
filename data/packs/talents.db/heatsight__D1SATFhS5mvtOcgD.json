@@ -1,0 +1,20 @@
+{
+	"_id": "D1SATFhS5mvtOcgD",
+	"_key": "!items!D1SATFhS5mvtOcgD",
+	"effects": [
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Heatsight",
+	"system": {
+		"description": "<p>1/day you can see the heat signatures of living creatures for 3 rounds.</p><p></p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

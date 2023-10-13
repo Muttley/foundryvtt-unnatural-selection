@@ -1,0 +1,19 @@
+{
+	"_id": "xrqBvGHnWXXgp4qz",
+	"_key": "!items!xrqBvGHnWXXgp4qz",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Drow",
+	"system": {
+		"description": "",
+		"predefinedEffects": "",
+		"rarity": "common",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

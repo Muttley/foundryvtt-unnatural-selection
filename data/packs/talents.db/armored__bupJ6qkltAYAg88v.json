@@ -1,0 +1,24 @@
+{
+	"_id": "bupJ6qkltAYAg88v",
+	"_key": "!items!bupJ6qkltAYAg88v",
+	"effects": [
+		"cW49l8ecRRvKWWT7"
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Armored",
+	"system": {
+		"bonuses": {
+			"acBonus": "1"
+		},
+		"description": "<p>You gain a +1 to AC.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}
