@@ -63,6 +63,18 @@
         },
         {
             "flags": {},
+            "label": "Class Abilities",
+            "name": "class-abilities",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/class-abilities",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
             "label": "Classes",
             "name": "classes",
             "ownership": {
@@ -123,6 +135,30 @@
         },
         {
             "flags": {},
+            "label": "Properties",
+            "name": "properties",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/properties",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+		{
+			"flags": {},
+			"label": "Rollable Tables",
+			"name": "rollable-tables",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+			"path": "packs/rollable-tables",
+			"system": "shadowdark",
+			"type": "RollTable"
+		},
+        {
+            "flags": {},
             "label": "Talents",
             "name": "talents",
             "ownership": {
@@ -141,7 +177,9 @@
 			"color": "#472022",
 			"packs": [
 				"effects",
-				"gear"
+				"gear",
+				"properties",
+				"rollable-tables"
 			],
 			"folders": [
 				{
@@ -152,6 +190,7 @@
 						"ancestries",
 						"backgrounds",
 						"chants-and-spells",
+						"class-abilities",
 						"classes",
 						"deities",
 						"languages",
