@@ -1,0 +1,15 @@
+{
+	"_id": "Udn0notkBqeaIVRw",
+	"_key": "!tables.results!Ddp7F05Uhi9lKwgB.Udn0notkBqeaIVRw",
+	"documentCollection": "unnatural-selection.rollable-tables",
+	"documentId": "K61rWLqV8GrQNQbB",
+	"drawn": false,
+	"img": "icons/svg/d20-grey.svg",
+	"range": [
+		10,
+		11
+	],
+	"text": "Pyromancy Talents",
+	"type": 2,
+	"weight": 1
+}

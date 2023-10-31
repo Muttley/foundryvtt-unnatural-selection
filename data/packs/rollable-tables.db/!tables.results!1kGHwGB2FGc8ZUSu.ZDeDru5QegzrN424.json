@@ -1,0 +1,15 @@
+{
+	"_id": "ZDeDru5QegzrN424",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.ZDeDru5QegzrN424",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "LTLgTJIlRb7DixGF",
+	"drawn": false,
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"range": [
+		3,
+		5
+	],
+	"text": "Increase Beast Attack Damage Die",
+	"type": 2,
+	"weight": 1
+}

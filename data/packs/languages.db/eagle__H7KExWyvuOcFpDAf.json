@@ -1,0 +1,19 @@
+{
+	"_id": "H7KExWyvuOcFpDAf",
+	"_key": "!items!H7KExWyvuOcFpDAf",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Eagle",
+	"system": {
+		"description": "",
+		"predefinedEffects": "",
+		"rarity": "common",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

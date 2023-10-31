@@ -1,0 +1,15 @@
+{
+	"_id": "sNrknqwMM7giAS49",
+	"_key": "!tables.results!Ddp7F05Uhi9lKwgB.sNrknqwMM7giAS49",
+	"documentCollection": "shadowdark.talents",
+	"documentId": "93QoQQ6cI7xa4TCm",
+	"drawn": false,
+	"img": "icons/skills/melee/strike-polearm-glowing-white.webp",
+	"range": [
+		3,
+		6
+	],
+	"text": "+1 to Melee Attacks",
+	"type": 2,
+	"weight": 1
+}

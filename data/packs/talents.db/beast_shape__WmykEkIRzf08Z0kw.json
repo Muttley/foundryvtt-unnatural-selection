@@ -1,0 +1,20 @@
+{
+	"_id": "WmykEkIRzf08Z0kw",
+	"_key": "!items!WmykEkIRzf08Z0kw",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Beast Shape",
+	"system": {
+		"description": "<p>Once per day, you may transform into the natural form of your chosen beast for 3 rounds. You still need light to see.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

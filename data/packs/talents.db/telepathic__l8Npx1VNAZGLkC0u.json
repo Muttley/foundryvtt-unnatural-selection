@@ -1,0 +1,20 @@
+{
+	"_id": "l8Npx1VNAZGLkC0u",
+	"_key": "!items!l8Npx1VNAZGLkC0u",
+	"effects": [
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Telepathic",
+	"system": {
+		"description": "<p><span class=\"fontstyle0\">Once per day, release rapport spores to gain telepathic communication with all in a near radius. Lasts for 10 rounds.</span></p><p></p><p>@UUID[Compendium.unnatural-selection.effects.Item.ZooMh0XpncTIXPIA]{Telepathic}</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,29 @@
+{
+	"_id": "itZARhfJXBRoufrD",
+	"_key": "!items.effects!LTLgTJIlRb7DixGF.itZARhfJXBRoufrD",
+	"changes": [
+		{
+			"key": "system.bonuses.weaponDamageDieImprovementByProperty",
+			"mode": 2,
+			"priority": null,
+			"value": "beast-attack"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/skills/ranged/arrows-flying-salvo-blue-light.webp",
+	"name": "Weapon Damage Die Improvement By Property",
+	"origin": null,
+	"statuses": [
+	],
+	"transfer": true
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "m5mDjY1qCMhjugiF",
+	"_key": "!items!m5mDjY1qCMhjugiF",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Wicked Tongue",
+	"system": {
+		"description": "<p>Your oratory prowess deceives others, granting you advantage on any negotiation, intimidation, persuasion, or misdirection checks.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

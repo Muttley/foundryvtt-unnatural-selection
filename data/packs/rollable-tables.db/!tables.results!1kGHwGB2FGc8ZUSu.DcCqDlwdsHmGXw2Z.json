@@ -1,0 +1,15 @@
+{
+	"_id": "DcCqDlwdsHmGXw2Z",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.DcCqDlwdsHmGXw2Z",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		12,
+		12
+	],
+	"text": "Select and add a new beast attack to your arsenal. Choose which beast before making future talent table rolls.",
+	"type": 0,
+	"weight": 1
+}

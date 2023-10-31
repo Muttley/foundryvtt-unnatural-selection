@@ -1,0 +1,24 @@
+{
+	"_id": "aGXDxFv8waNqj40O",
+	"_key": "!items.effects!ZooMh0XpncTIXPIA.aGXDxFv8waNqj40O",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 10,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/symbols/circled-gem-pink.webp",
+	"name": "Telepathic",
+	"origin": "Compendium.unnatural-selection.effects.Item.ZooMh0XpncTIXPIA",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

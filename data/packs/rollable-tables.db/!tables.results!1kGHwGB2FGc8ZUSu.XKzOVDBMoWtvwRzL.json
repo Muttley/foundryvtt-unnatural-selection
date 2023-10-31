@@ -1,0 +1,15 @@
+{
+	"_id": "XKzOVDBMoWtvwRzL",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.XKzOVDBMoWtvwRzL",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		6,
+		9
+	],
+	"text": "+2 to Strength or Constitution stat or +1 to unarmored AC.",
+	"type": 0,
+	"weight": 1
+}

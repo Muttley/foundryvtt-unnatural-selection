@@ -1,0 +1,15 @@
+{
+	"_id": "K15jTe8oQk2q7EjZ",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.K15jTe8oQk2q7EjZ",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "Zmds90o9zoXhKJ6G",
+	"drawn": false,
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"range": [
+		6,
+		9
+	],
+	"text": "+1 to Unarmored AC",
+	"type": 2,
+	"weight": 1
+}

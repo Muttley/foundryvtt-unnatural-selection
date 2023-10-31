@@ -1,0 +1,15 @@
+{
+	"_id": "Pm2JYY7OAzmxbrn0",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.Pm2JYY7OAzmxbrn0",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		10,
+		11
+	],
+	"text": "Make an animal magic item of your type (see pg. 34).",
+	"type": 0,
+	"weight": 1
+}

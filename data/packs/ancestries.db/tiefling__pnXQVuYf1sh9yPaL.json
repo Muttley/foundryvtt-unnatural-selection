@@ -1,0 +1,33 @@
+{
+	"_id": "pnXQVuYf1sh9yPaL",
+	"_key": "!items!pnXQVuYf1sh9yPaL",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Tiefling",
+	"system": {
+		"description": "<p><span class=\"fontstyle0\">Devout, self-reliant outcasts who have diabolic ancestry and sport demonic horns.</span></p><p></p><p><span class=\"fontstyle0\">You know the common and diabolic languages.</span></p><p></p><p><span class=\"fontstyle2\"><strong>Heatsight.</strong> </span><span class=\"fontstyle0\">1/day you can see the heat signatures of living creatures for 3 rounds.</span><br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.b5yBrLaRIl7ZEWKu",
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.D1SATFhS5mvtOcgD"
+		]
+	},
+	"type": "Ancestry"
+}

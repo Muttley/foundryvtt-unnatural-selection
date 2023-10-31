@@ -1,0 +1,20 @@
+{
+	"_id": "CNVvYvhg6chN95nD",
+	"_key": "!items!CNVvYvhg6chN95nD",
+	"effects": [
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Dead Being Walking",
+	"system": {
+		"description": "<p><span class=\"fontstyle0\">At 0 hp you remain active but are still dying. Someone else must stabilize you. You die early if you receive your full hp of damage again</span>.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

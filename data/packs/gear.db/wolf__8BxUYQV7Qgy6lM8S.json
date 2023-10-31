@@ -1,0 +1,56 @@
+{
+	"_id": "8BxUYQV7Qgy6lM8S",
+	"_key": "!items!8BxUYQV7Qgy6lM8S",
+	"effects": [
+	],
+	"folder": "xbR6m23uc6rYMHhp",
+	"img": "icons/creatures/mammals/wolf-shadow-black.webp",
+	"name": "Wolf",
+	"system": {
+		"baseWeapon": "",
+		"bonuses": {
+			"attackBonus": 0,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0,
+			"damageMultiplier": 1
+		},
+		"broken": false,
+		"canBeEquipped": true,
+		"cost": {
+			"cp": 0,
+			"gp": 0,
+			"sp": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"oneHanded": "d6",
+			"twoHanded": ""
+		},
+		"description": "<p>Bite deals d6 damage equal to half your level rounded down. Minimum of 1d6.</p>",
+		"equipped": false,
+		"isPhysical": true,
+		"magicItem": false,
+		"predefinedEffects": "",
+		"properties": [
+			"Compendium.unnatural-selection.properties.Item.1HuGTW9NfyruIwwM"
+		],
+		"quantity": 1,
+		"range": "close",
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 0,
+			"slots_used": 0
+		},
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"type": "melee",
+		"weaponMastery": false
+	},
+	"type": "Weapon"
+}

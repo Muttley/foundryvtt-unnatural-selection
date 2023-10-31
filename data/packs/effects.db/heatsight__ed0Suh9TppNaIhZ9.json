@@ -1,0 +1,24 @@
+{
+	"_id": "ed0Suh9TppNaIhZ9",
+	"_key": "!items.effects!CfGql0PgxaCa4EOU.ed0Suh9TppNaIhZ9",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 3,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/perception/eye-ringed-glow-angry-small-red.webp",
+	"name": "Heatsight",
+	"origin": "Item.H8cUnbnxk9DG8uBW",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

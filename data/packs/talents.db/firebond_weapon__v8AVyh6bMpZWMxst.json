@@ -1,0 +1,20 @@
+{
+	"_id": "v8AVyh6bMpZWMxst",
+	"_key": "!items!v8AVyh6bMpZWMxst",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Firebond Weapon",
+	"system": {
+		"description": "<p>Pulling from the eternal flames of the abyss, you can ignite any melee or ranged weapon as a free action. Deal an additional d4 of fire damage on hit.</p><p></p><p>The weapon's flame is not enough to pierce the darkness.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

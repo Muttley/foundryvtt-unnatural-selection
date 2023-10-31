@@ -1,0 +1,20 @@
+{
+	"_id": "RUveINvKYafMtGGm",
+	"_key": "!items!RUveINvKYafMtGGm",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Increase Firebond Weapon's Extra Damage",
+	"system": {
+		"description": "<p>Increase die category of Firebond Weapon’s extra damage.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

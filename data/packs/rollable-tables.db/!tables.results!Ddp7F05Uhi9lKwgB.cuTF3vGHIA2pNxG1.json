@@ -1,0 +1,14 @@
+{
+	"_id": "cuTF3vGHIA2pNxG1",
+	"_key": "!tables.results!Ddp7F05Uhi9lKwgB.cuTF3vGHIA2pNxG1",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		2,
+		2
+	],
+	"text": "1/day, know the desires or fears of a creature in near range",
+	"type": 0,
+	"weight": 1
+}

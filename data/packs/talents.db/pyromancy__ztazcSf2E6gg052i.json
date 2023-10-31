@@ -1,0 +1,20 @@
+{
+	"_id": "ztazcSf2E6gg052i",
+	"_key": "!items!ztazcSf2E6gg052i",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Pyromancy",
+	"system": {
+		"description": "<p><span class=\"fontstyle0\">You wield the relentless energy of the eternal flame in powerful and unique ways.</span></p><p></p><p><span class=\"fontstyle0\">Upon gaining level 2, roll one talent from the Pyromancy table, with additional rolls at every even level.</span></p><p></p><p><span class=\"fontstyle0\">You are immune to your own pyromancy.</span></p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

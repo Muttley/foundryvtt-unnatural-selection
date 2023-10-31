@@ -1,0 +1,19 @@
+{
+	"_id": "1HuGTW9NfyruIwwM",
+	"_key": "!items!1HuGTW9NfyruIwwM",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+	"name": "Beast Attack",
+	"system": {
+		"description": "<p>Used by the Beastmaster class.</p>",
+		"itemType": "weapon",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Property"
+}

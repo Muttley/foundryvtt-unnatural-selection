@@ -1,0 +1,20 @@
+{
+	"_id": "dP8ZLubsMPl2grMp",
+	"_key": "!items!dP8ZLubsMPl2grMp",
+	"effects": [
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Trickster",
+	"system": {
+		"description": "<p><span class=\"fontstyle0\">1/day, target one creature to become the object of your nettlesome pranks, granting you the ability to force a re-roll on one attack or check</span>.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

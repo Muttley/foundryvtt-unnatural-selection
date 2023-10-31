@@ -1,0 +1,14 @@
+{
+	"_id": "RG8ZyswctNO2JWBi",
+	"_key": "!tables.results!Ddp7F05Uhi9lKwgB.RG8ZyswctNO2JWBi",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		3,
+		6
+	],
+	"text": "+1 to melee or ranges attacks",
+	"type": 0,
+	"weight": 1
+}

@@ -1,0 +1,56 @@
+{
+	"_id": "53Yk2gIe8vAxbp9E",
+	"_key": "!items!53Yk2gIe8vAxbp9E",
+	"effects": [
+	],
+	"folder": "xbR6m23uc6rYMHhp",
+	"img": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
+	"name": "Snake",
+	"system": {
+		"baseWeapon": "",
+		"bonuses": {
+			"attackBonus": 0,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0,
+			"damageMultiplier": 1
+		},
+		"broken": false,
+		"canBeEquipped": true,
+		"cost": {
+			"cp": 0,
+			"gp": 0,
+			"sp": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"oneHanded": "d4",
+			"twoHanded": ""
+		},
+		"description": "<p>Bite attack does 1d4 + poison. DC 9 CON check or paralyzed for 1d4 rounds.</p>",
+		"equipped": false,
+		"isPhysical": true,
+		"magicItem": false,
+		"predefinedEffects": "",
+		"properties": [
+			"Compendium.unnatural-selection.properties.Item.1HuGTW9NfyruIwwM"
+		],
+		"quantity": 1,
+		"range": "close",
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"type": "melee",
+		"weaponMastery": false
+	},
+	"type": "Weapon"
+}

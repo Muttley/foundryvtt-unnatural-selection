@@ -1,0 +1,19 @@
+{
+	"_id": "QMAq46gShp5EAmNF",
+	"_key": "!items!QMAq46gShp5EAmNF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Snake",
+	"system": {
+		"description": "",
+		"predefinedEffects": "",
+		"rarity": "common",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

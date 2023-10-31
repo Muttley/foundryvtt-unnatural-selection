@@ -1,0 +1,24 @@
+{
+	"_id": "LTLgTJIlRb7DixGF",
+	"_key": "!items!LTLgTJIlRb7DixGF",
+	"effects": [
+		"itZARhfJXBRoufrD"
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Increase Beast Attack Damage Die",
+	"system": {
+		"bonuses": {
+			"weaponDamageDieImprovementByProperty": "beast-attack"
+		},
+		"description": "<p>Increase Beast Attack damage die category by one.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,14 @@
+{
+	"_id": "L6OpoxhoU8Gbdk35",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.L6OpoxhoU8Gbdk35",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		2,
+		2
+	],
+	"text": "You may use Beast Shape 1 additional time per day.",
+	"type": 0,
+	"weight": 1
+}

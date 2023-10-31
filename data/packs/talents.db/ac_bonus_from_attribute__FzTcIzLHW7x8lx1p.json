@@ -1,0 +1,29 @@
+{
+	"_id": "FzTcIzLHW7x8lx1p",
+	"_key": "!items.effects!wwJ10vEjE3giT0Ux.FzTcIzLHW7x8lx1p",
+	"changes": [
+		{
+			"key": "system.bonuses.acBonusFromAttribute",
+			"mode": 2,
+			"priority": null,
+			"value": "con"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/skills/melee/shield-block-gray-orange.webp",
+	"name": "AC Bonus from Attribute",
+	"origin": null,
+	"statuses": [
+	],
+	"transfer": true
+}

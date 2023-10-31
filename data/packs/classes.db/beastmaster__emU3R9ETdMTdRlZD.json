@@ -1,0 +1,62 @@
+{
+	"_id": "emU3R9ETdMTdRlZD",
+	"_key": "!items!emU3R9ETdMTdRlZD",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Beastmaster",
+	"system": {
+		"allArmor": false,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": true,
+		"allWeapons": false,
+		"armor": [
+		],
+		"classTalentTable": "Compendium.unnatural-selection.rollable-tables.RollTable.1kGHwGB2FGc8ZUSu",
+		"description": "<p>Limbs and mouths contort and crack as bones and jaws rearrange themselves.</p>",
+		"hitPoints": "d8",
+		"language": {
+			"select": 1
+		},
+		"languages": {
+			"common": 0,
+			"fixed": [
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+				"Compendium.unnatural-selection.languages.Item.D530jjSol2cOVZS4",
+				"Compendium.unnatural-selection.languages.Item.H7KExWyvuOcFpDAf",
+				"Compendium.unnatural-selection.languages.Item.nGEMzHE7Yurd8Gua",
+				"Compendium.unnatural-selection.languages.Item.QMAq46gShp5EAmNF"
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"spellcasting": {
+			"ability": "",
+			"class": "__not_spellcaster__"
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+		],
+		"titles": [
+			{
+				"chaotic": "",
+				"from": null,
+				"lawful": "",
+				"neutral": "",
+				"to": null
+			}
+		],
+		"weapons": [
+		]
+	},
+	"type": "Class"
+}

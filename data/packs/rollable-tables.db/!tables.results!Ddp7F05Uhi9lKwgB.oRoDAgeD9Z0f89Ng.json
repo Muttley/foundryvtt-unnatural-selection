@@ -1,0 +1,15 @@
+{
+	"_id": "oRoDAgeD9Z0f89Ng",
+	"_key": "!tables.results!Ddp7F05Uhi9lKwgB.oRoDAgeD9Z0f89Ng",
+	"documentCollection": "unnatural-selection.rollable-tables",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		12,
+		12
+	],
+	"text": "Choose one options or +2 points to distribute to stats.",
+	"type": 0,
+	"weight": 1
+}

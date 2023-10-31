@@ -1,0 +1,33 @@
+{
+	"_id": "0atDnZq1VRqsuc1w",
+	"_key": "!items!0atDnZq1VRqsuc1w",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Myconid",
+	"system": {
+		"description": "<p><span class=\"fontstyle0\">Peaceful mushroom folk who connect with their natural environment through the mycelial network and telepathy.</span></p><p></p><p><span class=\"fontstyle0\">You know the Common and Sylvan languages.</span></p><p></p><p><span class=\"fontstyle2\"><strong>Telepathic.</strong> </span><span class=\"fontstyle0\">Once per day, release rapport spores to gain telepathic communication with all in a near radius. Lasts for 10 rounds.</span><br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.shadowdark.languages.Item.Lf6kATbC1uNPLnPi"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.l8Npx1VNAZGLkC0u"
+		]
+	},
+	"type": "Ancestry"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "Zmds90o9zoXhKJ6G",
+	"_key": "!items!Zmds90o9zoXhKJ6G",
+	"effects": [
+		"Sc6zUePKBrxNZ7uK"
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "+1 to Unarmored AC",
+	"system": {
+		"bonuses": {
+			"unarmoredAcBonus": "1"
+		},
+		"description": "",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

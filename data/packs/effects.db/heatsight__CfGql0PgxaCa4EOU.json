@@ -1,0 +1,42 @@
+{
+	"_id": "CfGql0PgxaCa4EOU",
+	"_key": "!items!CfGql0PgxaCa4EOU",
+	"effects": [
+		"ed0Suh9TppNaIhZ9"
+	],
+	"folder": null,
+	"img": "icons/magic/perception/eye-ringed-glow-angry-small-red.webp",
+	"name": "Heatsight",
+	"system": {
+		"category": "effect",
+		"description": "<p>You can see the heat signatures of living creatures for 3 rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "3"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"start": {
+			"combatTime": "9.0",
+			"value": 0
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

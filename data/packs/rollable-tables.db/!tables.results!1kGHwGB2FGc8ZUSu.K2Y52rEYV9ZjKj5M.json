@@ -1,0 +1,15 @@
+{
+	"_id": "K2Y52rEYV9ZjKj5M",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.K2Y52rEYV9ZjKj5M",
+	"documentCollection": "unnatural-selection.gear",
+	"documentId": "VPgQSNB5RRsqxEqm",
+	"drawn": false,
+	"img": "icons/weapons/swords/swords-short.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Bear",
+	"type": 2,
+	"weight": 1
+}

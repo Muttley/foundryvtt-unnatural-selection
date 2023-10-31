@@ -1,0 +1,14 @@
+{
+	"_id": "DeEXWTWrXCXcLQe7",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.DeEXWTWrXCXcLQe7",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		3,
+		5
+	],
+	"text": "Increase Beast Attack damage die category by one.  (3-5 after d12 = reroll)",
+	"type": 0,
+	"weight": 1
+}

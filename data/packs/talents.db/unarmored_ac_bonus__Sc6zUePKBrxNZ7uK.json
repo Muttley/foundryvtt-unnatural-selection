@@ -1,0 +1,29 @@
+{
+	"_id": "Sc6zUePKBrxNZ7uK",
+	"_key": "!items.effects!Zmds90o9zoXhKJ6G.Sc6zUePKBrxNZ7uK",
+	"changes": [
+		{
+			"key": "system.bonuses.unarmoredAcBonus",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/skills/melee/shield-block-gray-orange.webp",
+	"name": "Unarmored AC Bonus",
+	"origin": null,
+	"statuses": [
+	],
+	"transfer": true
+}

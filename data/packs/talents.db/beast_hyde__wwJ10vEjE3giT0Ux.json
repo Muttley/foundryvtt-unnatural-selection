@@ -1,0 +1,25 @@
+{
+	"_id": "wwJ10vEjE3giT0Ux",
+	"_key": "!items!wwJ10vEjE3giT0Ux",
+	"effects": [
+		"FzTcIzLHW7x8lx1p"
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Beast Hyde",
+	"system": {
+		"bonuses": {
+			"acBonus": "0",
+			"acBonusFromAttribute": "con"
+		},
+		"description": "<p>Your skin is covered with a protective hide. If your CON bonus is positive, also add it to your AC.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}
