@@ -97,6 +97,18 @@
             "system": "shadowdark",
             "type": "Item"
         },
+		{
+			"flags": {},
+			"label": "Documents",
+			"name": "documents",
+			"ownership": {
+				"ASSISTANT": "OWNER",
+				"PLAYER": "OBSERVER"
+			},
+			"path": "packs/documents",
+			"system": "shadowdark",
+			"type": "JournalEntry"
+		},
         {
             "flags": {},
             "label": "Effects",
@@ -176,6 +188,7 @@
 			"sorting": "a",
 			"color": "#472022",
 			"packs": [
+				"documents",
 				"effects",
 				"gear",
 				"properties",
