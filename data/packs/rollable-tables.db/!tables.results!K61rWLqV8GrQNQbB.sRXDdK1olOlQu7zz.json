@@ -1,0 +1,15 @@
+{
+	"_id": "sRXDdK1olOlQu7zz",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.sRXDdK1olOlQu7zz",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "cpRD2zl4MikEIjJD",
+	"drawn": false,
+	"img": "icons/magic/fire/projectile-wave-yellow.webp",
+	"range": [
+		7,
+		7
+	],
+	"text": "Hot Flash",
+	"type": 2,
+	"weight": 1
+}

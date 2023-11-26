@@ -1,0 +1,42 @@
+{
+	"_id": "VG0rR7DWRU0LCvS7",
+	"_key": "!items!VG0rR7DWRU0LCvS7",
+	"effects": [
+		"EieQ3jwb5RTT9PNf"
+	],
+	"folder": null,
+	"img": "icons/creatures/slimes/slime-movment-dripping-green.webp",
+	"name": "Slime Form",
+	"system": {
+		"category": "effect",
+		"description": "",
+		"duration": {
+			"type": "rounds",
+			"value": "3"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"start": {
+			"combatTime": null,
+			"value": 16
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

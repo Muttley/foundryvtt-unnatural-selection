@@ -1,0 +1,15 @@
+{
+	"_id": "TKk3PloLQNyaotJf",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.TKk3PloLQNyaotJf",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "QLWsCXT2c0iHiZO3",
+	"drawn": false,
+	"img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+	"range": [
+		3,
+		3
+	],
+	"text": "Boiling Blood Spray",
+	"type": 2,
+	"weight": 1
+}

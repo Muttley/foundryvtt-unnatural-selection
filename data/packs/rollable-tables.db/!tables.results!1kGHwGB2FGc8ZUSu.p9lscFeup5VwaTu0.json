@@ -1,10 +1,10 @@
 {
-	"_id": "K15jTe8oQk2q7EjZ",
-	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.K15jTe8oQk2q7EjZ",
+	"_id": "p9lscFeup5VwaTu0",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.p9lscFeup5VwaTu0",
 	"documentCollection": "unnatural-selection.talents",
 	"documentId": "Zmds90o9zoXhKJ6G",
 	"drawn": false,
-	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"img": "icons/skills/melee/shield-block-gray-orange.webp",
 	"range": [
 		6,
 		9

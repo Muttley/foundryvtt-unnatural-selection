@@ -1,0 +1,19 @@
+{
+	"_id": "3PW6d6jxhD4VOQZV",
+	"_key": "!items!3PW6d6jxhD4VOQZV",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Skurrid",
+	"system": {
+		"description": "",
+		"predefinedEffects": "",
+		"rarity": "common",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

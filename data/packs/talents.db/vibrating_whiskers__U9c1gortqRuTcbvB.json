@@ -1,0 +1,20 @@
+{
+	"_id": "U9c1gortqRuTcbvB",
+	"_key": "!items!U9c1gortqRuTcbvB",
+	"effects": [
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/creatures/mammals/rodent-rat-green.webp",
+	"name": "Vibrating Whiskers",
+	"system": {
+		"description": "<p>If you focus, you sense living beings behind closed doors and darkness (near).</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

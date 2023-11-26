@@ -1,0 +1,20 @@
+{
+	"_id": "QLWsCXT2c0iHiZO3",
+	"_key": "!items!QLWsCXT2c0iHiZO3",
+	"effects": [
+	],
+	"folder": "oJA5DELSDumCTQ6k",
+	"img": "icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
+	"name": "Boiling Blood Spray",
+	"system": {
+		"description": "<p><strong>Boiling Blood Spray.</strong> When a Firebond Weapon strikes a creature, scorched blood does 1 damage to creatures in close range. Add +1 damage on duplicate.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "LDFCFZZGmOfMPiij",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.LDFCFZZGmOfMPiij",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "WXJAfoLNIHWVszFw",
+	"drawn": false,
+	"img": "icons/magic/fire/beam-jet-stream-yellow.webp",
+	"range": [
+		4,
+		4
+	],
+	"text": "Wall of Fire",
+	"type": 2,
+	"weight": 1
+}

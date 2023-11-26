@@ -1,0 +1,15 @@
+{
+	"_id": "WktGEI2SCQ6SjLOW",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.WktGEI2SCQ6SjLOW",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "RUveINvKYafMtGGm",
+	"drawn": false,
+	"img": "icons/magic/fire/dagger-rune-enchant-flame-strong-red.webp",
+	"range": [
+		1,
+		1
+	],
+	"text": "Increase Firebond Weapon's Extra Damage",
+	"type": 2,
+	"weight": 1
+}

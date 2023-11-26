@@ -1,0 +1,20 @@
+{
+	"_id": "UK6ckYA1z4o1UOMO",
+	"_key": "!items!UK6ckYA1z4o1UOMO",
+	"effects": [
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/creatures/slimes/slime-movment-dripping-green.webp",
+	"name": "Slime Form",
+	"system": {
+		"description": "<p>Once per day, transform into a puddle of ooze for 3 rounds, allowing you to fit through tiny spaces. Movement is half near and equipment does not transform.</p><p>@UUID[Compendium.unnatural-selection.effects.Item.VG0rR7DWRU0LCvS7]{Slime Form}</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

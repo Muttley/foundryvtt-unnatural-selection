@@ -1,0 +1,20 @@
+{
+	"_id": "m0kU3kGqa92ya0X6",
+	"_key": "!items!m0kU3kGqa92ya0X6",
+	"effects": [
+	],
+	"folder": "DTiC1phxrRCkvLUl",
+	"img": "icons/magic/nature/leaf-oak-glow-green.webp",
+	"name": "Plant Medicine",
+	"system": {
+		"description": "<p><span style=\"font-family: Signika, sans-serif\">Spend 1 hp to heal an ally by 1 hp if they eat a berry or leaf you produce.</span></p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "ancestry"
+	},
+	"type": "Talent"
+}

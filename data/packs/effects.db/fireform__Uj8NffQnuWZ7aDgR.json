@@ -1,0 +1,24 @@
+{
+	"_id": "Uj8NffQnuWZ7aDgR",
+	"_key": "!items.effects!rIxSg9KzDGxbfHJa.Uj8NffQnuWZ7aDgR",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 3,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/fire/flame-burning-eye.webp",
+	"name": "Fireform",
+	"origin": "Compendium.unnatural-selection.effects.Item.rIxSg9KzDGxbfHJa",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

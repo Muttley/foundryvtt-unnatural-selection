@@ -1,0 +1,20 @@
+{
+	"_id": "cpRD2zl4MikEIjJD",
+	"_key": "!items!cpRD2zl4MikEIjJD",
+	"effects": [
+	],
+	"folder": "oJA5DELSDumCTQ6k",
+	"img": "icons/magic/fire/projectile-wave-yellow.webp",
+	"name": "Hot Flash",
+	"system": {
+		"description": "<p>Hot Flash. As an action, create a white hot flash. Creatures in a near radius around you are blinded and stunned for 1 round if they fail a DC 12 CON check. Add a round of blindness on duplicate.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

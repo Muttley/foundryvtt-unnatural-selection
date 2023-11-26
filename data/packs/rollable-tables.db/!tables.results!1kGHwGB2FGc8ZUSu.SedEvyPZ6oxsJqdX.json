@@ -1,10 +1,10 @@
 {
-	"_id": "ZDeDru5QegzrN424",
-	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.ZDeDru5QegzrN424",
+	"_id": "SedEvyPZ6oxsJqdX",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.SedEvyPZ6oxsJqdX",
 	"documentCollection": "unnatural-selection.talents",
 	"documentId": "LTLgTJIlRb7DixGF",
 	"drawn": false,
-	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"img": "icons/skills/melee/strike-slashes-red.webp",
 	"range": [
 		3,
 		5

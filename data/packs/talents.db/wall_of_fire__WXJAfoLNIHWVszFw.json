@@ -1,0 +1,20 @@
+{
+	"_id": "WXJAfoLNIHWVszFw",
+	"_key": "!items!WXJAfoLNIHWVszFw",
+	"effects": [
+	],
+	"folder": "oJA5DELSDumCTQ6k",
+	"img": "icons/magic/fire/beam-jet-stream-yellow.webp",
+	"name": "Wall of Fire",
+	"system": {
+		"description": "<p><strong>Wall of Fire.</strong> As an action, create a near-length wall of fire in a straight line from any point a near distance from you for 5 rounds. The wall does [[/r 1d4]] damage on touch. Increase damage die category on duplicate.</p><p></p><p>@UUID[Compendium.unnatural-selection.effects.Item.qLIJZPzen1dTmb3P]{Wall of Fire}</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

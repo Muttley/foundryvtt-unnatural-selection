@@ -7,7 +7,7 @@
 	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
 	"name": "Beast Attack",
 	"system": {
-		"description": "<p>Used by the Beastmaster class.</p>",
+		"description": "<p>Used by the @UUID[Compendium.unnatural-selection.classes.Item.emU3R9ETdMTdRlZD]{Beastmaster} class.</p>",
 		"itemType": "weapon",
 		"predefinedEffects": "",
 		"source": {

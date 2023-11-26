@@ -7,11 +7,12 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Gnome",
 	"system": {
-		"description": "<p><span class=\"fontstyle0\">Diminutive, elusive tricksters who delight in playful pranks. As clever as they are tiny.</span></p><p></p><p><span class=\"fontstyle0\">You know the Common language.</span></p><p></p><p><span class=\"fontstyle2\"><strong>Trickster.</strong> </span><span class=\"fontstyle0\">1/day, target one creature to become the object of your nettlesome pranks, granting you the ability to force a re-roll on one attack or check</span>.</p>",
+		"description": "<p><span class=\"fontstyle0\">Diminutive, elusive tricksters who delight in playful pranks. As clever as they are tiny.</span></p><p></p><p><span class=\"fontstyle0\">You know the Common and Sylvan languages.</span></p><p></p><p><span class=\"fontstyle2\"><strong>Trickster.</strong> </span><span class=\"fontstyle0\">1/day, target one creature to become the object of your nettlesome pranks, granting you the ability to force a re-roll on one attack or check</span>.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [
-				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP"
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.shadowdark.languages.Item.Lf6kATbC1uNPLnPi"
 			],
 			"rare": 0,
 			"select": 0,

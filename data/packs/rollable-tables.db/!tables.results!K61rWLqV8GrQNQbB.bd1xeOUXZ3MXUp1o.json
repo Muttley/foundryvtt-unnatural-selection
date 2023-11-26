@@ -1,0 +1,15 @@
+{
+	"_id": "bd1xeOUXZ3MXUp1o",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.bd1xeOUXZ3MXUp1o",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "5Op6VLYwCsb3SgSd",
+	"drawn": false,
+	"img": "icons/magic/fire/explosion-mushroom-nuke-orange.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Super Nova",
+	"type": 2,
+	"weight": 1
+}

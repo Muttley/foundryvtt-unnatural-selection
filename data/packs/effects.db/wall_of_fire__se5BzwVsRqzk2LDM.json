@@ -1,0 +1,24 @@
+{
+	"_id": "se5BzwVsRqzk2LDM",
+	"_key": "!items.effects!qLIJZPzen1dTmb3P.se5BzwVsRqzk2LDM",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 5,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/fire/beam-jet-stream-yellow.webp",
+	"name": "Wall of Fire",
+	"origin": "Compendium.unnatural-selection.effects.Item.qLIJZPzen1dTmb3P",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

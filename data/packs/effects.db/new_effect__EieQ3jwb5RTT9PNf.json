@@ -1,0 +1,24 @@
+{
+	"_id": "EieQ3jwb5RTT9PNf",
+	"_key": "!items.effects!VG0rR7DWRU0LCvS7.EieQ3jwb5RTT9PNf",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 3,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/creatures/slimes/slime-movment-dripping-green.webp",
+	"name": "New Effect",
+	"origin": "Compendium.unnatural-selection.effects.Item.VG0rR7DWRU0LCvS7",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

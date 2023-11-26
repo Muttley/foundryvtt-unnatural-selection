@@ -1,0 +1,33 @@
+{
+	"_id": "Ngk78frfeZpIcjRz",
+	"_key": "!items!Ngk78frfeZpIcjRz",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Slimefolk",
+	"system": {
+		"description": "<p>Oddly-shaped humanoids made of congealed slime who have chosen to coexist with solids.</p><p></p><p>You know the Common and Primordial languages.</p><p></p><p><strong>Slime Form.</strong> Once per day, transform into a puddle of ooze for 3 rounds, allowing you to fit through tiny spaces. Movement is half near and equipment does not transform.</p>",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.shadowdark.languages.Item.ufwua5RXnJXlA0St"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.UK6ckYA1z4o1UOMO"
+		]
+	},
+	"type": "Ancestry"
+}

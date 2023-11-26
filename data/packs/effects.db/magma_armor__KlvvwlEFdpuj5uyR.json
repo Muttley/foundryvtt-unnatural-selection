@@ -1,0 +1,30 @@
+{
+	"_id": "KlvvwlEFdpuj5uyR",
+	"_key": "!items.effects!q5jxEJOBk5XYobNn.KlvvwlEFdpuj5uyR",
+	"changes": [
+		{
+			"key": "system.bonuses.acBonus",
+			"mode": 2,
+			"priority": null,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 5,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/defensive/shield-barrier-flaming-pentagon-red.webp",
+	"name": "Magma Armor",
+	"origin": null,
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

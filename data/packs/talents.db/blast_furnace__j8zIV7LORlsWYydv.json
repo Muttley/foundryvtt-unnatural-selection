@@ -1,0 +1,20 @@
+{
+	"_id": "j8zIV7LORlsWYydv",
+	"_key": "!items!j8zIV7LORlsWYydv",
+	"effects": [
+	],
+	"folder": "oJA5DELSDumCTQ6k",
+	"img": "icons/magic/fire/barrier-wall-explosion-orange.webp",
+	"name": "Blast Furnace",
+	"system": {
+		"description": "<p><strong>Blast Furnace.</strong> As an action, release your body’s heat. Any creatures in close range take [[/r 1d4]] of damage. Increase damage die category on duplicate.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

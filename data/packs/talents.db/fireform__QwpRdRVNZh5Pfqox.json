@@ -1,0 +1,20 @@
+{
+	"_id": "QwpRdRVNZh5Pfqox",
+	"_key": "!items!QwpRdRVNZh5Pfqox",
+	"effects": [
+	],
+	"folder": "oJA5DELSDumCTQ6k",
+	"img": "icons/magic/fire/flame-burning-eye.webp",
+	"name": "Fireform",
+	"system": {
+		"description": "<p>Fireform. As an action, transform yourself into flames for 3 rounds. Ranged and melee attacks do half damage. Creatures using natural weapons also take [[/r 1d4]] damage if they hit. Increase damage die category on dupe. Emits light at close.</p><p></p><p>@UUID[Compendium.unnatural-selection.effects.Item.rIxSg9KzDGxbfHJa]{Fireform}</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

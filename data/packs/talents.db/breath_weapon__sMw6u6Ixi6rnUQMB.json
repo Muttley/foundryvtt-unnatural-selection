@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "DTiC1phxrRCkvLUl",
-	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"img": "icons/creatures/reptiles/dragon-horned-blue.webp",
 	"name": "Breath Weapon",
 	"system": {
 		"description": "<p>1/day, unleash a breath weapon based on your draconic heritage via ranged attack, dealing [[/r 1d8]] damage to a near-sized cube in near range.</p>",

@@ -1,0 +1,33 @@
+{
+	"_id": "Mb6wCLrgIP0FmxoE",
+	"_key": "!items!Mb6wCLrgIP0FmxoE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Sylvaren",
+	"system": {
+		"description": "<p>Botanical beings with leaves, vines and/or berries growing from their humanoid forms.</p><p></p><p>You know the Common and Sylvan languages.</p><p></p><p><strong>Plant Medicine.</strong> Spend 1 hp to heal an ally by 1 hp if they eat a berry or leaf you produce.</p>",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.shadowdark.languages.Item.Lf6kATbC1uNPLnPi"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.m0kU3kGqa92ya0X6"
+		]
+	},
+	"type": "Ancestry"
+}

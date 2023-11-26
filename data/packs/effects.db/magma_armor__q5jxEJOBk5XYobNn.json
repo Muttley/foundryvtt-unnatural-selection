@@ -1,0 +1,45 @@
+{
+	"_id": "q5jxEJOBk5XYobNn",
+	"_key": "!items!q5jxEJOBk5XYobNn",
+	"effects": [
+		"KlvvwlEFdpuj5uyR"
+	],
+	"folder": null,
+	"img": "icons/magic/defensive/shield-barrier-flaming-pentagon-red.webp",
+	"name": "Magma Armor",
+	"system": {
+		"bonuses": {
+			"acBonus": "1"
+		},
+		"category": "effect",
+		"description": "",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"start": {
+			"combatTime": null,
+			"value": 16
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

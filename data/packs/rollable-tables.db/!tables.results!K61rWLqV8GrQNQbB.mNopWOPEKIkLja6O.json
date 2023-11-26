@@ -1,0 +1,15 @@
+{
+	"_id": "mNopWOPEKIkLja6O",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.mNopWOPEKIkLja6O",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "QwpRdRVNZh5Pfqox",
+	"drawn": false,
+	"img": "icons/magic/fire/flame-burning-eye.webp",
+	"range": [
+		8,
+		8
+	],
+	"text": "Fireform",
+	"type": 2,
+	"weight": 1
+}

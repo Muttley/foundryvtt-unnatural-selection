@@ -1,0 +1,15 @@
+{
+	"_id": "r0Ezey5BQSaXD60Q",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.r0Ezey5BQSaXD60Q",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "nLNqm4U2nOIXWTOw",
+	"drawn": false,
+	"img": "icons/magic/fire/flame-burning-creature-skeleton.webp",
+	"range": [
+		2,
+		2
+	],
+	"text": "Flaming Impact",
+	"type": 2,
+	"weight": 1
+}

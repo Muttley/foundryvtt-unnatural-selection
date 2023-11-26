@@ -1,0 +1,15 @@
+{
+	"_id": "xo8hGtNomSETIJxg",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.xo8hGtNomSETIJxg",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "MLDwoj8oXmVYd39e",
+	"drawn": false,
+	"img": "icons/magic/fire/projectile-flaming-eyeball-red.webp",
+	"range": [
+		11,
+		11
+	],
+	"text": "Flarephobia",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,29 @@
+{
+	"_id": "6xlRvObZTHmnyVjQ",
+	"_key": "!items.effects!RUveINvKYafMtGGm.6xlRvObZTHmnyVjQ",
+	"changes": [
+		{
+			"key": "system.bonuses.weaponDamageExtraDieImprovementByProperty",
+			"mode": 2,
+			"value": "firebond-weapon"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/fire/dagger-rune-enchant-flame-strong-red.webp",
+	"name": "Extra Damage Die Improvement by Property",
+	"origin": null,
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

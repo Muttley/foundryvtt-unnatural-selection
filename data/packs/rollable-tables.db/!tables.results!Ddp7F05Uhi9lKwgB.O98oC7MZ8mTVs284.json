@@ -1,15 +1,15 @@
 {
-	"_id": "lMXBGIvuuD4mCTKK",
-	"_key": "!tables.results!Ddp7F05Uhi9lKwgB.lMXBGIvuuD4mCTKK",
+	"_id": "O98oC7MZ8mTVs284",
+	"_key": "!tables.results!Ddp7F05Uhi9lKwgB.O98oC7MZ8mTVs284",
 	"documentCollection": "shadowdark.talents",
-	"documentId": "vIbwotCa1eqCVZMU",
+	"documentId": "ZfaFn8TDum3NXYZN",
 	"drawn": false,
 	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
 	"range": [
 		7,
 		9
 	],
-	"text": "+2 to Dexterity",
+	"text": "+2 to Constitution",
 	"type": 2,
 	"weight": 1
 }

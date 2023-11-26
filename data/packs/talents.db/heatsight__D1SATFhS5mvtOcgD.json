@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "DTiC1phxrRCkvLUl",
-	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"img": "icons/magic/perception/eye-ringed-glow-angry-small-red.webp",
 	"name": "Heatsight",
 	"system": {
 		"description": "<p>1/day you can see the heat signatures of living creatures for 3 rounds.</p><p>@UUID[Compendium.unnatural-selection.effects.Item.CfGql0PgxaCa4EOU]{Heatsight}</p>",

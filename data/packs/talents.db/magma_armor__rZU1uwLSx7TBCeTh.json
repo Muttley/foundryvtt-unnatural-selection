@@ -1,0 +1,20 @@
+{
+	"_id": "rZU1uwLSx7TBCeTh",
+	"_key": "!items!rZU1uwLSx7TBCeTh",
+	"effects": [
+	],
+	"folder": "oJA5DELSDumCTQ6k",
+	"img": "icons/magic/defensive/shield-barrier-flaming-pentagon-red.webp",
+	"name": "Magma Armor",
+	"system": {
+		"description": "<p><strong>Magma Armor.</strong> As an action, activate for 5 rounds, adding +1 to AC. Add +1 to AC on duplicate.</p><p></p><p>@UUID[Compendium.unnatural-selection.effects.Item.q5jxEJOBk5XYobNn]{Magma Armor}</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

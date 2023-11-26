@@ -1,0 +1,15 @@
+{
+	"_id": "No12TOTZ9flAL8lH",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.No12TOTZ9flAL8lH",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "Lh19TlgvndrkUUs6",
+	"drawn": false,
+	"img": "icons/magic/fire/flame-burning-fist-strike.webp",
+	"range": [
+		9,
+		9
+	],
+	"text": "Hot Hands",
+	"type": 2,
+	"weight": 1
+}

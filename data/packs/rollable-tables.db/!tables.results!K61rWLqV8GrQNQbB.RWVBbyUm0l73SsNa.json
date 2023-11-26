@@ -1,0 +1,15 @@
+{
+	"_id": "RWVBbyUm0l73SsNa",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.RWVBbyUm0l73SsNa",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "j8zIV7LORlsWYydv",
+	"drawn": false,
+	"img": "icons/magic/fire/barrier-wall-explosion-orange.webp",
+	"range": [
+		6,
+		6
+	],
+	"text": "Blast Furnace",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,33 @@
+{
+	"_id": "41bla9wBE3yKsLLE",
+	"_key": "!items!41bla9wBE3yKsLLE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/environment/people/group.webp",
+	"name": "Skurrid",
+	"system": {
+		"description": "<p>Furry ratfolk, as tall as elves, famed for their role in citywide subterranean vermin networks.</p><p></p><p>You know the Common and Skurrid languages.</p><p></p><p><strong>Vibrating Whiskers.</strong> If you focus, you sense living beings behind closed doors and darkness (near).</p>",
+		"languages": {
+			"common": 0,
+			"fixed": [
+				"Compendium.shadowdark.languages.Item.DQzHvoMWSZ0eiRWP",
+				"Compendium.unnatural-selection.languages.Item.3PW6d6jxhD4VOQZV"
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentChoiceCount": 1,
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.U9c1gortqRuTcbvB"
+		]
+	},
+	"type": "Ancestry"
+}

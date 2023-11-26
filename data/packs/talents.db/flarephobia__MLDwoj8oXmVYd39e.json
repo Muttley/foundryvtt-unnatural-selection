@@ -1,0 +1,20 @@
+{
+	"_id": "MLDwoj8oXmVYd39e",
+	"_key": "!items!MLDwoj8oXmVYd39e",
+	"effects": [
+	],
+	"folder": "oJA5DELSDumCTQ6k",
+	"img": "icons/magic/fire/projectile-flaming-eyeball-red.webp",
+	"name": "Flarephobia",
+	"system": {
+		"description": "<p><strong>Flarephobia.</strong> Creatures hit by a Firebond weapon must make a morale check at DC 9. Increase DC by one step on duplicate.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

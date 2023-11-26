@@ -1,0 +1,19 @@
+{
+	"_id": "HrHzXSE6GV2YpeU0",
+	"_key": "!items!HrHzXSE6GV2YpeU0",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+	"name": "Firebond Weapon",
+	"system": {
+		"description": "<p>Used by the @UUID[Compendium.unnatural-selection.classes.Item.r6OGDRwgEWYfnaf9]{Fiend} class.</p>",
+		"itemType": "weapon",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Property"
+}

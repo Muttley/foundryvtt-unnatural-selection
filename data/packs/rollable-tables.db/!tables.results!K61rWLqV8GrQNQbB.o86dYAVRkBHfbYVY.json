@@ -1,0 +1,15 @@
+{
+	"_id": "o86dYAVRkBHfbYVY",
+	"_key": "!tables.results!K61rWLqV8GrQNQbB.o86dYAVRkBHfbYVY",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "rZU1uwLSx7TBCeTh",
+	"drawn": false,
+	"img": "icons/magic/defensive/shield-barrier-flaming-pentagon-red.webp",
+	"range": [
+		5,
+		5
+	],
+	"text": "Magma Armor",
+	"type": 2,
+	"weight": 1
+}

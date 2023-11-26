@@ -1,0 +1,20 @@
+{
+	"_id": "bCQ6hjycrxTv19IC",
+	"_key": "!items!bCQ6hjycrxTv19IC",
+	"effects": [
+	],
+	"folder": "oJA5DELSDumCTQ6k",
+	"img": "icons/magic/fire/projectile-arrow-fire-red-yellow.webp",
+	"name": "Flaming Frenzy",
+	"system": {
+		"description": "<p><strong>Flaming Frenzy.</strong> As an action, activate to gain 3 attacks on your next turn. Gain one more attack on duplicate.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

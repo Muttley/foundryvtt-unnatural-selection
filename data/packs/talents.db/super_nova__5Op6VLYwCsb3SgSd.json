@@ -1,0 +1,20 @@
+{
+	"_id": "5Op6VLYwCsb3SgSd",
+	"_key": "!items!5Op6VLYwCsb3SgSd",
+	"effects": [
+	],
+	"folder": "oJA5DELSDumCTQ6k",
+	"img": "icons/magic/fire/explosion-mushroom-nuke-orange.webp",
+	"name": "Super Nova",
+	"system": {
+		"description": "<p>Super Nova. Detonate yourself as a superheated explosion in a near radius around you, dealing [[/r 5d12]] damage to all creatures. Any objects and all of your possessions are destroyed. You are reduced to 0 hit points and lose 1 CON permanently.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

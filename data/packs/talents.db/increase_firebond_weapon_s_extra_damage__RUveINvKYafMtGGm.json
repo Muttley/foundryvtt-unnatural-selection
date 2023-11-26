@@ -2,11 +2,15 @@
 	"_id": "RUveINvKYafMtGGm",
 	"_key": "!items!RUveINvKYafMtGGm",
 	"effects": [
+		"6xlRvObZTHmnyVjQ"
 	],
-	"folder": "4NqkKssttTXPngor",
-	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"folder": "oJA5DELSDumCTQ6k",
+	"img": "icons/magic/fire/dagger-rune-enchant-flame-strong-red.webp",
 	"name": "Increase Firebond Weapon's Extra Damage",
 	"system": {
+		"bonuses": {
+			"weaponDamageExtraDieImprovementByProperty": "firebond-weapon"
+		},
 		"description": "<p>Increase die category of Firebond Weapon’s extra damage.</p>",
 		"level": 0,
 		"predefinedEffects": "",
