@@ -199,5 +199,12 @@
 				}
 			]
 		}
-	]
+	],
+	"flags": {
+		"shadowdark": {
+			"sources": {
+				"unnnatural-selection": "Unnatural Selection"
+			}
+		}
+	}
 }

@@ -2,6 +2,7 @@
 	"type": "module",
 	"scripts": {
 		"build": "gulp build",
+		"build:watch": "echo \"Ready...\"",
 		"clean": "gulp clean"
 	},
 	"devDependencies": {
