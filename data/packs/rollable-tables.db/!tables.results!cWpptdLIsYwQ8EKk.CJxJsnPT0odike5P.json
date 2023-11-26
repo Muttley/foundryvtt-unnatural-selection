@@ -1,0 +1,15 @@
+{
+	"_id": "CJxJsnPT0odike5P",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.CJxJsnPT0odike5P",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": "8PdpDZV6HLGPHoyO",
+	"drawn": false,
+	"img": "icons/commodities/metal/ingot-hammered-silver.webp",
+	"range": [
+		10,
+		10
+	],
+	"text": "Silver Susceptibility!",
+	"type": 2,
+	"weight": 1
+}

@@ -1,13 +1,13 @@
 {
-	"_id": "HrHzXSE6GV2YpeU0",
-	"_key": "!items!HrHzXSE6GV2YpeU0",
+	"_id": "q8MUS4tizWbm8jlZ",
+	"_key": "!items!q8MUS4tizWbm8jlZ",
 	"effects": [
 	],
 	"folder": null,
 	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
-	"name": "Firebond Weapon",
+	"name": "Injectable",
 	"system": {
-		"description": "<p>Used by the Fiend class.</p>",
+		"description": "<p>You can forgo moving to apply a poison or elixer to this weapon and inject a target with a successful hit.</p>",
 		"itemType": "weapon",
 		"predefinedEffects": "",
 		"source": {

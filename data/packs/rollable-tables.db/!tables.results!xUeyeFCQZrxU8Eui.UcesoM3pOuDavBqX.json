@@ -1,0 +1,15 @@
+{
+	"_id": "UcesoM3pOuDavBqX",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.UcesoM3pOuDavBqX",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": "UIBolmpyrN6yGeOa",
+	"drawn": false,
+	"img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+	"range": [
+		6,
+		6
+	],
+	"text": "Shrouded!",
+	"type": 2,
+	"weight": 1
+}

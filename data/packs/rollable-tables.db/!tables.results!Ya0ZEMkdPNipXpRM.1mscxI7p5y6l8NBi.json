@@ -1,0 +1,15 @@
+{
+	"_id": "1mscxI7p5y6l8NBi",
+	"_key": "!tables.results!Ya0ZEMkdPNipXpRM.1mscxI7p5y6l8NBi",
+	"documentCollection": "shadowdark.talents",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		12,
+		12
+	],
+	"text": "Choose a talent or +2 points to distribute to stats.",
+	"type": 0,
+	"weight": 1
+}

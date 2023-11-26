@@ -1,0 +1,15 @@
+{
+	"_id": "oTZqDkrXWQliwAAr",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.oTZqDkrXWQliwAAr",
+	"documentCollection": "unnatural-selection.rollable-tables",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		4,
+		4
+	],
+	"text": "<b>Grasping Hands!</b> Invisible spectral hands immobilize you for 3 rounds, disabling your spells and weapons.",
+	"type": 0,
+	"weight": 1
+}

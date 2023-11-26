@@ -1,0 +1,15 @@
+{
+	"_id": "JB2SDSKLkSQMjFz4",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.JB2SDSKLkSQMjFz4",
+	"documentCollection": "unnatural-selection.rollable-tables",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		6,
+		6
+	],
+	"text": "<b>Shrouded!</b> Darkness overwhelms you as all light is suppressed within a near distance for 10 rounds.",
+	"type": 0,
+	"weight": 1
+}

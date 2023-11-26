@@ -1,0 +1,15 @@
+{
+	"_id": "OyzkRnTxFqBRJPEF",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.OyzkRnTxFqBRJPEF",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		10,
+		10
+	],
+	"text": "<b>Silver Susceptibility!</b> Contact with silver inflicts [[/r 1d4]] damage, and silver weapons have advantage when determining damage against you, permanently.",
+	"type": 0,
+	"weight": 1
+}

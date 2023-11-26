@@ -1,0 +1,14 @@
+{
+	"_id": "jPOaVHmlhIioKUQZ",
+	"_key": "!tables.results!Ya0ZEMkdPNipXpRM.jPOaVHmlhIioKUQZ",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		2,
+		2
+	],
+	"text": "Claim Undead gains one DC step for undead resistance.",
+	"type": 0,
+	"weight": 1
+}

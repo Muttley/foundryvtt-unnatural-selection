@@ -1,0 +1,15 @@
+{
+	"_id": "PEItwSYYxZvW7Gfz",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.PEItwSYYxZvW7Gfz",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": "CS5g7xQZMcKUXbZi",
+	"drawn": false,
+	"img": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
+	"range": [
+		3,
+		3
+	],
+	"text": "Possession!",
+	"type": 2,
+	"weight": 1
+}

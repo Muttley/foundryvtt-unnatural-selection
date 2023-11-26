@@ -1,0 +1,15 @@
+{
+	"_id": "9Hc0Zbbyxp2by1Iy",
+	"_key": "!tables.results!Ya0ZEMkdPNipXpRM.9Hc0Zbbyxp2by1Iy",
+	"documentCollection": "shadowdark.talents",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		10,
+		11
+	],
+	"text": "Increase the bonus to cast any touch spell with Necrotic Reap by +2.",
+	"type": 0,
+	"weight": 1
+}

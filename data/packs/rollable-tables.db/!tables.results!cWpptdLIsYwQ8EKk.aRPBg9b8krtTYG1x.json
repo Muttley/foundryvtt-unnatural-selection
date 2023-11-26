@@ -1,0 +1,15 @@
+{
+	"_id": "aRPBg9b8krtTYG1x",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.aRPBg9b8krtTYG1x",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		9,
+		9
+	],
+	"text": "<b>Blood Rain!</b> All within near to you take [[/r 3d6]] damage. Any who die rise as zombies hungry for your flesh.",
+	"type": 0,
+	"weight": 1
+}

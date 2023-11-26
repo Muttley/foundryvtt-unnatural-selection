@@ -1,0 +1,14 @@
+{
+	"_id": "7ZI4w1GOyj75kG1D",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.7ZI4w1GOyj75kG1D",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		1,
+		1
+	],
+	"text": "<b>Perdition!</b> Roll twice and combine both effects.",
+	"type": 0,
+	"weight": 1
+}

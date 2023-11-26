@@ -1,0 +1,15 @@
+{
+	"_id": "smowFse1URqylHXQ",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.smowFse1URqylHXQ",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		5,
+		5
+	],
+	"text": "<b>Exhausted!</b> You suffer from fatigue, giving you disadvantage on all attacks and checks for 3 rounds.",
+	"type": 0,
+	"weight": 1
+}

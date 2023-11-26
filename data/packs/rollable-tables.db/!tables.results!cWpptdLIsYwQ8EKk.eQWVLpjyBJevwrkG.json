@@ -1,0 +1,15 @@
+{
+	"_id": "eQWVLpjyBJevwrkG",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.eQWVLpjyBJevwrkG",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		12,
+		12
+	],
+	"text": "<b>Lich!</b> A high-powered Lich knows who you are and is driven by a relentless vendetta to destroy you.",
+	"type": 0,
+	"weight": 1
+}

@@ -1,0 +1,91 @@
+{
+	"_id": "H49iA883JOyMYJFl",
+	"_key": "!items!H49iA883JOyMYJFl",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Grave Warden",
+	"system": {
+		"allArmor": false,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+			"Compendium.shadowdark.gear.Item.EoTEHXApVDS7rHfw"
+		],
+		"classTalentTable": "Compendium.unnatural-selection.rollable-tables.RollTable.Ya0ZEMkdPNipXpRM",
+		"description": "<p>Reverent undertakers, eager bone-setters, or cold-hearted executioners who weild the power of the undead to do their bidding.</p><p></p><p><strong>Weapons:</strong> Dagger, Scythe</p><p></p><p><strong>Armor:</strong> Leather armor</p><p></p><p><strong>Hit Points:</strong> 1d4 per level</p><p></p><p><strong>Languages.</strong> You know one rare language.</p><p></p><p><strong>Necrotic Reap.</strong> You can touch a target with a scythe (but not attack) to cast touch spells. Gain a +1 spellcasting bonus.</p><p></p><p><strong>Claim Undead.</strong> 1/Day you can seize control of any number of undead not controlled by you. Their total LV cannot exceed your own. Undead make a DC 12 CON check to resist.</p><p></p><p><strong>Spellcasting.</strong> You can cast grave warden spells you know.</p><p></p><p>You may choose three tier 1 spells from the grave warden spell list.</p><p></p><p>Each time you gain a level, you choose new grave warden spells to learn based on the @UUID[Compendium.unnatural-selection.documents.JournalEntry.4G9LZfiREUuQViCf.JournalEntryPage.ph9oSzLsMhZI6kjB]{Grave Warden Spells Known} table.</p><p></p><p>Add your constitution bonus when casting grave warden spells. The DC is 10 + the spell’s tier.</p><p></p><p>If you fail a spellcasting check, you can’t cast that spell again until you complete a rest.</p><p></p><p>If you roll a natural 1 on a spellcasting check, you must also roll on the corresponding Necrotic Mishap table for the spell’s tier.</p><p></p><p>@UUID[Compendium.unnatural-selection.rollable-tables.RollTable.xUeyeFCQZrxU8Eui]{Grave Warden Mishaps 1-3}</p><p>@UUID[Compendium.unnatural-selection.rollable-tables.RollTable.cWpptdLIsYwQ8EKk]{Grave Warden Mishaps 4-5}</p>",
+		"hitPoints": "1d4",
+		"language": {
+			"select": null
+		},
+		"languages": {
+			"common": 0,
+			"fixed": [
+			],
+			"rare": 1,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"spellcasting": {
+			"ability": "con",
+			"class": ""
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.q8CcomGiYEYB6c69",
+			"Compendium.unnatural-selection.talents.Item.sedjLKwKFvffbpiZ"
+		],
+		"titles": [
+			{
+				"chaotic": "Aspirant",
+				"from": 1,
+				"lawful": "Disciple",
+				"neutral": "Neophyte",
+				"to": 2
+			},
+			{
+				"chaotic": "Postulant",
+				"from": 3,
+				"lawful": "Adherent",
+				"neutral": "Reanimator",
+				"to": 4
+			},
+			{
+				"chaotic": "Revenant",
+				"from": 5,
+				"lawful": "Devotee",
+				"neutral": "Soulkeeper",
+				"to": 6
+			},
+			{
+				"chaotic": "Necromancer",
+				"from": 7,
+				"lawful": "Archon",
+				"neutral": "Dominator",
+				"to": 8
+			},
+			{
+				"chaotic": "Underlord",
+				"from": 9,
+				"lawful": "Paragon of Crossing",
+				"neutral": "Afterlife Sovereign",
+				"to": 10
+			}
+		],
+		"weapons": [
+			"Compendium.shadowdark.gear.Item.C3mc5OlKPSJNMrng",
+			"Compendium.unnatural-selection.gear.Item.rOSWdB35mZL3W9OB"
+		]
+	},
+	"type": "Class"
+}

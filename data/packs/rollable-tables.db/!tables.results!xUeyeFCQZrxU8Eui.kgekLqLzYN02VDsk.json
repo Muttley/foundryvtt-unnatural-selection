@@ -1,0 +1,14 @@
+{
+	"_id": "kgekLqLzYN02VDsk",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.kgekLqLzYN02VDsk",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		2,
+		2
+	],
+	"text": "<b>Essence Rupture!</b> Your soul starts to leave your body, causing [[1d8]] damage.",
+	"type": 0,
+	"weight": 1
+}

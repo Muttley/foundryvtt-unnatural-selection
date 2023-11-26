@@ -1,0 +1,15 @@
+{
+	"_id": "7MXIEadwyFybfoqC",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.7MXIEadwyFybfoqC",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		10,
+		10
+	],
+	"text": "<b>Unintended Gift!</b> Randomly, an item from your inventory vanishes and reappears in the hands of your nearest enemy, regardless of their distance",
+	"type": 0,
+	"weight": 1
+}

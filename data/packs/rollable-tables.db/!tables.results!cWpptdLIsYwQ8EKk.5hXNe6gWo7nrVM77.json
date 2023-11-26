@@ -1,0 +1,15 @@
+{
+	"_id": "5hXNe6gWo7nrVM77",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.5hXNe6gWo7nrVM77",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		7,
+		7
+	],
+	"text": "<b>Feed the Monsters!</b> You and your near allies each take [[/r 1d4]] damage. The total is transferred as healing to near enemies.",
+	"type": 0,
+	"weight": 1
+}

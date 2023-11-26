@@ -1,0 +1,14 @@
+{
+	"_id": "W13F1WWLKD5vuplR",
+	"_key": "!tables.results!xG4NOJh5VcPkSVSs.W13F1WWLKD5vuplR",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		3,
+		3
+	],
+	"text": "Hands",
+	"type": 0,
+	"weight": 1
+}

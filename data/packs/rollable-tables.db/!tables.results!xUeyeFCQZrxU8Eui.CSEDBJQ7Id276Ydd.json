@@ -1,0 +1,15 @@
+{
+	"_id": "CSEDBJQ7Id276Ydd",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.CSEDBJQ7Id276Ydd",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": "1T2bLOetJdyIMDNg",
+	"drawn": false,
+	"img": "icons/magic/unholy/strike-hand-glow-pink.webp",
+	"range": [
+		4,
+		4
+	],
+	"text": "Grasping Hands!",
+	"type": 2,
+	"weight": 1
+}

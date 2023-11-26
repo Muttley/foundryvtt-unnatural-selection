@@ -1,0 +1,42 @@
+{
+	"_id": "kqtClJtZys2UEKkU",
+	"_key": "!items!kqtClJtZys2UEKkU",
+	"effects": [
+		"4brQW56f4SEme5NG"
+	],
+	"folder": null,
+	"img": "icons/consumables/meat/hock-bones-skin-red.webp",
+	"name": "Hunger!",
+	"system": {
+		"category": "effect",
+		"description": "<p>You crave humanoid flesh. All attacks and checks are at disadvantage for 2 days or until you consume 2 pounds of humanoid flesh.</p>",
+		"duration": {
+			"type": "days",
+			"value": "2"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"start": {
+			"combatTime": "1.0",
+			"value": 16
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

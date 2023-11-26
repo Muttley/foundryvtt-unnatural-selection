@@ -1,0 +1,15 @@
+{
+	"_id": "ySDFfMkdtWfxfzPU",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.ySDFfMkdtWfxfzPU",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": "YYWYbwxBwwP6mjau",
+	"drawn": false,
+	"img": "icons/magic/time/day-night-sunset-sunrise.webp",
+	"range": [
+		5,
+		5
+	],
+	"text": "Exhausted!",
+	"type": 2,
+	"weight": 1
+}

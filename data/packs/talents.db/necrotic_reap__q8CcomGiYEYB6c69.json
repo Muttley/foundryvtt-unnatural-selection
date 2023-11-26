@@ -1,0 +1,20 @@
+{
+	"_id": "q8CcomGiYEYB6c69",
+	"_key": "!items!q8CcomGiYEYB6c69",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/weapons/sickles/scythe-bone-green-fire.webp",
+	"name": "Necrotic Reap",
+	"system": {
+		"description": "<p>You can touch a target with a scythe (but not attack) to cast touch spells. Gain a +1 spellcasting bonus.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

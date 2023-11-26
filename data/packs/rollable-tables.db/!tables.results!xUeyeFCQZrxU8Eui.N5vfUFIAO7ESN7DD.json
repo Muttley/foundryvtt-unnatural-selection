@@ -1,0 +1,14 @@
+{
+	"_id": "N5vfUFIAO7ESN7DD",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.N5vfUFIAO7ESN7DD",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		3,
+		3
+	],
+	"text": "<b>Flesh Rot!</b> While remaining fully functional, the skin and muscle permanently melts off your",
+	"type": 0,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "GVfIaUjFOHDFlT5K",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.GVfIaUjFOHDFlT5K",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		11,
+		11
+	],
+	"text": "<b>Finger Mold!</b> One of your fingers must be amputated.",
+	"type": 0,
+	"weight": 1
+}

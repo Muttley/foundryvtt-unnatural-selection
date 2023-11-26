@@ -1,0 +1,24 @@
+{
+	"_id": "OVoijDSn1wPXJvUM",
+	"_key": "!items.effects!YYWYbwxBwwP6mjau.OVoijDSn1wPXJvUM",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 3,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/time/day-night-sunset-sunrise.webp",
+	"name": "Exhausted!",
+	"origin": "Compendium.unnatural-selection.effects.Item.YYWYbwxBwwP6mjau",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

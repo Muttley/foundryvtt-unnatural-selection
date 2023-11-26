@@ -1,0 +1,15 @@
+{
+	"_id": "oORBU9K0AVzn3vTI",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.oORBU9K0AVzn3vTI",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": "rQyPjCIvoAz1SSSF",
+	"drawn": false,
+	"img": "icons/skills/wounds/injury-face-impact-orange.webp",
+	"range": [
+		8,
+		8
+	],
+	"text": "Cannot be Unseen!",
+	"type": 2,
+	"weight": 1
+}

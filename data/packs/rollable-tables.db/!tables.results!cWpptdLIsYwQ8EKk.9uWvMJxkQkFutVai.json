@@ -1,0 +1,15 @@
+{
+	"_id": "9uWvMJxkQkFutVai",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.9uWvMJxkQkFutVai",
+	"documentCollection": "unnatural-selection.rollable-tables",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		2,
+		2
+	],
+	"text": "<b>Gangrene!</b> You take [[/r 1d8]] damage per spell tier.",
+	"type": 0,
+	"weight": 1
+}

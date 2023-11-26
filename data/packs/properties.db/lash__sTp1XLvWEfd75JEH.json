@@ -1,13 +1,13 @@
 {
-	"_id": "HrHzXSE6GV2YpeU0",
-	"_key": "!items!HrHzXSE6GV2YpeU0",
+	"_id": "sTp1XLvWEfd75JEH",
+	"_key": "!items!sTp1XLvWEfd75JEH",
 	"effects": [
 	],
 	"folder": null,
 	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
-	"name": "Firebond Weapon",
+	"name": "Lash",
 	"system": {
-		"description": "<p>Used by the Fiend class.</p>",
+		"description": "<p>You can make a ranged attack without the weapon leaving your hand.</p>",
 		"itemType": "weapon",
 		"predefinedEffects": "",
 		"source": {

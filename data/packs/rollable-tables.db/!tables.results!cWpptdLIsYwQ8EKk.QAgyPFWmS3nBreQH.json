@@ -1,0 +1,15 @@
+{
+	"_id": "QAgyPFWmS3nBreQH",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.QAgyPFWmS3nBreQH",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		8,
+		8
+	],
+	"text": "<b>Rotting Throat!</b> Your throat rots away, rendering you unable to speak or cast spells until you rest. You heal, but you now have a permanent scar.",
+	"type": 0,
+	"weight": 1
+}

@@ -1,13 +1,13 @@
 {
-	"_id": "HrHzXSE6GV2YpeU0",
-	"_key": "!items!HrHzXSE6GV2YpeU0",
+	"_id": "ICfgB3tSAEk5EeNc",
+	"_key": "!items!ICfgB3tSAEk5EeNc",
 	"effects": [
 	],
 	"folder": null,
 	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
-	"name": "Firebond Weapon",
+	"name": "Gas",
 	"system": {
-		"description": "<p>Used by the Fiend class.</p>",
+		"description": "<p>Cause the center of your Inhaled Plague Doctor elixir to originate a near distance away.</p>",
 		"itemType": "weapon",
 		"predefinedEffects": "",
 		"source": {

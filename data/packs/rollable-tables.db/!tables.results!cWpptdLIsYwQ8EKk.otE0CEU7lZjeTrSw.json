@@ -1,0 +1,15 @@
+{
+	"_id": "otE0CEU7lZjeTrSw",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.otE0CEU7lZjeTrSw",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		6,
+		6
+	],
+	"text": "<b>Hunger!</b> You crave humanoid flesh. All attacks and checks are at disadvantage for 2 days or until you consume 2 pounds of humanoid flesh.",
+	"type": 0,
+	"weight": 1
+}

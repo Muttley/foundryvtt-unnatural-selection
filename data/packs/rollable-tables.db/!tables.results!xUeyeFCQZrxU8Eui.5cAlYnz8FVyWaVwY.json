@@ -1,0 +1,15 @@
+{
+	"_id": "5cAlYnz8FVyWaVwY",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.5cAlYnz8FVyWaVwY",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		12,
+		12
+	],
+	"text": "<b>Mind Decay!</b> You permanently forget one random spell.",
+	"type": 0,
+	"weight": 1
+}

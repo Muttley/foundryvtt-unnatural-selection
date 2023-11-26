@@ -1,0 +1,15 @@
+{
+	"_id": "vwmEJ2iaBhahovHQ",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.vwmEJ2iaBhahovHQ",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		11,
+		11
+	],
+	"text": "<b>Black Vortex!</b> A portal opens, absorbing nearby magic for 3 rounds, including your own spells.",
+	"type": 0,
+	"weight": 1
+}

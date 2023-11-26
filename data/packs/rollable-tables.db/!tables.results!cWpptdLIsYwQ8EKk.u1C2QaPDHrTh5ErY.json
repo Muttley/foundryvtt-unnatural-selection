@@ -1,0 +1,15 @@
+{
+	"_id": "u1C2QaPDHrTh5ErY",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.u1C2QaPDHrTh5ErY",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		5,
+		5
+	],
+	"text": "<b>Waves of Exhaustion!</b> You and all within near radius of you suffer from fatigue, causing disadvantage on all attacks and checks for 3 rounds.",
+	"type": 0,
+	"weight": 1
+}

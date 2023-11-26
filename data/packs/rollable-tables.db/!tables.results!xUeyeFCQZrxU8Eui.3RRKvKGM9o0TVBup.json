@@ -1,0 +1,15 @@
+{
+	"_id": "3RRKvKGM9o0TVBup",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.3RRKvKGM9o0TVBup",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		9,
+		9
+	],
+	"text": "<b>Wight!</b> You summon a @UUID[Compendium.shadowdark.monsters.Actor.ZCbay6SPPzbbz2bJ]{Wight} that attacks you and your allies for 5 rounds before disappearing.",
+	"type": 0,
+	"weight": 1
+}

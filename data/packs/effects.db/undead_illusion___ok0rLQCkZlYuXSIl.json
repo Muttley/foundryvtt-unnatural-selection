@@ -1,0 +1,24 @@
+{
+	"_id": "ok0rLQCkZlYuXSIl",
+	"_key": "!items.effects!CQh2NzIrUEaVTepO.ok0rLQCkZlYuXSIl",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 3,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/death/undead-zombie-grave-green.webp",
+	"name": "Undead Illusion!",
+	"origin": "Compendium.unnatural-selection.effects.Item.CQh2NzIrUEaVTepO",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

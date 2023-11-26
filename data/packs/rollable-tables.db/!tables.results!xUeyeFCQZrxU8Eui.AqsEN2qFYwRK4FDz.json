@@ -1,0 +1,15 @@
+{
+	"_id": "AqsEN2qFYwRK4FDz",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.AqsEN2qFYwRK4FDz",
+	"documentCollection": "unnatural-selection.rollable-tables",
+	"documentId": "xUeyeFCQZrxU8Eui",
+	"drawn": false,
+	"img": "icons/svg/d20-grey.svg",
+	"range": [
+		1,
+		1
+	],
+	"text": "Grave Warden Mishaps 1-3",
+	"type": 2,
+	"weight": 1
+}

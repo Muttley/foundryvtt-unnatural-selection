@@ -1,0 +1,15 @@
+{
+	"_id": "zWS55fH7DkRhbKAV",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.zWS55fH7DkRhbKAV",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		8,
+		8
+	],
+	"text": "<b>Cannot be Unseen!</b> You scream uncontrollably for 3 rounds, instilling fear to all in near radius. They must make a DC 12 CON check or flee for the duration.",
+	"type": 0,
+	"weight": 1
+}

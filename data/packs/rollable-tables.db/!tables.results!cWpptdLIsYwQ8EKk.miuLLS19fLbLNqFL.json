@@ -1,0 +1,15 @@
+{
+	"_id": "miuLLS19fLbLNqFL",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.miuLLS19fLbLNqFL",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		4,
+		4
+	],
+	"text": "<b>Undead Illusion!</b> You appear to die and rise again as a zombie for 3 rounds; even your speech sounds like moaning. Your allies react accordingly.",
+	"type": 0,
+	"weight": 1
+}

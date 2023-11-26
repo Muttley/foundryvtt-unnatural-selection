@@ -1,0 +1,24 @@
+{
+	"_id": "gi9mNTt6Mz5gnRyg",
+	"_key": "!items.effects!VLjLtZxII53L71EY.gi9mNTt6Mz5gnRyg",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 3,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/unholy/orb-glowing-purple.webp",
+	"name": "Black Vortex!",
+	"origin": "Compendium.unnatural-selection.effects.Item.VLjLtZxII53L71EY",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

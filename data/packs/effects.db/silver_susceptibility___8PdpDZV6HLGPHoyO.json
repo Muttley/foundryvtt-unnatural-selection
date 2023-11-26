@@ -1,0 +1,42 @@
+{
+	"_id": "8PdpDZV6HLGPHoyO",
+	"_key": "!items!8PdpDZV6HLGPHoyO",
+	"effects": [
+		"Cjy6MBIT9Xhwqhni"
+	],
+	"folder": null,
+	"img": "icons/commodities/metal/ingot-hammered-silver.webp",
+	"name": "Silver Susceptibility!",
+	"system": {
+		"category": "effect",
+		"description": "<p>Contact with silver inflicts [[/r 1d4]] damage, and silver weapons have advantage when determining damage against you, permanently.</p>",
+		"duration": {
+			"type": "permanent",
+			"value": -1
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"start": {
+			"combatTime": "16.0",
+			"value": 18
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

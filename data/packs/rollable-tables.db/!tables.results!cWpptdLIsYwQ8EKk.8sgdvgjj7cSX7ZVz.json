@@ -1,0 +1,15 @@
+{
+	"_id": "8sgdvgjj7cSX7ZVz",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.8sgdvgjj7cSX7ZVz",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": "kqtClJtZys2UEKkU",
+	"drawn": false,
+	"img": "icons/consumables/meat/hock-bones-skin-red.webp",
+	"range": [
+		6,
+		6
+	],
+	"text": "Hunger!",
+	"type": 2,
+	"weight": 1
+}

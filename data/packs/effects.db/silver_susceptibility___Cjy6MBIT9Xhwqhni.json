@@ -1,0 +1,24 @@
+{
+	"_id": "Cjy6MBIT9Xhwqhni",
+	"_key": "!items.effects!8PdpDZV6HLGPHoyO.Cjy6MBIT9Xhwqhni",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/commodities/metal/ingot-hammered-silver.webp",
+	"name": "Silver Susceptibility!",
+	"origin": "Compendium.unnatural-selection.effects.Item.8PdpDZV6HLGPHoyO",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

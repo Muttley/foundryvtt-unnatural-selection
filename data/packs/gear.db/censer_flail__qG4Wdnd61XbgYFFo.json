@@ -1,0 +1,59 @@
+{
+	"_id": "qG4Wdnd61XbgYFFo",
+	"_key": "!items!qG4Wdnd61XbgYFFo",
+	"effects": [
+	],
+	"folder": "Axu4JlQeyQDLTgOT",
+	"img": "icons/weapons/maces/flail-cube-grey.webp",
+	"name": "Censer Flail",
+	"system": {
+		"baseWeapon": "",
+		"bonuses": {
+			"attackBonus": 0,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0,
+			"damageMultiplier": 1
+		},
+		"broken": false,
+		"canBeEquipped": true,
+		"cost": {
+			"cp": 0,
+			"gp": 20,
+			"sp": 0
+		},
+		"damage": {
+			"numDice": 1,
+			"oneHanded": "d8",
+			"twoHanded": ""
+		},
+		"description": "",
+		"equipped": false,
+		"isPhysical": true,
+		"magicItem": false,
+		"predefinedEffects": "",
+		"properties": [
+			"Compendium.shadowdark.properties.Item.rqQwpoeWEqi0ZcYK",
+			"Compendium.unnatural-selection.properties.Item.ICfgB3tSAEk5EeNc",
+			"Compendium.unnatural-selection.properties.Item.sTp1XLvWEfd75JEH"
+		],
+		"quantity": 1,
+		"range": "near",
+		"slots": {
+			"free_carry": 0,
+			"per_slot": 1,
+			"slots_used": 1
+		},
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"stashed": false,
+		"type": "ranged",
+		"weaponMastery": false
+	},
+	"type": "Weapon"
+}

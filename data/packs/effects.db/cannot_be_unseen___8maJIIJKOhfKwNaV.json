@@ -1,0 +1,24 @@
+{
+	"_id": "8maJIIJKOhfKwNaV",
+	"_key": "!items.effects!rQyPjCIvoAz1SSSF.8maJIIJKOhfKwNaV",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 3,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/skills/wounds/injury-face-impact-orange.webp",
+	"name": "Cannot be Unseen!",
+	"origin": "Compendium.unnatural-selection.effects.Item.rQyPjCIvoAz1SSSF",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

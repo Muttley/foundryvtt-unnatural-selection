@@ -1,0 +1,15 @@
+{
+	"_id": "Hh5EqBFN7QogHNxK",
+	"_key": "!tables.results!Ya0ZEMkdPNipXpRM.Hh5EqBFN7QogHNxK",
+	"documentCollection": "shadowdark.talents",
+	"documentId": "ZfaFn8TDum3NXYZN",
+	"drawn": false,
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"range": [
+		3,
+		7
+	],
+	"text": "+2 to Constitution",
+	"type": 2,
+	"weight": 1
+}

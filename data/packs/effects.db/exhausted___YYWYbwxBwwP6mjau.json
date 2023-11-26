@@ -1,0 +1,42 @@
+{
+	"_id": "YYWYbwxBwwP6mjau",
+	"_key": "!items!YYWYbwxBwwP6mjau",
+	"effects": [
+		"OVoijDSn1wPXJvUM"
+	],
+	"folder": null,
+	"img": "icons/magic/time/day-night-sunset-sunrise.webp",
+	"name": "Exhausted!",
+	"system": {
+		"category": "effect",
+		"description": "<p>You suffer from fatigue, giving you disadvantage on all attacks and checks for 3 rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "3"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"start": {
+			"combatTime": "1.0",
+			"value": 16
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

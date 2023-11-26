@@ -1,0 +1,24 @@
+{
+	"_id": "90iFlfyWxkS1Vtua",
+	"_key": "!items.effects!1T2bLOetJdyIMDNg.90iFlfyWxkS1Vtua",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 3,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/unholy/strike-hand-glow-pink.webp",
+	"name": "Grasping Hands!",
+	"origin": "Compendium.unnatural-selection.effects.Item.1T2bLOetJdyIMDNg",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

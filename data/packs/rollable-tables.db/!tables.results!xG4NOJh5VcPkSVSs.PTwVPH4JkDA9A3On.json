@@ -1,0 +1,14 @@
+{
+	"_id": "PTwVPH4JkDA9A3On",
+	"_key": "!tables.results!xG4NOJh5VcPkSVSs.PTwVPH4JkDA9A3On",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		1,
+		2
+	],
+	"text": "Entire Head",
+	"type": 0,
+	"weight": 1
+}

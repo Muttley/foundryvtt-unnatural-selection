@@ -1,0 +1,15 @@
+{
+	"_id": "M8vPeBbeJbCWRr0G",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.M8vPeBbeJbCWRr0G",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		7,
+		7
+	],
+	"text": "<b>Arcane Strain!</b> You lose the ability to cast a random spell until you complete a rest.",
+	"type": 0,
+	"weight": 1
+}

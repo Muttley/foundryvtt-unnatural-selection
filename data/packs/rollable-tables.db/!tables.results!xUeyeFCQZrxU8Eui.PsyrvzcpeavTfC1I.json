@@ -1,0 +1,15 @@
+{
+	"_id": "PsyrvzcpeavTfC1I",
+	"_key": "!tables.results!xUeyeFCQZrxU8Eui.PsyrvzcpeavTfC1I",
+	"documentCollection": "unnatural-selection.rollable-tables",
+	"documentId": "xG4NOJh5VcPkSVSs",
+	"drawn": false,
+	"img": "icons/svg/d20-grey.svg",
+	"range": [
+		3,
+		3
+	],
+	"text": "Grave Warden Flesh Rot!",
+	"type": 2,
+	"weight": 1
+}

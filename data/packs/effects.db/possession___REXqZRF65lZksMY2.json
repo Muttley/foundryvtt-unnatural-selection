@@ -1,0 +1,24 @@
+{
+	"_id": "REXqZRF65lZksMY2",
+	"_key": "!items.effects!CS5g7xQZMcKUXbZi.REXqZRF65lZksMY2",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 3,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/creatures/magical/spirit-undead-winged-ghost.webp",
+	"name": "Possession!",
+	"origin": "Compendium.unnatural-selection.effects.Item.CS5g7xQZMcKUXbZi",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

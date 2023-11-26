@@ -1,0 +1,15 @@
+{
+	"_id": "RMcXVZtBsL1NdRkz",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.RMcXVZtBsL1NdRkz",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": "CQh2NzIrUEaVTepO",
+	"drawn": false,
+	"img": "icons/magic/death/undead-zombie-grave-green.webp",
+	"range": [
+		4,
+		4
+	],
+	"text": "Undead Illusion!",
+	"type": 2,
+	"weight": 1
+}

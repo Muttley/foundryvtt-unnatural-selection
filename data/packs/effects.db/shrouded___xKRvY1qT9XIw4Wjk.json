@@ -1,0 +1,24 @@
+{
+	"_id": "xKRvY1qT9XIw4Wjk",
+	"_key": "!items.effects!UIBolmpyrN6yGeOa.xKRvY1qT9XIw4Wjk",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 10,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+	"name": "Shrouded!",
+	"origin": "Compendium.unnatural-selection.effects.Item.UIBolmpyrN6yGeOa",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

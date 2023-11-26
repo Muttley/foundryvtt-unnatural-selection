@@ -1,0 +1,15 @@
+{
+	"_id": "KjOGagTerZUmTkjb",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.KjOGagTerZUmTkjb",
+	"documentCollection": "unnatural-selection.effects",
+	"documentId": "VLjLtZxII53L71EY",
+	"drawn": false,
+	"img": "icons/magic/unholy/orb-glowing-purple.webp",
+	"range": [
+		11,
+		11
+	],
+	"text": "Black Vortex!",
+	"type": 2,
+	"weight": 1
+}

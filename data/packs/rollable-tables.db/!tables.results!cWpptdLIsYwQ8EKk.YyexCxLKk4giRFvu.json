@@ -1,0 +1,14 @@
+{
+	"_id": "YyexCxLKk4giRFvu",
+	"_key": "!tables.results!cWpptdLIsYwQ8EKk.YyexCxLKk4giRFvu",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		1,
+		1
+	],
+	"text": "<b>Damnation!</b> Roll twice and combine both effects.",
+	"type": 0,
+	"weight": 1
+}

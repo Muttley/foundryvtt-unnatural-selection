@@ -1,0 +1,14 @@
+{
+	"_id": "lIworeJNnfw09pcE",
+	"_key": "!tables.results!Ya0ZEMkdPNipXpRM.lIworeJNnfw09pcE",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		3,
+		7
+	],
+	"text": "+2 to constitution stat or +1 to grave warden spellcasting checks.",
+	"type": 0,
+	"weight": 1
+}

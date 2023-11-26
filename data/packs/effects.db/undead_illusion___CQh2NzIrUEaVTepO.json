@@ -1,0 +1,42 @@
+{
+	"_id": "CQh2NzIrUEaVTepO",
+	"_key": "!items!CQh2NzIrUEaVTepO",
+	"effects": [
+		"ok0rLQCkZlYuXSIl"
+	],
+	"folder": null,
+	"img": "icons/magic/death/undead-zombie-grave-green.webp",
+	"name": "Undead Illusion!",
+	"system": {
+		"category": "effect",
+		"description": "<p>You appear to die and rise again as a zombie for 3 rounds; even your speech sounds like moaning. Your allies react accordingly.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "3"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"start": {
+			"combatTime": "1.0",
+			"value": 16
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

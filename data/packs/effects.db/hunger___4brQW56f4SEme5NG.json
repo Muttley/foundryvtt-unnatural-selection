@@ -1,0 +1,24 @@
+{
+	"_id": "4brQW56f4SEme5NG",
+	"_key": "!items.effects!kqtClJtZys2UEKkU.4brQW56f4SEme5NG",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": 172800,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/consumables/meat/hock-bones-skin-red.webp",
+	"name": "Hunger!",
+	"origin": "Compendium.unnatural-selection.effects.Item.kqtClJtZys2UEKkU",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}
