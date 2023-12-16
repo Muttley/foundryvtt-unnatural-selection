@@ -1,0 +1,15 @@
+{
+	"_id": "XEi9oKHE9kL6ewrE",
+	"_key": "!tables.results!LrtpYPohlJ9P3cYI.XEi9oKHE9kL6ewrE",
+	"documentCollection": "shadowdark.talents",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		10,
+		11
+	],
+	"text": "You can speak to an additional species of animal.",
+	"type": 0,
+	"weight": 1
+}

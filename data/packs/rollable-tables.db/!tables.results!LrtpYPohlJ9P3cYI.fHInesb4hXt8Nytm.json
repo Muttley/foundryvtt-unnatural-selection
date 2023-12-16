@@ -1,0 +1,15 @@
+{
+	"_id": "fHInesb4hXt8Nytm",
+	"_key": "!tables.results!LrtpYPohlJ9P3cYI.fHInesb4hXt8Nytm",
+	"documentCollection": "shadowdark.talents",
+	"documentId": "excvhYcpm1qd09IV",
+	"drawn": false,
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"range": [
+		7,
+		9
+	],
+	"text": "+2 to Wisdom",
+	"type": 2,
+	"weight": 1
+}

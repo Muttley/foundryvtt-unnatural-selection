@@ -1,0 +1,20 @@
+{
+	"_id": "gFkP1WZOR2D7Dxvt",
+	"_key": "!items!gFkP1WZOR2D7Dxvt",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/creatures/birds/raptor-owl-flying-moon.webp",
+	"name": "Animal Companion",
+	"system": {
+		"description": "<p>To start, you verbally control one 0-level non-insect animal companion such as a fox, owl, or iguana.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

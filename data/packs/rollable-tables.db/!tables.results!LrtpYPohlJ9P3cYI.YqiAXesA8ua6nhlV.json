@@ -1,0 +1,14 @@
+{
+	"_id": "YqiAXesA8ua6nhlV",
+	"_key": "!tables.results!LrtpYPohlJ9P3cYI.YqiAXesA8ua6nhlV",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		2,
+		2
+	],
+	"text": "The number of animal companions you can have increases by one,",
+	"type": 0,
+	"weight": 1
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "YS7hHcdboQiE9uZz",
+	"_key": "!items!YS7hHcdboQiE9uZz",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/environment/creatures/horse-white.webp",
+	"name": "Calm Animals",
+	"system": {
+		"description": "<p>1/day, your soothing aura pacifies natural animals within near. Their total LV cannot exceed 2X your own. Giant animals attempt a DC 12 WIS check to resist. A calmed animal will regard you as a friend, but not a companion.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

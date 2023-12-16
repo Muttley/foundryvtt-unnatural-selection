@@ -1,0 +1,15 @@
+{
+	"_id": "CEDRiMXuU1aeZzo1",
+	"_key": "!tables.results!LrtpYPohlJ9P3cYI.CEDRiMXuU1aeZzo1",
+	"documentCollection": "shadowdark.talents",
+	"documentId": "6t06nSjj1hd6o5SV",
+	"drawn": false,
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "+2 to Strength",
+	"type": 2,
+	"weight": 1
+}
