@@ -216,7 +216,7 @@
 	"flags": {
 		"shadowdark": {
 			"sources": {
-				"unnnatural-selection": "Unnatural Selection"
+				"unnatural_selection": "Unnatural Selection"
 			}
 		}
 	}
