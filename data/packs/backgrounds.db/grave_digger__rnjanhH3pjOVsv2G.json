@@ -1,0 +1,17 @@
+{
+	"_id": "rnjanhH3pjOVsv2G",
+	"_key": "!items!rnjanhH3pjOVsv2G",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Grave Digger",
+	"system": {
+		"description": "<p>You have toiled in mortality.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

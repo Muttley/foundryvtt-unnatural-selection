@@ -1,0 +1,18 @@
+{
+	"_id": "QMomY2CjSrWNMYNL",
+	"_key": "!items!QMomY2CjSrWNMYNL",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Exiled",
+	"system": {
+		"description": "<p>You were cast out from an ancient tribe.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

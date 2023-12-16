@@ -1,0 +1,15 @@
+{
+	"_id": "HhQfReUOXgG3m5BO",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.HhQfReUOXgG3m5BO",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "aXwk1gB6RLkKWjdM",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		7,
+		7
+	],
+	"text": "Cult Initiate",
+	"type": 2,
+	"weight": 1
+}

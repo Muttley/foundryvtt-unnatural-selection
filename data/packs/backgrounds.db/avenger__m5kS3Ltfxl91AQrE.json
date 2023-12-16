@@ -1,0 +1,17 @@
+{
+	"_id": "m5kS3Ltfxl91AQrE",
+	"_key": "!items!m5kS3Ltfxl91AQrE",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Avenger",
+	"system": {
+		"description": "<p>Your family fell to assassins .</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

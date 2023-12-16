@@ -1,0 +1,19 @@
+{
+	"_id": "2M7K5MWqvNMbDNkp",
+	"_key": "!items!2M7K5MWqvNMbDNkp",
+	"effects": [
+	],
+	"folder": "nGbOgwORFzyOieOg",
+	"img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+	"name": "Dominus",
+	"system": {
+		"alignment": "chaotic",
+		"description": "<p>The true Harbinger of Suffering, he is a malevolent god of death who uses manipulation and twisted charm to mislead those transitioning to the afterlife. With promises of fleeting pleasure and indulgence, he dupes souls to sign away their eternal peace to satiate his unending delight.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Deity"
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "ykAvPZgwdqTNG2sY",
+	"_key": "!tables.results!PWLLFb35C0mZg2YM.ykAvPZgwdqTNG2sY",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "fg7LijcKK5EVp76x",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		19,
+		19
+	],
+	"text": "Chiefling",
+	"type": 2,
+	"weight": 1
+}

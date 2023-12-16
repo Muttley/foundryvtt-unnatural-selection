@@ -1,0 +1,17 @@
+{
+	"_id": "ZZzNFVyjMJgfcv2u",
+	"_key": "!items!ZZzNFVyjMJgfcv2u",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Grave Warden Apprentice",
+	"system": {
+		"description": "<p>You learned the dead.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

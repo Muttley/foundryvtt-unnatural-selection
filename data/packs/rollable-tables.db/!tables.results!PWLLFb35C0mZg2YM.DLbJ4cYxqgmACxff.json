@@ -1,0 +1,15 @@
+{
+	"_id": "DLbJ4cYxqgmACxff",
+	"_key": "!tables.results!PWLLFb35C0mZg2YM.DLbJ4cYxqgmACxff",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "ZHUaMC402Z7FhoBh",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		5,
+		5
+	],
+	"text": "Treant",
+	"type": 2,
+	"weight": 1
+}

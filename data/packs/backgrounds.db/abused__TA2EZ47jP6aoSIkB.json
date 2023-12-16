@@ -1,0 +1,17 @@
+{
+	"_id": "TA2EZ47jP6aoSIkB",
+	"_key": "!items!TA2EZ47jP6aoSIkB",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Abused",
+	"system": {
+		"description": "<p>You were tormented by your noble family</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

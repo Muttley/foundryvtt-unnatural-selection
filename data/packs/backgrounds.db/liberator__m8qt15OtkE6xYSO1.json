@@ -1,0 +1,17 @@
+{
+	"_id": "m8qt15OtkE6xYSO1",
+	"_key": "!items!m8qt15OtkE6xYSO1",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Liberator",
+	"system": {
+		"description": "<p>You have promised to free the enslaved</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

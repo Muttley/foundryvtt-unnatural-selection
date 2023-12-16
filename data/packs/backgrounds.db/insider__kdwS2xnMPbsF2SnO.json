@@ -1,0 +1,17 @@
+{
+	"_id": "kdwS2xnMPbsF2SnO",
+	"_key": "!items!kdwS2xnMPbsF2SnO",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Insider",
+	"system": {
+		"description": "<p>You were a part of the criminal underworld</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

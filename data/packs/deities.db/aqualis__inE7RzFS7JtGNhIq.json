@@ -1,0 +1,19 @@
+{
+	"_id": "inE7RzFS7JtGNhIq",
+	"_key": "!items!inE7RzFS7JtGNhIq",
+	"effects": [
+	],
+	"folder": "3pwhwgOgIbKIeDeC",
+	"img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+	"name": "Aqualis",
+	"system": {
+		"alignment": "neutral",
+		"description": "<p>Often referred to as the Water Spirits, Aqualis is the collective of every drop of water with its own distinctiveness, yet collectively they form a symphony of liquid life. Followers of Aqualis learn that there are always many paths around obstacles, and those paths rarely require effort to find.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Deity"
+}

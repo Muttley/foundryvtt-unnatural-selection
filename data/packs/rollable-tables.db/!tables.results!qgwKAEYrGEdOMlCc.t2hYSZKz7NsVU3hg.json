@@ -1,0 +1,15 @@
+{
+	"_id": "t2hYSZKz7NsVU3hg",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.t2hYSZKz7NsVU3hg",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "5sVFK1cCwaRWiQec",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		5,
+		5
+	],
+	"text": "Scrapper",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "4aGozVm0JZmUoSOr",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.4aGozVm0JZmUoSOr",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "eSOVVu0mSLKoTU1g",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		11,
+		11
+	],
+	"text": "Bone Setter",
+	"type": 2,
+	"weight": 1
+}

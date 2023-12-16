@@ -1,0 +1,17 @@
+{
+	"_id": "bxcglUdVicfhXHrN",
+	"_key": "!items!bxcglUdVicfhXHrN",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Snake Charmer",
+	"system": {
+		"description": "<p>Snakes are your best friends.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

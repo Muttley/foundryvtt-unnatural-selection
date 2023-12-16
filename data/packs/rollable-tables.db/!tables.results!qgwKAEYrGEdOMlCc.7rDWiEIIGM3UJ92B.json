@@ -1,0 +1,15 @@
+{
+	"_id": "7rDWiEIIGM3UJ92B",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.7rDWiEIIGM3UJ92B",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "m5kS3Ltfxl91AQrE",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		16,
+		16
+	],
+	"text": "Avenger",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "5sVFK1cCwaRWiQec",
+	"_key": "!items!5sVFK1cCwaRWiQec",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Scrapper",
+	"system": {
+		"description": "<p>Raised in brutal city streets and survived</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

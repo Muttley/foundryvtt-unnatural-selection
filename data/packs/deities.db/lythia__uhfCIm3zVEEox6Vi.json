@@ -1,0 +1,19 @@
+{
+	"_id": "uhfCIm3zVEEox6Vi",
+	"_key": "!items!uhfCIm3zVEEox6Vi",
+	"effects": [
+	],
+	"folder": "nGbOgwORFzyOieOg",
+	"img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+	"name": "Lythia",
+	"system": {
+		"alignment": "neutral",
+		"description": "<p>The Shatterer of Chains, Lythia liberates souls from the cycle of reincarnation, allowing them to transcend into a final state as they cross over into the great expanse beyond. Followers of Lythia receive the gift of eternal rest.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Deity"
+}

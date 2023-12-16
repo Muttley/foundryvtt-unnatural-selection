@@ -1,0 +1,14 @@
+{
+	"_id": "IUiT3jtAouN69HQE",
+	"_key": "!tables.results!7PisWJJyQlpiM7ck.IUiT3jtAouN69HQE",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		2,
+		2
+	],
+	"text": "Increase Healing Circle die category by one, Max d12.",
+	"type": 0,
+	"weight": 1
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "ngMw5w2RM3Zj8vnE",
+	"_key": "!items!ngMw5w2RM3Zj8vnE",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Executioner",
+	"system": {
+		"description": "<p>You carried out the will of a king.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

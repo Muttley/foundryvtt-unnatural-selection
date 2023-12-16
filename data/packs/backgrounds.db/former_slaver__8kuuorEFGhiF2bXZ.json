@@ -1,0 +1,17 @@
+{
+	"_id": "8kuuorEFGhiF2bXZ",
+	"_key": "!items!8kuuorEFGhiF2bXZ",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Former Slaver",
+	"system": {
+		"description": "<p>Your family thrived in the slave trad</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "K5vpMulvJWHUl3r1",
+	"_key": "!items!K5vpMulvJWHUl3r1",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Orphaned",
+	"system": {
+		"description": "<p>Your family died of the plague.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

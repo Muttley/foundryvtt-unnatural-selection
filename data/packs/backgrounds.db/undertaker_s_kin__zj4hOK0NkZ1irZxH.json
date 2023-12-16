@@ -1,0 +1,18 @@
+{
+	"_id": "zj4hOK0NkZ1irZxH",
+	"_key": "!items!zj4hOK0NkZ1irZxH",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Undertaker's kin",
+	"system": {
+		"description": "<p>You lived with a family of death.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

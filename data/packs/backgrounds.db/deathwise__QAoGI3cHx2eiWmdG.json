@@ -1,0 +1,17 @@
+{
+	"_id": "QAoGI3cHx2eiWmdG",
+	"_key": "!items!QAoGI3cHx2eiWmdG",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Deathwise",
+	"system": {
+		"description": "<p>You perceive mortality at a deep level.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

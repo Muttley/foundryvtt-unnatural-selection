@@ -1,0 +1,15 @@
+{
+	"_id": "uQKTxm6GHcMsjtvA",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.uQKTxm6GHcMsjtvA",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "kdwS2xnMPbsF2SnO",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		8,
+		8
+	],
+	"text": "Insider",
+	"type": 2,
+	"weight": 1
+}

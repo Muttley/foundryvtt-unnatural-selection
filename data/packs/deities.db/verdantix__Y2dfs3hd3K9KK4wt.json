@@ -1,0 +1,19 @@
+{
+	"_id": "Y2dfs3hd3K9KK4wt",
+	"_key": "!items!Y2dfs3hd3K9KK4wt",
+	"effects": [
+	],
+	"folder": "3pwhwgOgIbKIeDeC",
+	"img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+	"name": "Verdantix",
+	"system": {
+		"alignment": "neutral",
+		"description": "<p>The natural spirit of death and transformation, symbolized by thorny brambles. He guides souls across the bridge of what was and what will be, teaching that death is a vital step in the cycle of existence. His followers embrace the interconnectedness of both.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Deity"
+}

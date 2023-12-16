@@ -1,0 +1,15 @@
+{
+	"_id": "KZ0DhFys0Gi5lXH5",
+	"_key": "!tables.results!PWLLFb35C0mZg2YM.KZ0DhFys0Gi5lXH5",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "Px20GxHDZ7rjQRap",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		10,
+		10
+	],
+	"text": "Fisher",
+	"type": 2,
+	"weight": 1
+}

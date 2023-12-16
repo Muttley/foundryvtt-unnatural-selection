@@ -1,0 +1,18 @@
+{
+	"_id": "TV3CszAhYOB49QdS",
+	"_key": "!items!TV3CszAhYOB49QdS",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Aerian",
+	"system": {
+		"description": "<p>You were raised by eagles, high in a nest.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

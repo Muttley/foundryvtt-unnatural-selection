@@ -1,0 +1,17 @@
+{
+	"_id": "AgAyyxkJm22tURaC",
+	"_key": "!items!AgAyyxkJm22tURaC",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Skyseer",
+	"system": {
+		"description": "<p>You predict the weather through nature.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

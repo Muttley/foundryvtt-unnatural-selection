@@ -1,0 +1,15 @@
+{
+	"_id": "HKFCNYLUI2p6Ya6d",
+	"_key": "!tables.results!PWLLFb35C0mZg2YM.HKFCNYLUI2p6Ya6d",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "3RdnqDPoFsTNN1Gd",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		4,
+		4
+	],
+	"text": "Feral",
+	"type": 2,
+	"weight": 1
+}

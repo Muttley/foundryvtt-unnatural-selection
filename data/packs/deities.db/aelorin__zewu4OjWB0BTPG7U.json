@@ -1,0 +1,19 @@
+{
+	"_id": "zewu4OjWB0BTPG7U",
+	"_key": "!items!zewu4OjWB0BTPG7U",
+	"effects": [
+	],
+	"folder": "3pwhwgOgIbKIeDeC",
+	"img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+	"name": "Aelorin",
+	"system": {
+		"alignment": "neutral",
+		"description": "<p>The woodland guardian. She oversees the harmony and natural magic of the woodland realm. Aelorin urges followers to avoid upsetting the delicate balance of the forest and protect it from those who might.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Deity"
+}

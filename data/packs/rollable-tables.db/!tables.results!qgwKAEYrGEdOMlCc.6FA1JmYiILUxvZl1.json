@@ -1,0 +1,15 @@
+{
+	"_id": "6FA1JmYiILUxvZl1",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.6FA1JmYiILUxvZl1",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "8kuuorEFGhiF2bXZ",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		15,
+		15
+	],
+	"text": "Former Slaver",
+	"type": 2,
+	"weight": 1
+}

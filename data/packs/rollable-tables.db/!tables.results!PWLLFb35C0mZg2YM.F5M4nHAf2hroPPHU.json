@@ -1,0 +1,15 @@
+{
+	"_id": "F5M4nHAf2hroPPHU",
+	"_key": "!tables.results!PWLLFb35C0mZg2YM.F5M4nHAf2hroPPHU",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "VqmXcRycu7GPp3bw",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		9,
+		9
+	],
+	"text": "Hunter",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "s8Grv68RdeJ1OAfR",
+	"_key": "!tables.results!PWLLFb35C0mZg2YM.s8Grv68RdeJ1OAfR",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "bxcglUdVicfhXHrN",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		15,
+		15
+	],
+	"text": "Snake Charmer",
+	"type": 2,
+	"weight": 1
+}

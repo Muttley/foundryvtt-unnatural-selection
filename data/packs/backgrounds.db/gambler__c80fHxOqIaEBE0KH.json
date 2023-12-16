@@ -1,0 +1,18 @@
+{
+	"_id": "c80fHxOqIaEBE0KH",
+	"_key": "!items!c80fHxOqIaEBE0KH",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Gambler",
+	"system": {
+		"description": "<p>You inherited an obsession as a highstakes bettor in the Lottery of the Lost.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

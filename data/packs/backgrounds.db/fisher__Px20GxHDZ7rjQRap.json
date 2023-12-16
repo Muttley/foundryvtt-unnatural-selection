@@ -1,0 +1,17 @@
+{
+	"_id": "Px20GxHDZ7rjQRap",
+	"_key": "!items!Px20GxHDZ7rjQRap",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Fisher",
+	"system": {
+		"description": "<p>If there’s a body of water, you can eat.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

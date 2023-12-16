@@ -1,0 +1,17 @@
+{
+	"_id": "7BOuz2Uxp5TSGGEB",
+	"_key": "!items!7BOuz2Uxp5TSGGEB",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Barbarian",
+	"system": {
+		"description": "<p>The wrath within can consume you.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

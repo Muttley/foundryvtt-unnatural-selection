@@ -1,0 +1,17 @@
+{
+	"_id": "JbmNWLCMh7INqi4M",
+	"_key": "!items!JbmNWLCMh7INqi4M",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Phylactery",
+	"system": {
+		"description": "<p>A lich can’t die unless you do.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

@@ -1,0 +1,19 @@
+{
+	"_id": "C60CFG4ZwzAXLNJY",
+	"_key": "!items!C60CFG4ZwzAXLNJY",
+	"effects": [
+	],
+	"folder": "3pwhwgOgIbKIeDeC",
+	"img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+	"name": "Liora",
+	"system": {
+		"alignment": "neutral",
+		"description": "<p>The regal lioness. She embodies courage, strength, and the prowess to protect and lead. Followers of Liora seek her guidance to develop their inner strength, embrace their leadership qualities, and fiercely protect what is dear to them.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Deity"
+}

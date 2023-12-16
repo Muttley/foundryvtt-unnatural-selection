@@ -14,7 +14,7 @@
 	},
 	"title": {
 		"level": 1,
-		"show": true
+		"show": false
 	},
 	"type": "text",
 	"video": {

@@ -1,0 +1,19 @@
+{
+	"_id": "09Ukf0fVrkvlCZqE",
+	"_key": "!items!09Ukf0fVrkvlCZqE",
+	"effects": [
+	],
+	"folder": "nGbOgwORFzyOieOg",
+	"img": "icons/magic/holy/yin-yang-balance-symbol.webp",
+	"name": "Morthrax",
+	"system": {
+		"alignment": "chaotic",
+		"description": "<p>The Devourer consumes souls, bringing an eternal nothingness for any he ingests. To feed his hunger, Morthrax stokes the fires of war among mortals. His disciples receive a relentless drive for conquest and a spot at his table or on his plate, depending on service.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Deity"
+}

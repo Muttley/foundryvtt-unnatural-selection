@@ -1,0 +1,25 @@
+{
+	"_id": "J2hUl4d33oOr5V4m",
+	"_key": "!items!J2hUl4d33oOr5V4m",
+	"effects": [
+		"oEZ9BldTmIl6AS31"
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/magic/sonic/projectile-sound-rings-wave.webp",
+	"name": "Chant Advantage",
+	"system": {
+		"bonuses": {
+			"advantage": "REPLACEME"
+		},
+		"description": "<p>Gain advantage on performing one chant you know.</p>",
+		"level": null,
+		"magicItem": false,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

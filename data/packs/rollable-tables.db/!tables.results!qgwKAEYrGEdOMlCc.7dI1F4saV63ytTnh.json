@@ -1,0 +1,15 @@
+{
+	"_id": "7dI1F4saV63ytTnh",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.7dI1F4saV63ytTnh",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "rnjanhH3pjOVsv2G",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		18,
+		18
+	],
+	"text": "Grave Digger",
+	"type": 2,
+	"weight": 1
+}

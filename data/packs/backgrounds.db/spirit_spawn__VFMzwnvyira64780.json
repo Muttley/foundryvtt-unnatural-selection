@@ -1,0 +1,17 @@
+{
+	"_id": "VFMzwnvyira64780",
+	"_key": "!items!VFMzwnvyira64780",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Spirit Spawn",
+	"system": {
+		"description": "<p>You are the child of a nature spirit.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

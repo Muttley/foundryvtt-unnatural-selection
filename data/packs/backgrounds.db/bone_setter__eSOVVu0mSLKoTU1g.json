@@ -1,0 +1,17 @@
+{
+	"_id": "eSOVVu0mSLKoTU1g",
+	"_key": "!items!eSOVVu0mSLKoTU1g",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Bone Setter",
+	"system": {
+		"description": "<p>You know anatomy and surgery.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

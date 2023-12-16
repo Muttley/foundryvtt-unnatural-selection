@@ -1,0 +1,15 @@
+{
+	"_id": "aNzAtk1wWA2ZxmiV",
+	"_key": "!tables.results!7PisWJJyQlpiM7ck.aNzAtk1wWA2ZxmiV",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		10,
+		11
+	],
+	"text": "Learn one additional shamanic chant of any tier you know.",
+	"type": 0,
+	"weight": 1
+}

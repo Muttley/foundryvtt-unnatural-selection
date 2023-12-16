@@ -1,0 +1,17 @@
+{
+	"_id": "GwHxR7AcNv2CW0uV",
+	"_key": "!items!GwHxR7AcNv2CW0uV",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Treasonous",
+	"system": {
+		"description": "<p>You are marked by a traitorous lineag</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

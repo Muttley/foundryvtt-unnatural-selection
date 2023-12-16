@@ -1,0 +1,15 @@
+{
+	"_id": "ndq5PL6Vc9E1sMHY",
+	"_key": "!tables.results!PWLLFb35C0mZg2YM.ndq5PL6Vc9E1sMHY",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "dJGx4UdjdN3KxDIN",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		6,
+		6
+	],
+	"text": "Forager",
+	"type": 2,
+	"weight": 1
+}

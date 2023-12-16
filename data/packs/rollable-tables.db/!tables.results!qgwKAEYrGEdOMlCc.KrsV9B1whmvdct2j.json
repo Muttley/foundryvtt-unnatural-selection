@@ -1,0 +1,15 @@
+{
+	"_id": "KrsV9B1whmvdct2j",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.KrsV9B1whmvdct2j",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "fE7wLwj9HYDlRNfA",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		1,
+		1
+	],
+	"text": "Pariah",
+	"type": 2,
+	"weight": 1
+}

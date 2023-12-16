@@ -1,0 +1,15 @@
+{
+	"_id": "WStVGkoUJhoj1ZU4",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.WStVGkoUJhoj1ZU4",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "JbmNWLCMh7INqi4M",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		20,
+		20
+	],
+	"text": "Phylactery",
+	"type": 2,
+	"weight": 1
+}

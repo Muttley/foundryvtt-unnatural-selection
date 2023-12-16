@@ -1,0 +1,15 @@
+{
+	"_id": "GUIsimg0lEprcRY5",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.GUIsimg0lEprcRY5",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "EZTqoVWmRStwyHWC",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		10,
+		10
+	],
+	"text": "Plague Doctor Apprentice",
+	"type": 2,
+	"weight": 1
+}

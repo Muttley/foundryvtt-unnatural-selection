@@ -1,0 +1,17 @@
+{
+	"_id": "Nu4TRNCjmhe9uWLt",
+	"_key": "!items!Nu4TRNCjmhe9uWLt",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Cannibalborn",
+	"system": {
+		"description": "<p>You renounced your heritage.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

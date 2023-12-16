@@ -1,0 +1,25 @@
+{
+	"_id": "k19qtACM5PYDaYVI",
+	"_key": "!items!k19qtACM5PYDaYVI",
+	"effects": [
+		"QBX0EGnKmDfPJ8gQ"
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/magic/sonic/scream-wail-shout-teal.webp",
+	"name": "+1 to Shamanic Chanting Checks",
+	"system": {
+		"bonuses": {
+			"spellcastingCheckBonus": "1"
+		},
+		"description": "",
+		"level": null,
+		"magicItem": false,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

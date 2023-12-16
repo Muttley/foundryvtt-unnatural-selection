@@ -1,0 +1,17 @@
+{
+	"_id": "fE7wLwj9HYDlRNfA",
+	"_key": "!items!fE7wLwj9HYDlRNfA",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Pariah",
+	"system": {
+		"description": "<p>You were even kicked out of the orphanage</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

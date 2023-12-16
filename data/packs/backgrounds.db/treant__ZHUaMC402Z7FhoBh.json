@@ -1,0 +1,17 @@
+{
+	"_id": "ZHUaMC402Z7FhoBh",
+	"_key": "!items!ZHUaMC402Z7FhoBh",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Treant",
+	"system": {
+		"description": "<p>You have an unbreakable bond with a treant</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

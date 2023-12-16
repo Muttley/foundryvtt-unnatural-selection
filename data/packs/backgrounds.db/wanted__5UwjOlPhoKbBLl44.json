@@ -1,0 +1,17 @@
+{
+	"_id": "5UwjOlPhoKbBLl44",
+	"_key": "!items!5UwjOlPhoKbBLl44",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Wanted",
+	"system": {
+		"description": "<p>You have a price on your head.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

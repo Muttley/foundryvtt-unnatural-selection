@@ -1,0 +1,17 @@
+{
+	"_id": "fg7LijcKK5EVp76x",
+	"_key": "!items!fg7LijcKK5EVp76x",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Chiefling",
+	"system": {
+		"description": "<p>You are the progeny of a tribal chief.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

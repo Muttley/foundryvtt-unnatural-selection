@@ -1,0 +1,17 @@
+{
+	"_id": "aXwk1gB6RLkKWjdM",
+	"_key": "!items!aXwk1gB6RLkKWjdM",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Cult Initiate",
+	"system": {
+		"description": "<p>You know blasphemous rituals.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

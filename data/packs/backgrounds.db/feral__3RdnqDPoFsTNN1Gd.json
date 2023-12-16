@@ -1,0 +1,17 @@
+{
+	"_id": "3RdnqDPoFsTNN1Gd",
+	"_key": "!items!3RdnqDPoFsTNN1Gd",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Feral",
+	"system": {
+		"description": "<p>Your family found refuge in untamed wilds.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

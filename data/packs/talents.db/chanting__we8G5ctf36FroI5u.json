@@ -1,0 +1,20 @@
+{
+	"_id": "we8G5ctf36FroI5u",
+	"_key": "!items!we8G5ctf36FroI5u",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/tools/instruments/drum-brown-red.webp",
+	"name": "Chanting",
+	"system": {
+		"description": "<p>You can perform shamanic chants you know using your drum and voice.</p><p></p><p>You may choose two tier 1 chants from the shamanic chants list.</p><p></p><p>Each time you gain a level, you choose new shamanic chants to learn according to the @UUID[Compendium.unnatural-selection.documents.JournalEntry.4G9LZfiREUuQViCf.JournalEntryPage.Dq63Y8VDba4aaKlw]{Shamanic Chants Known} table.</p><p></p><p>Add your Wisdom bonus to perform shamanic chants. The DC is 9 + the chant’s tier.</p><p></p><p>If you fail a chanting check, you can’t perform that chant again until you complete a rest.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

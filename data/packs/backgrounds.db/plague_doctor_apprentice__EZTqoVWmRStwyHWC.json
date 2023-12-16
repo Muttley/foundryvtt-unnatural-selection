@@ -1,0 +1,17 @@
+{
+	"_id": "EZTqoVWmRStwyHWC",
+	"_key": "!items!EZTqoVWmRStwyHWC",
+	"effects": [
+	],
+	"folder": "q9yEUsi6HV2WVNDK",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Plague Doctor Apprentice",
+	"system": {
+		"description": "<p>You studied disease.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

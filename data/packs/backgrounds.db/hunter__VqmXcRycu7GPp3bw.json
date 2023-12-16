@@ -1,0 +1,17 @@
+{
+	"_id": "VqmXcRycu7GPp3bw",
+	"_key": "!items!VqmXcRycu7GPp3bw",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Hunter",
+	"system": {
+		"description": "<p>You know where to find game.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

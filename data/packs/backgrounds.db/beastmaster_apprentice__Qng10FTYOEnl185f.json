@@ -1,0 +1,17 @@
+{
+	"_id": "Qng10FTYOEnl185f",
+	"_key": "!items!Qng10FTYOEnl185f",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Beastmaster Apprentice",
+	"system": {
+		"description": "<p>You learned to roar.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

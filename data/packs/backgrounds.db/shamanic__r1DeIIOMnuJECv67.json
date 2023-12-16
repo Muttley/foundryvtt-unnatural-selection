@@ -1,0 +1,17 @@
+{
+	"_id": "r1DeIIOMnuJECv67",
+	"_key": "!items!r1DeIIOMnuJECv67",
+	"effects": [
+	],
+	"folder": "M5RR249aIMxK8Rhl",
+	"img": "icons/environment/people/commoner.webp",
+	"name": "Shamanic",
+	"system": {
+		"description": "<p>You were raised to embrace the spirits.</p>",
+		"source": {
+			"page": 0,
+			"title": ""
+		}
+	},
+	"type": "Background"
+}

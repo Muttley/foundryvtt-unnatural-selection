@@ -1,0 +1,15 @@
+{
+	"_id": "e7ymeca34zmT7eaE",
+	"_key": "!tables.results!qgwKAEYrGEdOMlCc.e7ymeca34zmT7eaE",
+	"documentCollection": "unnatural-selection.backgrounds",
+	"documentId": "ZZzNFVyjMJgfcv2u",
+	"drawn": false,
+	"img": "icons/environment/people/commoner.webp",
+	"range": [
+		9,
+		9
+	],
+	"text": "Grave Warden Apprentice",
+	"type": 2,
+	"weight": 1
+}
