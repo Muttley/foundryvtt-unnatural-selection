@@ -1,0 +1,28 @@
+{
+	"_id": "3AXvq5CnbgoCRXsv",
+	"_key": "!items!3AXvq5CnbgoCRXsv",
+	"effects": [
+	],
+	"folder": "TakvcVMyeqmhBUs4",
+	"img": "icons/consumables/potions/bottle-corked-blue.webp",
+	"name": "Panacea",
+	"system": {
+		"ability": "int",
+		"dc": 11,
+		"description": "<p>Ends one poison, disease, or plague.</p>",
+		"group": "Elixir Crafting",
+		"limitedUses": false,
+		"loseOnFailure": false,
+		"lost": false,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"uses": {
+			"available": 0,
+			"max": 0
+		}
+	},
+	"type": "Class Ability"
+}

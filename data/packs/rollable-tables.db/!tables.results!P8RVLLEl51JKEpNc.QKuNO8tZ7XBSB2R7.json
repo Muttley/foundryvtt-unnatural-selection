@@ -1,0 +1,15 @@
+{
+	"_id": "QKuNO8tZ7XBSB2R7",
+	"_key": "!tables.results!P8RVLLEl51JKEpNc.QKuNO8tZ7XBSB2R7",
+	"documentCollection": "shadowdark.talents",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		8,
+		9
+	],
+	"text": "+1 to elixir checks",
+	"type": 0,
+	"weight": 1
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "ZKPTNfCRCdW9eE2G",
+	"_key": "!items!ZKPTNfCRCdW9eE2G",
+	"effects": [
+	],
+	"folder": "TakvcVMyeqmhBUs4",
+	"img": "icons/consumables/potions/bottle-corked-red.webp",
+	"name": "Remedy",
+	"system": {
+		"ability": "int",
+		"dc": 14,
+		"description": "<p>[[/r 1d6]] healing. Mask infusion allows you to activate at any time, including during death timer.</p>",
+		"group": "Elixir Crafting",
+		"limitedUses": false,
+		"loseOnFailure": false,
+		"lost": false,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"uses": {
+			"available": 0,
+			"max": 0
+		}
+	},
+	"type": "Class Ability"
+}

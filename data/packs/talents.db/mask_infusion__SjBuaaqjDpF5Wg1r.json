@@ -1,0 +1,20 @@
+{
+	"_id": "SjBuaaqjDpF5Wg1r",
+	"_key": "!items!SjBuaaqjDpF5Wg1r",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/equipment/head/mask-plague-grey.webp",
+	"name": "Mask Infusion",
+	"system": {
+		"description": "<p>Inhale one premade herbal elixir from your mask for prevention or cure. Lasts all day, expires on use.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

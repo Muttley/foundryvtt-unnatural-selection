@@ -1,0 +1,28 @@
+{
+	"_id": "tle0BfUi26orBF1G",
+	"_key": "!items!tle0BfUi26orBF1G",
+	"effects": [
+	],
+	"folder": "TakvcVMyeqmhBUs4",
+	"img": "icons/consumables/potions/potion-jug-corked-skull-poison-brown-green.webp",
+	"name": "Plague",
+	"system": {
+		"ability": "int",
+		"dc": 13,
+		"description": "<p>DC 12 CON check or [[/r 1d6]] permanent damage. Check daily to fully recover or take another [[/r 1d6]].</p>",
+		"group": "Elixir Crafting",
+		"limitedUses": false,
+		"loseOnFailure": false,
+		"lost": false,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"uses": {
+			"available": 0,
+			"max": 0
+		}
+	},
+	"type": "Class Ability"
+}

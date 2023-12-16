@@ -1,0 +1,28 @@
+{
+	"_id": "47oJ6q5iO0KqkzSB",
+	"_key": "!items!47oJ6q5iO0KqkzSB",
+	"effects": [
+	],
+	"folder": "TakvcVMyeqmhBUs4",
+	"img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+	"name": "Toxin",
+	"system": {
+		"ability": "int",
+		"dc": 12,
+		"description": "<p>DC 12 CON check or paralyzed for [[/r 1d4]] rounds.</p>",
+		"group": "Elixir Crafting",
+		"limitedUses": false,
+		"loseOnFailure": false,
+		"lost": false,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"uses": {
+			"available": 0,
+			"max": 0
+		}
+	},
+	"type": "Class Ability"
+}

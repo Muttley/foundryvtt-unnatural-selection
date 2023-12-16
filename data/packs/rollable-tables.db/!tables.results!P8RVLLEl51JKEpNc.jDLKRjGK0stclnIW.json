@@ -1,15 +1,15 @@
 {
-	"_id": "Sxw7XJClXpYgstB1",
-	"_key": "!tables.results!LrtpYPohlJ9P3cYI.Sxw7XJClXpYgstB1",
+	"_id": "jDLKRjGK0stclnIW",
+	"_key": "!tables.results!P8RVLLEl51JKEpNc.jDLKRjGK0stclnIW",
 	"documentCollection": "shadowdark.talents",
-	"documentId": "UE2xABVKD0oCDtdx",
+	"documentId": "aRY0hjpvzYpdRbfR",
 	"drawn": false,
 	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
 	"range": [
-		12,
-		12
+		8,
+		9
 	],
-	"text": "+2 to Charisma",
+	"text": "+2 to Intelligence",
 	"type": 2,
 	"weight": 1
 }

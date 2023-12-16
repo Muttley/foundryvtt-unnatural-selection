@@ -43,17 +43,46 @@
 		"talentChoices": [
 		],
 		"talents": [
+			"Compendium.unnatural-selection.talents.Item.agMOpY4MH50FW3vI",
 			"Compendium.unnatural-selection.talents.Item.dUh5ChLCPc6EXW7X",
 			"Compendium.unnatural-selection.talents.Item.gFkP1WZOR2D7Dxvt",
 			"Compendium.unnatural-selection.talents.Item.YS7hHcdboQiE9uZz"
 		],
 		"titles": [
 			{
-				"chaotic": "",
-				"from": null,
-				"lawful": "",
-				"neutral": "",
-				"to": null
+				"chaotic": "Tamer",
+				"from": 1,
+				"lawful": "Custodian",
+				"neutral": "Green",
+				"to": 2
+			},
+			{
+				"chaotic": "Subjugator",
+				"from": 3,
+				"lawful": "Steward",
+				"neutral": "Balancer",
+				"to": 4
+			},
+			{
+				"chaotic": "Controller",
+				"from": 5,
+				"lawful": "Guardian",
+				"neutral": "Harmonist",
+				"to": 6
+			},
+			{
+				"chaotic": "Nature Tyrant",
+				"from": 7,
+				"lawful": "Sentinel",
+				"neutral": "Druid",
+				"to": 8
+			},
+			{
+				"chaotic": "Overlord",
+				"from": 9,
+				"lawful": "Warden",
+				"neutral": "Archdruid",
+				"to": 10
 			}
 		],
 		"weapons": [

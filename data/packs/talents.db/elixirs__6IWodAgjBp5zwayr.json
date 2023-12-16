@@ -1,0 +1,20 @@
+{
+	"_id": "6IWodAgjBp5zwayr",
+	"_key": "!items!6IWodAgjBp5zwayr",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/tools/laboratory/vials-blue-pink.webp",
+	"name": "Elixirs",
+	"system": {
+		"description": "<p>You can craft elixirs with varied delivery methods. It takes an action and an INT check to craft your choice, adding the delivery method bonus to your die roll. (See @UUID[Compendium.unnatural-selection.documents.JournalEntry.4G9LZfiREUuQViCf.JournalEntryPage.pner3NgfU4oKKvjT]{Delivery Method} table).If you fail, you can’t make that elixir again until you rest. Except for mask infusions, elixirs expire in 5 rounds. Critical success increases DC or die category by one. Critical fails self-inflict harmful elixers.</p><p></p><p>You can use the table on pg. 27 of <em>Cursed Scroll #2</em> to craft more elixirs. These poisons require a DC 14 INT check. Refer to the “use” column for the delivery method modifier. Note the commonality of the ingredients and check with your GM to ensure availability.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

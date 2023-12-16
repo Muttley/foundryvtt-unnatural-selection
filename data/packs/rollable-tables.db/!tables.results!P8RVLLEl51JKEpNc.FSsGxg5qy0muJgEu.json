@@ -1,0 +1,14 @@
+{
+	"_id": "FSsGxg5qy0muJgEu",
+	"_key": "!tables.results!P8RVLLEl51JKEpNc.FSsGxg5qy0muJgEu",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		2,
+		2
+	],
+	"text": "You gain ADV when making a stabilize check or any other first aid, surgical, or bonesetting checks.",
+	"type": 0,
+	"weight": 1
+}

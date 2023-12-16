@@ -1,0 +1,28 @@
+{
+	"_id": "yScvXZnKUf3LQkS8",
+	"_key": "!items!yScvXZnKUf3LQkS8",
+	"effects": [
+	],
+	"folder": "TakvcVMyeqmhBUs4",
+	"img": "icons/consumables/potions/bottle-round-corked-orange.webp",
+	"name": "Tonic",
+	"system": {
+		"ability": "int",
+		"dc": 12,
+		"description": "<p>1 hp of healing. Stabilizes and revives unconscious targets.</p>",
+		"group": "Elixir Crafting",
+		"limitedUses": false,
+		"loseOnFailure": false,
+		"lost": false,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"uses": {
+			"available": 0,
+			"max": 0
+		}
+	},
+	"type": "Class Ability"
+}

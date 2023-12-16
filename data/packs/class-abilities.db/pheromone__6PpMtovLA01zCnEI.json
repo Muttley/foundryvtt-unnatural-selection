@@ -1,0 +1,28 @@
+{
+	"_id": "6PpMtovLA01zCnEI",
+	"_key": "!items!6PpMtovLA01zCnEI",
+	"effects": [
+	],
+	"folder": "TakvcVMyeqmhBUs4",
+	"img": "icons/consumables/potions/bottle-pear-corked-blue.webp",
+	"name": "Pheromone",
+	"system": {
+		"ability": "int",
+		"dc": 14,
+		"description": "<p>DC 12 WIS check or living creatures are calmed and consider you a reluctant friend for 5 rounds or until they are attacked by you or an ally.</p>",
+		"group": "Elixir Crafting",
+		"limitedUses": false,
+		"loseOnFailure": false,
+		"lost": false,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"uses": {
+			"available": 0,
+			"max": 0
+		}
+	},
+	"type": "Class Ability"
+}

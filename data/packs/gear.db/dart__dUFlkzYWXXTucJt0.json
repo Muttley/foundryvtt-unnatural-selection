@@ -5,7 +5,7 @@
 	],
 	"folder": "Axu4JlQeyQDLTgOT",
 	"img": "icons/weapons/ammunition/arrows-bodkin-yellow-red.webp",
-	"name": "Darts",
+	"name": "Dart",
 	"system": {
 		"baseWeapon": "",
 		"bonuses": {
@@ -27,7 +27,7 @@
 		},
 		"damage": {
 			"numDice": 1,
-			"oneHanded": "d2",
+			"oneHanded": "",
 			"twoHanded": ""
 		},
 		"description": "",

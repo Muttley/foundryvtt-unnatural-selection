@@ -1,0 +1,15 @@
+{
+	"_id": "vnnbyA6WBdvyARmd",
+	"_key": "!tables.results!P8RVLLEl51JKEpNc.vnnbyA6WBdvyARmd",
+	"documentCollection": "shadowdark.talents",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		10,
+		11
+	],
+	"text": "You gain ADV on elixir checks for an elixir you choose.",
+	"type": 0,
+	"weight": 1
+}

@@ -1,0 +1,20 @@
+{
+	"_id": "agMOpY4MH50FW3vI",
+	"_key": "!items!agMOpY4MH50FW3vI",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/magic/symbols/circle-ouroboros.webp",
+	"name": "Spellcasting (Ovate)",
+	"system": {
+		"description": "<p>You can cast ovate spells you know. You may choose two tier 1 spells from the ovate spell list.</p><p></p><p>Each time you gain a level, you choose new ovate spells based on the Ovate Spells Known table.</p><p></p><p>Add your wisdom bonus when casting ovate spells. The DC is 10 + the spell’s tier.</p><p></p><p>If you fail a spellcasting check, you can’t cast that spell again until you complete a rest.</p><p></p><p>If you roll a 1, you can’t cast that spell again until you attend a ritualistic purging or ceremony.</p>",
+		"level": 1,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

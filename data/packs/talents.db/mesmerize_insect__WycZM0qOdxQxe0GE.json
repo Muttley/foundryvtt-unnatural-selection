@@ -1,0 +1,20 @@
+{
+	"_id": "WycZM0qOdxQxe0GE",
+	"_key": "!items!WycZM0qOdxQxe0GE",
+	"effects": [
+	],
+	"folder": "8FvWnc87VqRpg4FX",
+	"img": "icons/creatures/invertebrates/ant-strength-green.webp",
+	"name": "Mesmerize Insect",
+	"system": {
+		"description": "<p>1/day, you use a bewitching insect lure to automatically deliver an injection elixir to a target within near range via sting or bite.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

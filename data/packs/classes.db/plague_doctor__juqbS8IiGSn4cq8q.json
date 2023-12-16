@@ -1,0 +1,94 @@
+{
+	"_id": "juqbS8IiGSn4cq8q",
+	"_key": "!items!juqbS8IiGSn4cq8q",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Plague Doctor",
+	"system": {
+		"allArmor": false,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+			"Compendium.shadowdark.gear.Item.EoTEHXApVDS7rHfw"
+		],
+		"classTalentTable": "Compendium.unnatural-selection.rollable-tables.RollTable.P8RVLLEl51JKEpNc",
+		"description": "<p>Shadow-veiled alchemical apothecaries, compassionate herbalist healers, or beakmasked disease cultists who harness the power of science.</p><p></p><p><strong>Weapons:</strong> Stiletto, rapier, needle whip, dart</p><p></p><p><strong>Armor:</strong> Leather armor</p><p></p><p><strong>Hit Points:</strong> 1d6 per level</p><p></p><p><strong>Languages.</strong> You know 2 additional common languages.</p><p></p><p><strong>Mask Infusion.</strong> Inhale one premade herbal elixir from your mask for prevention or cure. Lasts all day, expires on use.</p><p></p><p><strong>Mesmirize Insect.</strong> 1/day, you use a bewitching insect lure to automatically deliver an injection elixir to a target within near range via sting or bite.</p><p></p><p><strong>Elixirs.</strong> You can craft elixirs with varied delivery methods. It takes an action and an INT check to craft your choice, adding the delivery method bonus to your die roll. (See @UUID[Compendium.unnatural-selection.documents.JournalEntry.4G9LZfiREUuQViCf.JournalEntryPage.pner3NgfU4oKKvjT]{Delivery Method} table).If you fail, you can’t make that elixir again until you rest. Except for mask infusions, elixirs expire in 5 rounds. Critical success increases DC or die category by one. Critical fails self-inflict harmful elixers.</p><p></p><p>You can use the table on pg. 27 of <em>Cursed Scroll #2</em> to craft more elixirs. These poisons require a DC 14 INT check. Refer to the “use” column for the delivery method modifier. Note the commonality of the ingredients and check with your GM to ensure availability.</p>",
+		"hitPoints": "1d6",
+		"language": {
+			"select": null
+		},
+		"languages": {
+			"common": 2,
+			"fixed": [
+			],
+			"rare": 0,
+			"select": 0,
+			"selectOptions": [
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"spellcasting": {
+			"ability": "",
+			"class": "__not_spellcaster__"
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.unnatural-selection.talents.Item.6IWodAgjBp5zwayr",
+			"Compendium.unnatural-selection.talents.Item.SjBuaaqjDpF5Wg1r",
+			"Compendium.unnatural-selection.talents.Item.WycZM0qOdxQxe0GE"
+		],
+		"titles": [
+			{
+				"chaotic": "Proelyte",
+				"from": 1,
+				"lawful": "Resident",
+				"neutral": "Tincturer",
+				"to": 2
+			},
+			{
+				"chaotic": "Afflictor",
+				"from": 3,
+				"lawful": "Physician",
+				"neutral": "Elixerist",
+				"to": 4
+			},
+			{
+				"chaotic": "Contagionist",
+				"from": 5,
+				"lawful": "Remediator",
+				"neutral": "Chemist",
+				"to": 6
+			},
+			{
+				"chaotic": "Epidemiologist",
+				"from": 7,
+				"lawful": "Curator",
+				"neutral": "Alchemist",
+				"to": 8
+			},
+			{
+				"chaotic": "Pestilence Herald",
+				"from": 9,
+				"lawful": "Master Curator",
+				"neutral": "Grand Alchemist",
+				"to": 10
+			}
+		],
+		"weapons": [
+			"Compendium.unnatural-selection.gear.Item.AK5dhqYVg0VOoI7v",
+			"Compendium.unnatural-selection.gear.Item.dUFlkzYWXXTucJt0",
+			"Compendium.unnatural-selection.gear.Item.SJEE4ga6vqQS0yPT",
+			"Compendium.unnatural-selection.gear.Item.SpqKyeAYt4BlfjPy"
+		]
+	},
+	"type": "Class"
+}

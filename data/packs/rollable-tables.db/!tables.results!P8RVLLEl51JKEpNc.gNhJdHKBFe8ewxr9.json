@@ -1,0 +1,14 @@
+{
+	"_id": "gNhJdHKBFe8ewxr9",
+	"_key": "!tables.results!P8RVLLEl51JKEpNc.gNhJdHKBFe8ewxr9",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		3,
+		7
+	],
+	"text": "Increase elixir die cateogry by one on an elixir you choose. d12 is max.",
+	"type": 0,
+	"weight": 1
+}

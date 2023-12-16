@@ -1,0 +1,28 @@
+{
+	"_id": "WCuFwpjT1GmScDE3",
+	"_key": "!items!WCuFwpjT1GmScDE3",
+	"effects": [
+	],
+	"folder": "TakvcVMyeqmhBUs4",
+	"img": "icons/consumables/potions/potion-flask-corked-capped-green.webp",
+	"name": "Acid",
+	"system": {
+		"ability": "int",
+		"dc": 13,
+		"description": "<p>Target takes [[/r 1d6]] damage.</p>",
+		"group": "Elixir Crafting",
+		"limitedUses": false,
+		"loseOnFailure": false,
+		"lost": false,
+		"predefinedEffects": "",
+		"source": {
+			"page": 0,
+			"title": ""
+		},
+		"uses": {
+			"available": 0,
+			"max": 0
+		}
+	},
+	"type": "Class Ability"
+}
