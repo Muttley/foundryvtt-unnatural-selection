@@ -5,6 +5,7 @@
 		{
 			"key": "system.bonuses.weaponDamageExtraDieImprovementByProperty",
 			"mode": 2,
+			"priority": null,
 			"value": "firebond-weapon"
 		}
 	],
