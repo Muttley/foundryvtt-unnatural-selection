@@ -14,6 +14,10 @@ Kevin Sheller, Bunni Daniel
 
 Bunni Daniel, Mark Lyons, Mark McKenna
 
+**FOUNDRY VTT MODULE**
+
+Paul "Muttley" Maskelyne
+
 **LEGAL**
 
 Printed in the USA. Not for resale or redistribution. Permission
