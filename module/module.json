@@ -51,6 +51,18 @@
         },
         {
             "flags": {},
+            "label": "Chant and Spell Effects",
+            "name": "chant-and-spell-effects",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/chant-and-spell-effects",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
             "label": "Chants and Spells",
             "name": "chants-and-spells",
             "ownership": {
@@ -188,6 +200,8 @@
 			"sorting": "a",
 			"color": "#472022",
 			"packs": [
+				"chant-and-spell-effects",
+				"chants-and-spells",
 				"documents",
 				"effects",
 				"gear",
@@ -202,7 +216,6 @@
 					"packs": [
 						"ancestries",
 						"backgrounds",
-						"chants-and-spells",
 						"class-abilities",
 						"classes",
 						"deities",
