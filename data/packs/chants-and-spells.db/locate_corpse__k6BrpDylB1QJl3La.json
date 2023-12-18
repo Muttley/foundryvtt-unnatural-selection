@@ -1,0 +1,27 @@
+{
+	"_id": "k6BrpDylB1QJl3La",
+	"_key": "!items!k6BrpDylB1QJl3La",
+	"effects": [
+	],
+	"folder": "bYbhaD3ucJiqTLkl",
+	"img": "icons/magic/death/grave-tombstone-glow-teal.webp",
+	"name": "Locate Corpse",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>You know the direction and range of the closest nonanimated corpse.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "far",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "FlJnZffjymrS2U3X",
+	"_key": "!items!FlJnZffjymrS2U3X",
+	"effects": [
+	],
+	"folder": "bYbhaD3ucJiqTLkl",
+	"img": "icons/magic/control/control-influence-puppet.webp",
+	"name": "Thrall Offering",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>You magically beguile one humanoid of LV 2 or less within near range who is compelled to approach one of your undead minions and allow itself to be</p><p>attacked with advantage.</p><p></p><p>If there are no undead minions, the affected humanoid follows you to the best of its ability until the spell ends or an undead minion appears.</p><p></p><p>If a minion kills it, that undead is healed to full HP. The spell ends if you or your allies hurt it, but stays beguiled if a minion attacks it. The target  remembers you magically enchanted it</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "gl1Re2qm7eDujto8",
+	"_key": "!items!gl1Re2qm7eDujto8",
+	"effects": [
+	],
+	"folder": "bYbhaD3ucJiqTLkl",
+	"img": "icons/weapons/sickles/scythe-bone-green-fire.webp",
+	"name": "Spectral Scythe",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>You manifest a ghostly image of a scythe floating in front of you.</p><p></p><p>On your turn you can move it up to near distance away and cast touch spells through it. Apply the Necrotic Reap bonus to any spell cast in this way.</p><p></p><p>Only one instance of this spell may be active at a time.</p><p></p><p>A second casting of this spell while another instance exists immediately de-activates the previous one, even if the spell fails.</p>",
+		"duration": {
+			"type": "turns",
+			"value": "10"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

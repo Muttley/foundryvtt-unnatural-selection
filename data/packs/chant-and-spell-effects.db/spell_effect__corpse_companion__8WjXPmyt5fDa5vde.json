@@ -1,10 +1,11 @@
 {
-	"_id": "CLxj0G5I7Whqtu5R",
-	"_key": "!items!CLxj0G5I7Whqtu5R",
+	"_id": "8WjXPmyt5fDa5vde",
+	"_key": "!items!8WjXPmyt5fDa5vde",
 	"effects": [
+		"NrrXdD97nD5Ss3BU"
 	],
 	"folder": null,
-	"img": "icons/commodities/tech/cog-brass.webp",
+	"img": "icons/magic/death/undead-skeleton-energy-green.webp",
 	"name": "Spell Effect: Corpse Companion",
 	"system": {
 		"category": "effect",

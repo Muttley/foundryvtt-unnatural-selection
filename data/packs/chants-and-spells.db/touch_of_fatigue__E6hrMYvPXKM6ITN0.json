@@ -1,0 +1,27 @@
+{
+	"_id": "E6hrMYvPXKM6ITN0",
+	"_key": "!items!E6hrMYvPXKM6ITN0",
+	"effects": [
+	],
+	"folder": "bYbhaD3ucJiqTLkl",
+	"img": "icons/magic/time/day-night-sunset-sunrise.webp",
+	"name": "Touch of Fatigue",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>A target you touch becomes exhausted during its next turn, giving it disadvantage on attacks and spellcasting checks.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}
