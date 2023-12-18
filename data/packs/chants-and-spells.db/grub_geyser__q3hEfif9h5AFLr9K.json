@@ -1,0 +1,27 @@
+{
+	"_id": "q3hEfif9h5AFLr9K",
+	"_key": "!items!q3hEfif9h5AFLr9K",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/creatures/invertebrates/beetle-grub-larvae-gray.webp",
+	"name": "Grub Geyser",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": ""
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

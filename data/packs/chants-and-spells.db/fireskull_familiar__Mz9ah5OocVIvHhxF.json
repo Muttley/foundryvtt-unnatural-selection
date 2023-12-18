@@ -1,0 +1,27 @@
+{
+	"_id": "Mz9ah5OocVIvHhxF",
+	"_key": "!items!Mz9ah5OocVIvHhxF",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/magic/death/skull-fire-white-yellow.webp",
+	"name": "Fireskull Familiar",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>You animate a single skull as your familiar from a corpse or skull you touch. The skull is bathed in blue flames and gifted with levitation-based flight.</p><p></p><p>It projects light in a near radius, it can speak and understand, it can retrieve small items, perform a minor bite attack, and it can deliver messages.</p><p></p><p>On your turn you can move it a near distance from you. Consider it an AC 10 creature with a 1d2 damage bite attack and 3 HP. Only one instance of this spell may be active at a time.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.CQ1NsobeTGexh4QR]{Spell Effect: Fireskull Familiar}</p>",
+		"duration": {
+			"type": "realTime",
+			"value": "1h"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": ""
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

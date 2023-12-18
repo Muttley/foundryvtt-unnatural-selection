@@ -1,0 +1,29 @@
+{
+	"_id": "jWxac8qHqq0SdJnm",
+	"_key": "!items.effects!4YxF7gCBWeAR9q84.jWxac8qHqq0SdJnm",
+	"changes": [
+		{
+			"key": "system.attributes.ac.value",
+			"mode": 5,
+			"value": "17"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 10,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/death/skull-trio-badge-purple.webp",
+	"name": "Boneskin",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.4YxF7gCBWeAR9q84",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

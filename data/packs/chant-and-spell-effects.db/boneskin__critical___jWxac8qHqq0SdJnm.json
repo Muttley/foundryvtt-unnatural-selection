@@ -1,0 +1,30 @@
+{
+	"_id": "jWxac8qHqq0SdJnm",
+	"_key": "!items.effects!IklC8APy3sSAmc7t.jWxac8qHqq0SdJnm",
+	"changes": [
+		{
+			"key": "system.attributes.ac.value",
+			"mode": 5,
+			"priority": null,
+			"value": "20"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 10,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/death/skull-trio-badge-purple.webp",
+	"name": "Boneskin (Critical)",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.4YxF7gCBWeAR9q84",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

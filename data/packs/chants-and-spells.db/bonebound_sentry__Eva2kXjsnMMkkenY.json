@@ -1,0 +1,27 @@
+{
+	"_id": "Eva2kXjsnMMkkenY",
+	"_key": "!items!Eva2kXjsnMMkkenY",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/magic/death/skull-humanoid-white-red.webp",
+	"name": "Bonebound Sentry",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>Using spectral energy, you double the size of one undead minion that you control and root it in place.</p><p></p><p>The bonebound minion cannot move, but its max HP are doubled and its attack damage die is doubled.</p><p></p><p>You may dispel Bonebound Sentry at any time.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": ""
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

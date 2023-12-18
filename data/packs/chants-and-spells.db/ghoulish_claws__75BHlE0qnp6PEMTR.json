@@ -1,0 +1,27 @@
+{
+	"_id": "75BHlE0qnp6PEMTR",
+	"_key": "!items!75BHlE0qnp6PEMTR",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/magic/unholy/hand-claw-fog-green.webp",
+	"name": "Ghoulish Claws",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>By your touch, a willing target’s hands transform into ghastly claws. Your target may make two claw attacks that cause [[/r 1d4]] points of damage each plus paralyze. Victims hit by this attack must make a DC 12 CON check or be paralyzed for [[/r 1d4]] rounds.</p><p></p><p>@UUID[Compendium.shadowdark.conditions.Item.ROTpAUAHx5s4AZZh]{Condition: Paralyzed}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "self",
+		"source": {
+			"title": ""
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

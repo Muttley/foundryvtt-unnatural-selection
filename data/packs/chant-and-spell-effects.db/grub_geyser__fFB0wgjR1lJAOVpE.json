@@ -1,0 +1,24 @@
+{
+	"_id": "fFB0wgjR1lJAOVpE",
+	"_key": "!items.effects!9KUYhwrAQ5QGAHV5.fFB0wgjR1lJAOVpE",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 5,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/creatures/invertebrates/beetle-grub-larvae-gray.webp",
+	"name": "Grub Geyser",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.9KUYhwrAQ5QGAHV5",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

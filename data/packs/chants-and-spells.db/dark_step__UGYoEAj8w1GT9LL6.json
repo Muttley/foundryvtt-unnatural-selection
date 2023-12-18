@@ -1,0 +1,27 @@
+{
+	"_id": "UGYoEAj8w1GT9LL6",
+	"_key": "!items!UGYoEAj8w1GT9LL6",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/magic/movement/trail-streak-impact-blue.webp",
+	"name": "Dark Step",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>Starting from darkness, you teleport to a near distance that is also shrouded in darkness.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "self",
+		"source": {
+			"title": ""
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

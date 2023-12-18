@@ -1,0 +1,27 @@
+{
+	"_id": "Gb5OEQZ1Y4UDFMUm",
+	"_key": "!items!Gb5OEQZ1Y4UDFMUm",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/magic/symbols/star-rising-purple.webp",
+	"name": "Prevent Decay",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>Any corpse you touch is perfectly preserved for 1 day.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.LNhWg16Zypqv4mAb]{Spell Effect: Prevent Decay}</p>",
+		"duration": {
+			"type": "days",
+			"value": "1"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}
