@@ -1,0 +1,27 @@
+{
+	"_id": "hTHOygdRbrGiwduz",
+	"_key": "!items!hTHOygdRbrGiwduz",
+	"effects": [
+	],
+	"folder": "bYbhaD3ucJiqTLkl",
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Corpse Companion",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>A mostly intact corpse you touch rises as an animated lesser skeleton. You control this undead minion and it acts on your turn.</p><p></p><p>Only one instance of this spell may be active at a time. A 2nd casting of this spell destroys the previous minion, even if the spell fails. This does not count against your minion LV limit.</p>",
+		"duration": {
+			"type": "turns",
+			"value": "10"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

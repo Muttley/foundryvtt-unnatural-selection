@@ -1,0 +1,27 @@
+{
+	"_id": "yx1sMTWkfcoaibPT",
+	"_key": "!items!yx1sMTWkfcoaibPT",
+	"effects": [
+	],
+	"folder": "bYbhaD3ucJiqTLkl",
+	"img": "icons/magic/symbols/runes-star-blue.webp",
+	"name": "Deadlight",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "",
+		"duration": {
+			"type": "realTime",
+			"value": "1"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}
