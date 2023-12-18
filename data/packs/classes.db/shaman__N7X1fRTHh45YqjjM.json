@@ -35,6 +35,7 @@
 		},
 		"spellcasting": {
 			"ability": "wis",
+			"baseDifficulty": 9,
 			"class": ""
 		},
 		"talentChoiceCount": 0,
