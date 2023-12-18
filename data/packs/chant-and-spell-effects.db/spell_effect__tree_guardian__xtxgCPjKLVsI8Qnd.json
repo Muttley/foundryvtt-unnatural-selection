@@ -1,0 +1,46 @@
+{
+	"_id": "xtxgCPjKLVsI8Qnd",
+	"_key": "!items!xtxgCPjKLVsI8Qnd",
+	"effects": [
+		"jfJoRYgaNu2iViL4"
+	],
+	"folder": null,
+	"img": "icons/magic/nature/tree-animated-strike.webp",
+	"name": "Spell Effect: Tree Guardian",
+	"system": {
+		"attributes": {
+			"ac": {
+				"value": "2"
+			}
+		},
+		"category": "effect",
+		"description": "",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"start": {
+			"combatTime": "4.0",
+			"value": 13502
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

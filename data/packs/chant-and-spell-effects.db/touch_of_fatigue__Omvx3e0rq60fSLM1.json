@@ -1,0 +1,24 @@
+{
+	"_id": "Omvx3e0rq60fSLM1",
+	"_key": "!items.effects!vaV48qg4eTKVzdNL.Omvx3e0rq60fSLM1",
+	"changes": [
+	],
+	"description": "<p>Test</p>",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 1,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/time/day-night-sunset-sunrise.webp",
+	"name": "Touch of Fatigue",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.vaV48qg4eTKVzdNL",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

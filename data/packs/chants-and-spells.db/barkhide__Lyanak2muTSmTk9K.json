@@ -1,0 +1,27 @@
+{
+	"_id": "Lyanak2muTSmTk9K",
+	"_key": "!items!Lyanak2muTSmTk9K",
+	"effects": [
+	],
+	"folder": "Txxz2KUbyfzlc0ug",
+	"img": "icons/magic/nature/tree-bare-glow-yellow.webp",
+	"name": "Barkhide",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>An animal or giant animal’s skin you touch hardens like tree bark. For the spell’s duration, the animal’s armor class is increased by 2. Can also be cast on Beastmasters.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.IkmwvQKtKRUnyu2y]{Spell Effect: Barkhide}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "QgBjnFbyVWgfHC3D",
+	"_key": "!items.effects!Xny8Lufnn3bvGY4O.QgBjnFbyVWgfHC3D",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": 86400,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/nature/plant-sproud-hands-dirt-green.webp",
+	"name": "Create Tree",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.Xny8Lufnn3bvGY4O",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

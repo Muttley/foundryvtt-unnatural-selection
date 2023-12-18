@@ -1,0 +1,30 @@
+{
+	"_id": "jfJoRYgaNu2iViL4",
+	"_key": "!items.effects!xtxgCPjKLVsI8Qnd.jfJoRYgaNu2iViL4",
+	"changes": [
+		{
+			"key": "system.attributes.ac.value",
+			"mode": 2,
+			"priority": null,
+			"value": "2"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 5,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/nature/tree-animated-strike.webp",
+	"name": "Tree Guardian",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.IkmwvQKtKRUnyu2y",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

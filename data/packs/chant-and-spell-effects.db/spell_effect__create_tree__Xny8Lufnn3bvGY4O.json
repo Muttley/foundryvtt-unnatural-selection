@@ -1,0 +1,41 @@
+{
+	"_id": "Xny8Lufnn3bvGY4O",
+	"_key": "!items!Xny8Lufnn3bvGY4O",
+	"effects": [
+		"QgBjnFbyVWgfHC3D"
+	],
+	"folder": null,
+	"img": "icons/magic/nature/plant-sproud-hands-dirt-green.webp",
+	"name": "Spell Effect: Create Tree",
+	"system": {
+		"category": "effect",
+		"description": "",
+		"duration": {
+			"type": "days",
+			"value": "1"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"start": {
+			"combatTime": "4.0",
+			"value": 12356
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

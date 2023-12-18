@@ -1,0 +1,27 @@
+{
+	"_id": "WC8HDYqFdRykSxlH",
+	"_key": "!items!WC8HDYqFdRykSxlH",
+	"effects": [
+	],
+	"folder": "Txxz2KUbyfzlc0ug",
+	"img": "icons/magic/nature/plant-sproud-hands-dirt-green.webp",
+	"name": "Create Tree",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>You lift your hands and a climbable tree grows from any flat, horizontal surface, up to 50’ high. It lasts for one day before dematerializing and returning to the forest.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.Xny8Lufnn3bvGY4O]{Spell Effect: Create Tree}</p>",
+		"duration": {
+			"type": "days",
+			"value": "1"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

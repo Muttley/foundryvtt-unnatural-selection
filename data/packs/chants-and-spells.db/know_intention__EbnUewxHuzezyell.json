@@ -1,0 +1,27 @@
+{
+	"_id": "EbnUewxHuzezyell",
+	"_key": "!items!EbnUewxHuzezyell",
+	"effects": [
+	],
+	"folder": "Txxz2KUbyfzlc0ug",
+	"img": "icons/magic/perception/eye-ringed-green.webp",
+	"name": "Know Intention",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>You instantly know the intention of one creature a near distance from you.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

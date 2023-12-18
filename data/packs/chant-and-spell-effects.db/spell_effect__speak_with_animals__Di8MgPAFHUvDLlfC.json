@@ -1,0 +1,41 @@
+{
+	"_id": "Di8MgPAFHUvDLlfC",
+	"_key": "!items!Di8MgPAFHUvDLlfC",
+	"effects": [
+		"7lD3mRyOCJERYuvh"
+	],
+	"folder": null,
+	"img": "icons/creatures/mammals/deer-movement-leap-green.webp",
+	"name": "Spell Effect: Speak with Animals",
+	"system": {
+		"category": "effect",
+		"description": "",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"start": {
+			"combatTime": "4.0",
+			"value": 12958
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}
