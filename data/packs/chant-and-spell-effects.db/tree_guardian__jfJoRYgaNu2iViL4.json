@@ -5,7 +5,6 @@
 		{
 			"key": "system.attributes.ac.value",
 			"mode": 2,
-			"priority": null,
 			"value": "2"
 		}
 	],
@@ -20,7 +19,7 @@
 		"startTurn": null,
 		"turns": null
 	},
-	"icon": "icons/magic/nature/tree-animated-strike.webp",
+	"icon": "icons/magic/nature/tree-animated-smile.webp",
 	"name": "Tree Guardian",
 	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.IkmwvQKtKRUnyu2y",
 	"statuses": [

@@ -1,0 +1,24 @@
+{
+	"_id": "xgl01mWt8meHPCrP",
+	"_key": "!items.effects!y4DTKhnX7LmGLEIT.xgl01mWt8meHPCrP",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 5,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/nature/root-vine-thorned-coil-green.webp",
+	"name": "Reduce Animal",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.y4DTKhnX7LmGLEIT",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

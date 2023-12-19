@@ -10,7 +10,7 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
 		],
-		"description": "",
+		"description": "<p>You breathe a stream of flesheating maggots at a close target. Target must make a CON vs. your spellcasting check check or take [[/r 1d6]] damage and suffer DISADV on attacks and spellcasting checks as long as they are covered in maggots.</p><p></p><p>Target continues to take [[/r 1d6]] damage each round until the effect ends or until they take an action to brush them off.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.9KUYhwrAQ5QGAHV5]{Spell Effect: Grub Geyser}</p>",
 		"duration": {
 			"type": "rounds",
 			"value": "5"

@@ -35,7 +35,6 @@
 		},
 		"spellcasting": {
 			"ability": "",
-			"baseDifficulty": 10,
 			"class": "__not_spellcaster__"
 		},
 		"talentChoiceCount": 0,

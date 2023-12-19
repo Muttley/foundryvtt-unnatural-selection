@@ -10,7 +10,7 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
 		],
-		"description": "<p>A target you touch becomes exhausted during its next turn, giving it disadvantage on attacks and spellcasting checks.</p>",
+		"description": "<p>A target you touch becomes exhausted during its next turn, giving it disadvantage on attacks and spellcasting checks.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.vaV48qg4eTKVzdNL]{Spell Effect: Touch of Fatigue}</p>",
 		"duration": {
 			"type": "rounds",
 			"value": "1"

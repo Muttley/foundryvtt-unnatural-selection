@@ -1,0 +1,18 @@
+{
+	"_id": "6SM3oypmOOGXc8dw",
+	"_key": "!items!6SM3oypmOOGXc8dw",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+	"name": "Bite Attack",
+	"system": {
+		"description": "",
+		"itemType": "weapon",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Property"
+}

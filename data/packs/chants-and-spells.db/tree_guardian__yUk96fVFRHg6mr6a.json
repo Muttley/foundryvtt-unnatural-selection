@@ -4,13 +4,13 @@
 	"effects": [
 	],
 	"folder": "Txxz2KUbyfzlc0ug",
-	"img": "icons/magic/nature/tree-animated-strike.webp",
+	"img": "icons/magic/nature/tree-animated-smile.webp",
 	"name": "Tree Guardian",
 	"system": {
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
 		],
-		"description": "<p>You turn a tree in near into a guardian for you and your allies. Any ally within close will be protected by the tree’s branches, gaining +2 to their AC.</p>",
+		"description": "<p>You turn a tree in near into a guardian for you and your allies. Any ally within close will be protected by the tree’s branches, gaining +2 to their AC.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.xtxgCPjKLVsI8Qnd]{Spell Effect: Tree Guardian}</p>",
 		"duration": {
 			"type": "rounds",
 			"value": "5"

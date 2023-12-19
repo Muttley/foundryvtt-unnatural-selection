@@ -1,0 +1,27 @@
+{
+	"_id": "ZSguB3WlpXpSgheN",
+	"_key": "!items!ZSguB3WlpXpSgheN",
+	"effects": [
+	],
+	"folder": "gUzqyWOW1Riq2jYE",
+	"img": "icons/magic/nature/moon-crescent.webp",
+	"name": "Sacred Bounty",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>You open yourself to the abundance of the universe. When you or your allies discover treasure worth at least 1 XP, you gain an additional +1 XP.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "far",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

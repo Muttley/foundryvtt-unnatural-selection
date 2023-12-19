@@ -1,0 +1,29 @@
+{
+	"_id": "gWE9smcrPd7BjoUJ",
+	"_key": "!items.effects!wIGzUMaUTjpPnpPV.gWE9smcrPd7BjoUJ",
+	"changes": [
+		{
+			"key": "system.bonuses.acBonus",
+			"mode": 2,
+			"value": "2"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": 4201620,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/nature/tree-spirit-glow-black-yellow.webp",
+	"name": "Gift of Earth",
+	"origin": null,
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

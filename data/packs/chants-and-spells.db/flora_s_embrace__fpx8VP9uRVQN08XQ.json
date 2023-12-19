@@ -1,0 +1,27 @@
+{
+	"_id": "fpx8VP9uRVQN08XQ",
+	"_key": "!items!fpx8VP9uRVQN08XQ",
+	"effects": [
+	],
+	"folder": "gUzqyWOW1Riq2jYE",
+	"img": "icons/magic/nature/root-vine-entangled-humanoid.webp",
+	"name": "Flora's Embrace",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>You awaken the spirits of the plants, entwining foes in a near area within range. Affected foes are reduced to moving a close distance on their turn. Targets can escape if they pass a STR check vs. your last chanting check.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "far",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "pGEDLDhTN4mFCGcZ",
+	"_key": "!items!pGEDLDhTN4mFCGcZ",
+	"effects": [
+	],
+	"folder": "gUzqyWOW1Riq2jYE",
+	"img": "icons/creatures/reptiles/turtle-shell-glowing-green.webp",
+	"name": "Shell of the Turtle",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>You invoke the tortoise’s protective energies, granting you and your allies within a near range a +1 bonus to AC.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.HRD8GmqsKdYjfkQ0]{Spell Effect: Shell of the Turtle}</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

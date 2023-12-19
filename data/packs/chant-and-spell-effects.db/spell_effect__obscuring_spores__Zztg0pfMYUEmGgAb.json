@@ -1,12 +1,12 @@
 {
-	"_id": "Di8MgPAFHUvDLlfC",
-	"_key": "!items!Di8MgPAFHUvDLlfC",
+	"_id": "Zztg0pfMYUEmGgAb",
+	"_key": "!items!Zztg0pfMYUEmGgAb",
 	"effects": [
-		"7lD3mRyOCJERYuvh"
+		"aj7HbqJJ6NV0eGRF"
 	],
 	"folder": null,
-	"img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
-	"name": "Spell Effect: Speak with Animals",
+	"img": "icons/magic/nature/mushrooms-fire-glow-blue.webp",
+	"name": "Spell Effect: Obscuring Spores",
 	"system": {
 		"category": "effect",
 		"description": "",
@@ -30,8 +30,8 @@
 			"title": ""
 		},
 		"start": {
-			"combatTime": "4.0",
-			"value": 12958
+			"combatTime": "11.0",
+			"value": 21898
 		},
 		"tokenIcon": {
 			"show": true

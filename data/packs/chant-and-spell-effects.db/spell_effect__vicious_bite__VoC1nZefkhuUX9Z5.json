@@ -1,18 +1,22 @@
 {
-	"_id": "Di8MgPAFHUvDLlfC",
-	"_key": "!items!Di8MgPAFHUvDLlfC",
+	"_id": "VoC1nZefkhuUX9Z5",
+	"_key": "!items!VoC1nZefkhuUX9Z5",
 	"effects": [
-		"7lD3mRyOCJERYuvh"
+		"aqImsK1M1aQUNDC0"
 	],
 	"folder": null,
-	"img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
-	"name": "Spell Effect: Speak with Animals",
+	"img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+	"name": "Spell Effect: Vicious Bite",
 	"system": {
+		"bonuses": {
+			"damageMultiplier": "2",
+			"weaponDamageExtraDieByProperty": "d6|bite-attack"
+		},
 		"category": "effect",
 		"description": "",
 		"duration": {
-			"type": "rounds",
-			"value": "5"
+			"type": "unlimited",
+			"value": -1
 		},
 		"effectPanel": {
 			"show": true
@@ -30,8 +34,8 @@
 			"title": ""
 		},
 		"start": {
-			"combatTime": "4.0",
-			"value": 12958
+			"combatTime": "11.0",
+			"value": 21898
 		},
 		"tokenIcon": {
 			"show": true

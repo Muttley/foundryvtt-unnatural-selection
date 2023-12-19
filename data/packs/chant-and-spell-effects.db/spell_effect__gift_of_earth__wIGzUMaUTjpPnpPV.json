@@ -1,18 +1,21 @@
 {
-	"_id": "Di8MgPAFHUvDLlfC",
-	"_key": "!items!Di8MgPAFHUvDLlfC",
+	"_id": "wIGzUMaUTjpPnpPV",
+	"_key": "!items!wIGzUMaUTjpPnpPV",
 	"effects": [
-		"7lD3mRyOCJERYuvh"
+		"gWE9smcrPd7BjoUJ"
 	],
 	"folder": null,
-	"img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
-	"name": "Spell Effect: Speak with Animals",
+	"img": "icons/magic/nature/tree-spirit-glow-black-yellow.webp",
+	"name": "Spell Effect: Gift of Earth",
 	"system": {
+		"bonuses": {
+			"acBonus": "2"
+		},
 		"category": "effect",
 		"description": "",
 		"duration": {
-			"type": "rounds",
-			"value": "5"
+			"type": "unlimited",
+			"value": -1
 		},
 		"effectPanel": {
 			"show": true
@@ -30,8 +33,8 @@
 			"title": ""
 		},
 		"start": {
-			"combatTime": "4.0",
-			"value": 12958
+			"combatTime": "11.0",
+			"value": 21898
 		},
 		"tokenIcon": {
 			"show": true

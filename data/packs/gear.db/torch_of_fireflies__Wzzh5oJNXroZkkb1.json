@@ -1,11 +1,11 @@
 {
-	"_id": "MNFv9pcCkCfQCPH2",
-	"_key": "!items!MNFv9pcCkCfQCPH2",
+	"_id": "Wzzh5oJNXroZkkb1",
+	"_key": "!items!Wzzh5oJNXroZkkb1",
 	"effects": [
 	],
 	"folder": "rVXKjQWjUquv088P",
-	"img": "icons/magic/light/explosion-star-small-teal.webp",
-	"name": "Deadlight",
+	"img": "icons/magic/light/explosion-glow-spiral-teal.webp",
+	"name": "Torch of Fireflies",
 	"system": {
 		"broken": false,
 		"canBeEquipped": false,
@@ -14,7 +14,7 @@
 			"gp": 0,
 			"sp": 0
 		},
-		"description": "<p>Dummy item that acts like a light source cast by the @UUID[Compendium.unnatural-selection.chants-and-spells.Item.yx1sMTWkfcoaibPT]{Deadlight} spell.</p>",
+		"description": "<p>Dummy item that acts like a light source cast by the @UUID[Compendium.unnatural-selection.chants-and-spells.Item.psLrPvaw8o8ksO1z]{Torch of Fireflies} spell.</p>",
 		"equipped": false,
 		"isPhysical": true,
 		"light": {

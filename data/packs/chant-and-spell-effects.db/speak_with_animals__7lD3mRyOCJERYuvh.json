@@ -14,7 +14,7 @@
 		"startTurn": null,
 		"turns": null
 	},
-	"icon": "icons/creatures/mammals/deer-movement-leap-green.webp",
+	"icon": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
 	"name": "Speak with Animals",
 	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.Di8MgPAFHUvDLlfC",
 	"statuses": [

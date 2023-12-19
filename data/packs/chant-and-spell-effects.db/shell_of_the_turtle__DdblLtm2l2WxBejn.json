@@ -1,0 +1,29 @@
+{
+	"_id": "DdblLtm2l2WxBejn",
+	"_key": "!items.effects!HRD8GmqsKdYjfkQ0.DdblLtm2l2WxBejn",
+	"changes": [
+		{
+			"key": "system.bonuses.acBonus",
+			"mode": 2,
+			"value": "1"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/creatures/reptiles/turtle-shell-glowing-green.webp",
+	"name": "Shell of the Turtle",
+	"origin": null,
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

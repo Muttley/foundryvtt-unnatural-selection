@@ -1,0 +1,24 @@
+{
+	"_id": "VrMQ5iu8gjS9afZ6",
+	"_key": "!items.effects!hIM8YttWf1wW9pKv.VrMQ5iu8gjS9afZ6",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": 86400,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/creatures/mammals/deer-movement-leap-green.webp",
+	"name": "Charm Animals",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.hIM8YttWf1wW9pKv",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

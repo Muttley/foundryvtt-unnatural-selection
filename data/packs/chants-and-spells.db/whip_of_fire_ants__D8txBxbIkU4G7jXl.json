@@ -1,0 +1,27 @@
+{
+	"_id": "D8txBxbIkU4G7jXl",
+	"_key": "!items!D8txBxbIkU4G7jXl",
+	"effects": [
+	],
+	"folder": "DWtwpWjJFLstl7rY",
+	"img": "icons/creatures/invertebrates/ant-strength-green.webp",
+	"name": "Whip of Fire Ants",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>With the snap of your fingers, a colony of fire ants form into a living needle whip that hits a creature within near, causing [[/r 1d6]] damage.</p><p></p><p>The hit causes fire ants to remain on the target, biting for an additional 1d4 per round until they are actively removed.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": ""
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

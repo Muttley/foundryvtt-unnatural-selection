@@ -1,0 +1,27 @@
+{
+	"_id": "ieWNXwft3kHxzMsy",
+	"_key": "!items!ieWNXwft3kHxzMsy",
+	"effects": [
+	],
+	"folder": "DWtwpWjJFLstl7rY",
+	"img": "icons/magic/nature/tree-animated-strike.webp",
+	"name": "Tree Assault",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p><span class=\"fontstyle0\">You cause a tree within near to use its limbs to lash at close opponents. Use your own STR or DEX to make one melee slam attack per round, dealing [[/r 2d6]] damage.</span></p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.jdi9biVhMlVWerlO]{Spell Effect: Tree Assault}</p>",
+		"duration": {
+			"type": "focus",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": ""
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

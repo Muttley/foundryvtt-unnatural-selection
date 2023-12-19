@@ -1,18 +1,18 @@
 {
-	"_id": "Di8MgPAFHUvDLlfC",
-	"_key": "!items!Di8MgPAFHUvDLlfC",
+	"_id": "hIM8YttWf1wW9pKv",
+	"_key": "!items!hIM8YttWf1wW9pKv",
 	"effects": [
-		"7lD3mRyOCJERYuvh"
+		"VrMQ5iu8gjS9afZ6"
 	],
 	"folder": null,
-	"img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
-	"name": "Spell Effect: Speak with Animals",
+	"img": "icons/creatures/mammals/deer-movement-leap-green.webp",
+	"name": "Spell Effect: Charm Animals",
 	"system": {
 		"category": "effect",
 		"description": "",
 		"duration": {
-			"type": "rounds",
-			"value": "5"
+			"type": "days",
+			"value": "1"
 		},
 		"effectPanel": {
 			"show": true
@@ -30,8 +30,8 @@
 			"title": ""
 		},
 		"start": {
-			"combatTime": "4.0",
-			"value": 12958
+			"combatTime": "11.0",
+			"value": 21898
 		},
 		"tokenIcon": {
 			"show": true
