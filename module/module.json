@@ -2,7 +2,7 @@
     "id": "unnatural-selection",
     "title": "Unnatural Selection",
 	"description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
@@ -232,5 +232,8 @@
 				"unnatural_selection": "Unnatural Selection"
 			}
 		}
-	}
+	},
+	"url": "https://github.com/Muttley/foundryvtt-unnatural-selection",
+	"manifest": "https://raw.githubusercontent.com/Muttley/foundryvtt-unnatural-selection/main/module/module.json",
+	"download": "https://github.com/Muttley/foundryvtt-unnatural-selection/releases/latest/download/unnatural-selection.zip"
 }
