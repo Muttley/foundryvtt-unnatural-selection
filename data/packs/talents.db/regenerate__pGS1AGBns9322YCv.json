@@ -8,7 +8,7 @@
 	"img": "icons/magic/life/cross-area-circle-green-white.webp",
 	"name": "Regenerate",
 	"system": {
-		"description": "<p><span class=\"fontstyle0\">Regain 1HP per hour unless damaged by fire or acid.</span></p>",
+		"description": "<p>Regain 1HP per hour unless damaged by fire or acid.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

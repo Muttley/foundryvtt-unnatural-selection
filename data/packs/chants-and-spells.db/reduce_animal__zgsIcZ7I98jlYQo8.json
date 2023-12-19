@@ -10,7 +10,7 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
 		],
-		"description": "<p><span class=\"fontstyle0\">An animal you touch is reduced to a quarter of its normal size and any giant animal is reduced to normal size. If animal is engaged in combat, it makes a morale check.</span></p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.y4DTKhnX7LmGLEIT]{Spell Effect: Reduce Animal}</p>",
+		"description": "<p>An animal you touch is reduced to a quarter of its normal size and any giant animal is reduced to normal size. If animal is engaged in combat, it makes a morale check.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.y4DTKhnX7LmGLEIT]{Spell Effect: Reduce Animal}</p>",
 		"duration": {
 			"type": "rounds",
 			"value": "5"

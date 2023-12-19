@@ -10,7 +10,7 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
 		],
-		"description": "<p><span class=\"fontstyle0\">You cause a tree within near to use its limbs to lash at close opponents. Use your own STR or DEX to make one melee slam attack per round, dealing [[/r 2d6]] damage.</span></p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.jdi9biVhMlVWerlO]{Spell Effect: Tree Assault}</p>",
+		"description": "<p>You cause a tree within near to use its limbs to lash at close opponents. Use your own STR or DEX to make one melee slam attack per round, dealing [[/r 2d6]] damage.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.jdi9biVhMlVWerlO]{Spell Effect: Tree Assault}</p>",
 		"duration": {
 			"type": "focus",
 			"value": -1

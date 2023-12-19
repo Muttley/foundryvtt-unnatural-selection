@@ -7,7 +7,7 @@
 	"img": "icons/magic/fire/flame-burning-campfire-orange.webp",
 	"name": "Pyromancy",
 	"system": {
-		"description": "<p><span class=\"fontstyle0\">You wield the relentless energy of the eternal flame in powerful and unique ways.</span></p><p></p><p><span class=\"fontstyle0\">Upon gaining level 2, roll one talent from the Pyromancy table, with additional rolls at every even level.</span></p><p></p><p><span class=\"fontstyle0\">You are immune to your own pyromancy.</span></p>",
+		"description": "<p>You wield the relentless energy of the eternal flame in powerful and unique ways.</p><p></p><p>Upon gaining level 2, roll one talent from the Pyromancy table, with additional rolls at every even level.</p><p></p><p>You are immune to your own pyromancy.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {
