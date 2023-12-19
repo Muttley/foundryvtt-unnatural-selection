@@ -1,0 +1,17 @@
+{
+	"_id": "3uNr4vHswwghnovc",
+	"_key": "!items!3uNr4vHswwghnovc",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Canine",
+	"system": {
+		"description": "<p>Coyotes, dogs, foxes, hyenas, mastiffs, wolves</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

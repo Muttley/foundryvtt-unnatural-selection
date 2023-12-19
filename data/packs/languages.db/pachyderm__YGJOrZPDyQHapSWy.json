@@ -1,0 +1,17 @@
+{
+	"_id": "YGJOrZPDyQHapSWy",
+	"_key": "!items!YGJOrZPDyQHapSWy",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Pachyderm",
+	"system": {
+		"description": "<p>Elephants, hippos, rhinos</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "d3folnkeaUFnzQFp",
+	"_key": "!items!d3folnkeaUFnzQFp",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Bear",
+	"system": {
+		"description": "<p>Bears, raccoons</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

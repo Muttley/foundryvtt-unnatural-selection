@@ -1,0 +1,17 @@
+{
+	"_id": "RsKj0yhROFIotHbs",
+	"_key": "!items!RsKj0yhROFIotHbs",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Reptile",
+	"system": {
+		"description": "<p>Crocodiles, iguanas, snakes, turtles</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

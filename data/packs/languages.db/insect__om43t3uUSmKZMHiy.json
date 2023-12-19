@@ -1,0 +1,17 @@
+{
+	"_id": "om43t3uUSmKZMHiy",
+	"_key": "!items!om43t3uUSmKZMHiy",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Insect",
+	"system": {
+		"description": "<p>All insects</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

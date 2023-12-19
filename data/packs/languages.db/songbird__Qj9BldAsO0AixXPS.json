@@ -1,0 +1,17 @@
+{
+	"_id": "Qj9BldAsO0AixXPS",
+	"_key": "!items!Qj9BldAsO0AixXPS",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Songbird",
+	"system": {
+		"description": "<p>Finches, sparrows, wrens</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

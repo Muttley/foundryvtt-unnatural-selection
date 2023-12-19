@@ -1,0 +1,17 @@
+{
+	"_id": "cXD6B12LQjpTTthH",
+	"_key": "!items!cXD6B12LQjpTTthH",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Arachnid",
+	"system": {
+		"description": "<p>Scorpions, spiders, ticks</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

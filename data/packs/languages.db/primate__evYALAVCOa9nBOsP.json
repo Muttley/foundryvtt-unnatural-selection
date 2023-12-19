@@ -1,0 +1,17 @@
+{
+	"_id": "evYALAVCOa9nBOsP",
+	"_key": "!items!evYALAVCOa9nBOsP",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Primate",
+	"system": {
+		"description": "<p>Apes, monkeys</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

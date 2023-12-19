@@ -5,7 +5,7 @@
 	],
 	"folder": "xbR6m23uc6rYMHhp",
 	"img": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
-	"name": "Snake",
+	"name": "Cobra",
 	"system": {
 		"baseWeapon": "",
 		"bonuses": {
@@ -30,7 +30,7 @@
 			"oneHanded": "d4",
 			"twoHanded": ""
 		},
-		"description": "<p>Bite attack does 1d4 + poison. DC 9 CON check or paralyzed for 1d4 rounds.</p>",
+		"description": "<p>Bite attack does [[/r 1d4]] + poison. DC 9 CON check or paralyzed for [[/r 1d4]] rounds.</p><p></p><p>Beast Shape: <strong>Cobra</strong> (see pg. 252 from sourcebook).</p>",
 		"equipped": false,
 		"isPhysical": true,
 		"magicItem": false,

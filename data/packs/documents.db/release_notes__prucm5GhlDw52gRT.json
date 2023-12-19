@@ -8,7 +8,7 @@
 	"system": {
 	},
 	"text": {
-		"content": "<p><strong>AUTO-GENERATED. DO NOT EDIT.</strong></p>",
+		"content": "<h1>v1.0.0</h1>\n<p>Initial Release</p>\n",
 		"format": 1
 	},
 	"title": {

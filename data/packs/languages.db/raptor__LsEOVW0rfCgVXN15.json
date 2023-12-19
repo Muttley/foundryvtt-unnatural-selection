@@ -1,0 +1,17 @@
+{
+	"_id": "LsEOVW0rfCgVXN15",
+	"_key": "!items!LsEOVW0rfCgVXN15",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Raptor",
+	"system": {
+		"description": "<p>Hawks, eagles, ostriches, owls, pelicans, vultures</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}
