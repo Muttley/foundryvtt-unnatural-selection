@@ -11,7 +11,7 @@
 		"description": "<p>The Shatterer of Chains, Lythia liberates souls from the cycle of reincarnation, allowing them to transcend into a final state as they cross over into the great expanse beyond. Followers of Lythia receive the gift of eternal rest.</p>",
 		"predefinedEffects": "",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		}
 	},
 	"type": "Deity"
