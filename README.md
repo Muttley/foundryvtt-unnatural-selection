@@ -1,6 +1,7 @@
 ![GitHub Release](https://img.shields.io/github/release-date/Muttley/foundryvtt-unnatural-selection)
 ![All Versions](https://img.shields.io/github/downloads/Muttley/foundryvtt-unnatural-selection/total)
-![Latest Version](https://img.shields.io/github/downloads/Muttley/foundryvtt-unnatural-selection/latest/total)
+![Latest Version](https://img.shields.io/github/downloads/Muttley/foundryvtt-shadowdark/latest/unnatural-selection.zip)
+![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Funnatural-selection)
 
 # Unnatural Selection: The Untamed and the Underworld
 
