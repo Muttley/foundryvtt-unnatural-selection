@@ -4,7 +4,8 @@
 		"build": "gulp build",
 		"build:watch": "echo \"Ready...\"",
 		"clean": "gulp clean",
-		"export": "./utils/smelter.mjs unpack -i leveldb -s module/packs -d ./data/packs"
+		"export": "./utils/smelter.mjs unpack -i leveldb -s module/packs -d ./data/packs",
+		"notes": "gulp compileNotes"
 	},
 	"devDependencies": {
 		"@rollup/plugin-node-resolve": "^15.1.0",
@@ -26,5 +27,8 @@
 		"sass": "^1.63.4",
 		"yaml": "^2.3.1",
 		"yargs": "^17.7.2"
+	},
+	"dependencies": {
+		"marked": "^11.1.0"
 	}
 }
