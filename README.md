@@ -12,6 +12,8 @@ Beastmaster, Fiend, Grave Warden, Ovate (druid), Plague Doctor, and Shaman. New
 ancestries include: Chelonian, Dragonborn, Forest Elf, Gnome, Half Troll,
 Mycellan, Risen, Shadow Elf, Slimefolk, Skurrid, Sylvaren, and Tiefling.
 
+Pre-Order your copy of Unnatural Selection here: https://unnaturalselection.backerkit.com/hosted_preorders
+
 **WRITING, DESIGN, LAYOUT**
 
 Kevin Sheller, Bunni Daniel
