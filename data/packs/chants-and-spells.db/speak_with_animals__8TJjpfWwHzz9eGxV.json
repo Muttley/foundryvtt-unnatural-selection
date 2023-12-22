@@ -1,0 +1,27 @@
+{
+	"_id": "8TJjpfWwHzz9eGxV",
+	"_key": "!items!8TJjpfWwHzz9eGxV",
+	"effects": [
+	],
+	"folder": "Txxz2KUbyfzlc0ug",
+	"img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+	"name": "Speak with Animals",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>You are able to understand any animals within a near radius and you may ask them any question.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.Di8MgPAFHUvDLlfC]{Spell Effect: Speak with Animals}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

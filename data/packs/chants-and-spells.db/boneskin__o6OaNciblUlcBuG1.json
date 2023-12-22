@@ -1,0 +1,27 @@
+{
+	"_id": "o6OaNciblUlcBuG1",
+	"_key": "!items!o6OaNciblUlcBuG1",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/magic/death/skull-trio-badge-purple.webp",
+	"name": "Boneskin",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>Your skin becomes covered in hardened bone armor. For the spell’s duration, your armor class becomes 17 (20 on a critical spellcasting check.)</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.4YxF7gCBWeAR9q84]{Spell Effect: Boneskin}</p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.IklC8APy3sSAmc7t]{Spell Effect: Boneskin (Critical)}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "self",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

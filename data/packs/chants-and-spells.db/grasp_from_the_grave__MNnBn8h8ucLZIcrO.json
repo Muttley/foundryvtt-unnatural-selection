@@ -1,0 +1,27 @@
+{
+	"_id": "MNnBn8h8ucLZIcrO",
+	"_key": "!items!MNnBn8h8ucLZIcrO",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/magic/death/hand-dirt-undead-zombie.webp",
+	"name": "Grasp from the Grave",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>You call forth spectral hands that erupt from the ground in a near-sized cube of effect. Any creature in the cube move at half speed and take [[/r 1d4]] damage</p><p>per round.</p><p></p><p>Once cast, the spectral hands cannot be moved to a new location without a new instance of the spell being cast.</p>",
+		"duration": {
+			"type": "focus",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "far",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

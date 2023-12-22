@@ -1,0 +1,27 @@
+{
+	"_id": "dijE6OOO2XgU6FHM",
+	"_key": "!items!dijE6OOO2XgU6FHM",
+	"effects": [
+	],
+	"folder": "DWtwpWjJFLstl7rY",
+	"img": "icons/magic/nature/plant-seed-hands-glow-yellow.webp",
+	"name": "Healing Sprout",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>You lift one palm and a restoring plant springs from any surface within a near distance from you. Consuming the plant restores hit points equal to d6s determined by half of your level (rounded down), minimum [[/r 1d6]].</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

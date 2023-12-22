@@ -1,0 +1,27 @@
+{
+	"_id": "psLrPvaw8o8ksO1z",
+	"_key": "!items!psLrPvaw8o8ksO1z",
+	"effects": [
+	],
+	"folder": "Txxz2KUbyfzlc0ug",
+	"img": "icons/magic/light/explosion-glow-spiral-teal.webp",
+	"name": "Torch of Fireflies",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>You summon a cloud of fireflies that illuminate out to a near distance for 1 hour of real time.</p><p></p><p>The fireflies are attracted to any invisible creatures, revealing their position if encountered.</p><p></p><p>The fireflies can be targeted as a 0 LV animal with 1 hp.</p>",
+		"duration": {
+			"type": "realTime",
+			"value": "1h"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

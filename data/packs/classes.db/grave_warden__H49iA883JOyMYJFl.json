@@ -31,10 +31,11 @@
 		},
 		"predefinedEffects": "",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		},
 		"spellcasting": {
 			"ability": "con",
+			"baseDifficulty": 10,
 			"class": ""
 		},
 		"talentChoiceCount": 0,

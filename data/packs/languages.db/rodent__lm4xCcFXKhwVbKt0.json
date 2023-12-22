@@ -1,0 +1,17 @@
+{
+	"_id": "lm4xCcFXKhwVbKt0",
+	"_key": "!items!lm4xCcFXKhwVbKt0",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Rodent",
+	"system": {
+		"description": "<p>Bats, beavers, porcupines, rats, squirrels</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

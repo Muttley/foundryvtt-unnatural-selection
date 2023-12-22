@@ -1,0 +1,24 @@
+{
+	"_id": "7lD3mRyOCJERYuvh",
+	"_key": "!items.effects!Di8MgPAFHUvDLlfC.7lD3mRyOCJERYuvh",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": 5,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+	"name": "Speak with Animals",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.Di8MgPAFHUvDLlfC",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

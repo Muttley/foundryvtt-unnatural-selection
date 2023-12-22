@@ -1,0 +1,24 @@
+{
+	"_id": "NrrXdD97nD5Ss3BU",
+	"_key": "!items.effects!8WjXPmyt5fDa5vde.NrrXdD97nD5Ss3BU",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": 6000,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/death/undead-skeleton-energy-green.webp",
+	"name": "Corpse Companion",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.8WjXPmyt5fDa5vde",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

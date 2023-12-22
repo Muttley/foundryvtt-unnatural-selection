@@ -1,0 +1,17 @@
+{
+	"_id": "2vgmUsnZjxlqaKLt",
+	"_key": "!items!2vgmUsnZjxlqaKLt",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Grazer",
+	"system": {
+		"description": "<p>Antelopes, boar, camels, deer, giraffes, goats, horses, moose, steer</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

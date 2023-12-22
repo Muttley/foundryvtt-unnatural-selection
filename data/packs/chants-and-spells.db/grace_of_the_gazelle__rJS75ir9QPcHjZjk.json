@@ -1,0 +1,27 @@
+{
+	"_id": "rJS75ir9QPcHjZjk",
+	"_key": "!items!rJS75ir9QPcHjZjk",
+	"effects": [
+	],
+	"folder": "KaL43Y1RpXfrK0Xi",
+	"img": "icons/creatures/mammals/spirit-deer-herd-blue.webp",
+	"name": "Grace of the Gazelle",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>You channel the spry spirit of the gazelle, granting you and your allies within a near distance from you advantage on all DEX checks and ranged attacks.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

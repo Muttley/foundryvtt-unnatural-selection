@@ -1,0 +1,27 @@
+{
+	"_id": "yx1sMTWkfcoaibPT",
+	"_key": "!items!yx1sMTWkfcoaibPT",
+	"effects": [
+	],
+	"folder": "bYbhaD3ucJiqTLkl",
+	"img": "icons/magic/light/orb-hand-green.webp",
+	"name": "Deadlight",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>You use the soul of a fresh corpse to create a floating light that bobs in the air and casts illumination to a near radius around it. It can float up to a near distance on your turn.</p>",
+		"duration": {
+			"type": "realTime",
+			"value": "1"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

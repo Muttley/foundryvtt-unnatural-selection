@@ -1,0 +1,27 @@
+{
+	"_id": "uOLOfF4ZPVAzJcgW",
+	"_key": "!items!uOLOfF4ZPVAzJcgW",
+	"effects": [
+	],
+	"folder": "bYbhaD3ucJiqTLkl",
+	"img": "icons/magic/death/bones-crossed-orange.webp",
+	"name": "Protection from Undead",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>Undead beings have DISADV on attack rolls against a target you touch. These beings also can’t possess, compel, or beguile it.</p><p></p><p>When cast on an already possessed target, the possessing entity makes a CON check vs. the last spellcasting check. On a failure, the entity is expelled.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.dBYgKQtkXslTSwQn]{Spell Effect: Protection from Undead}</p>",
+		"duration": {
+			"type": "focus",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

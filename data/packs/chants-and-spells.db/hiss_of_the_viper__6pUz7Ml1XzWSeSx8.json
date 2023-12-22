@@ -1,0 +1,27 @@
+{
+	"_id": "6pUz7Ml1XzWSeSx8",
+	"_key": "!items!6pUz7Ml1XzWSeSx8",
+	"effects": [
+	],
+	"folder": "gUzqyWOW1Riq2jYE",
+	"img": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
+	"name": "Hiss of the Viper",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>You hiss loudly and rattle your shakers, calling on the spirit of the serpent.</p><p></p><p>Enemies within a near area centered on you must make a DC 9 morale check at the beginning of their turn.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

@@ -1,0 +1,47 @@
+name: Create Release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+
+    - name: Install Dependencies
+      run: npm ci
+
+    - name: Build
+      run: |
+        npm run build
+        cp --force LICENSE.txt module/.
+        cp --force README.md module/.
+        MODULE_VERSION=$(grep -oP '(?<="version": ")[^"]+' module/module.json | tr -d '\n')
+        perl -pi -E "s|latest/download/unnatural-selection\\.zip|download/release-$MODULE_VERSION/unnatural-selection.zip|" module/module.json
+        echo "moduleVersion=$MODULE_VERSION" >> $GITHUB_ENV
+
+    - run: cd module && zip -r ../unnatural-selection.zip ./*
+
+    - name: Create Version Release
+      id: create_version_release
+      uses: ncipollo/release-action@v1
+      with:
+        allowUpdates: false
+        name: release-${{ env.moduleVersion }}
+        draft: false
+        prerelease: false
+        token: ${{ secrets.GITHUB_TOKEN }}
+        artifacts: './module/module.json, ./unnatural-selection.zip'
+        tag: release-${{ env.moduleVersion }}

@@ -1,0 +1,27 @@
+{
+	"_id": "QUC9mOcmDK82xNiQ",
+	"_key": "!items!QUC9mOcmDK82xNiQ",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/magic/death/projectile-skull-fire-orange.webp",
+	"name": "Bonefire",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>You light a corpse into a magical campfire that cannot be moved, illuminating a near radius.</p><p></p><p>There’s a 50% chance that the necromantic energy from the fire will deter wandering monsters from attacking a resting party.</p>",
+		"duration": {
+			"type": "days",
+			"value": "1"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

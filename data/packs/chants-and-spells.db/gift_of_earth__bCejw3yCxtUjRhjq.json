@@ -1,0 +1,27 @@
+{
+	"_id": "bCejw3yCxtUjRhjq",
+	"_key": "!items!bCejw3yCxtUjRhjq",
+	"effects": [
+	],
+	"folder": "KaL43Y1RpXfrK0Xi",
+	"img": "icons/magic/nature/tree-spirit-glow-black-yellow.webp",
+	"name": "Gift of Earth",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>Your resonating chant causes yourself and your allies in a near area centered on you to become rooted in place and grow barklike skin, giving a +2 AC bonus. You and your allies are rooted in place until the chant ends.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.wIGzUMaUTjpPnpPV]{Spell Effect: Gift of Earth}</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

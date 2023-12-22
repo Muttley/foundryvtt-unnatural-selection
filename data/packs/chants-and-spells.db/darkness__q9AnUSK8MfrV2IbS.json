@@ -1,0 +1,27 @@
+{
+	"_id": "q9AnUSK8MfrV2IbS",
+	"_key": "!items!q9AnUSK8MfrV2IbS",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/magic/perception/shadow-stealth-eyes-purple.webp",
+	"name": "Darkness",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>You magically create darkness in a near cube within the spell’s range. Creatures inside the area are blinded and they are obscured from view from the</p><p>outside. Only magical light can penetrate this magical darkness.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

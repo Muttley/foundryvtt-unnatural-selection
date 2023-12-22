@@ -1,0 +1,24 @@
+{
+	"_id": "dccS2eFgs5jds2qx",
+	"_key": "!items.effects!jdi9biVhMlVWerlO.dccS2eFgs5jds2qx",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": 4201620,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/nature/tree-animated-strike.webp",
+	"name": "Tree Assault",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.jdi9biVhMlVWerlO",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

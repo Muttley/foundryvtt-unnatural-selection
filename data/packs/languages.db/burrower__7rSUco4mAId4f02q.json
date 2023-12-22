@@ -1,0 +1,17 @@
+{
+	"_id": "7rSUco4mAId4f02q",
+	"_key": "!items!7rSUco4mAId4f02q",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Burrower",
+	"system": {
+		"description": "<p>Badgers, meerkats, rabbits, skunks, wolverines</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

@@ -1,0 +1,27 @@
+{
+	"_id": "alxahSPKhCVT8mGy",
+	"_key": "!items!alxahSPKhCVT8mGy",
+	"effects": [
+	],
+	"folder": "DWtwpWjJFLstl7rY",
+	"img": "icons/magic/nature/meteorite-purple.webp",
+	"name": "Foresee Good",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>You call on nature spirits to give you insights into a being’s future. One humanoid you touch gains a luck token.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

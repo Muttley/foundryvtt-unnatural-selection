@@ -7,11 +7,11 @@
 	"img": "icons/environment/traps/trap-jaw-tan.webp",
 	"name": "Trickster",
 	"system": {
-		"description": "<p><span class=\"fontstyle0\">1/day, target one creature to become the object of your nettlesome pranks, granting you the ability to force a re-roll on one attack or check</span>.</p>",
+		"description": "<p>1/day, target one creature to become the object of your nettlesome pranks, granting you the ability to force a re-roll on one attack or check.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		},
 		"talentClass": "ancestry"
 	},

@@ -1,0 +1,46 @@
+{
+	"_id": "IklC8APy3sSAmc7t",
+	"_key": "!items!IklC8APy3sSAmc7t",
+	"effects": [
+		"jWxac8qHqq0SdJnm"
+	],
+	"folder": null,
+	"img": "icons/magic/death/skull-trio-badge-purple.webp",
+	"name": "Spell Effect: Boneskin (Critical)",
+	"system": {
+		"attributes": {
+			"ac": {
+				"value": "20"
+			}
+		},
+		"category": "effect",
+		"description": "",
+		"duration": {
+			"type": "rounds",
+			"value": "10"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"start": {
+			"combatTime": "0.null",
+			"value": 8878
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

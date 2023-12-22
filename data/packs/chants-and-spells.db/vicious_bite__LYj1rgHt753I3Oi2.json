@@ -1,0 +1,27 @@
+{
+	"_id": "LYj1rgHt753I3Oi2",
+	"_key": "!items!LYj1rgHt753I3Oi2",
+	"effects": [
+	],
+	"folder": "DWtwpWjJFLstl7rY",
+	"img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+	"name": "Vicious Bite",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>The teeth on an animal you touch elongates and sharpens. The animal gains an extra die of damage on any bite attack. This spell can be applied to Beastmasters.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.VoC1nZefkhuUX9Z5]{Spell Effect: Vicious Bite}</p>",
+		"duration": {
+			"type": "focus",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

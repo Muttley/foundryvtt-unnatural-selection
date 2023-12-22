@@ -1,0 +1,27 @@
+{
+	"_id": "vY1FBp5GXOu0UaqL",
+	"_key": "!items!vY1FBp5GXOu0UaqL",
+	"effects": [
+	],
+	"folder": "KaL43Y1RpXfrK0Xi",
+	"img": "icons/tools/instruments/drum-brown-red.webp",
+	"name": "Dance of the Drum",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>Your captivating drumming compels enemies within a near distance from you to dance in revelry unless they pass a WIS check vs. your last chanting check. The effect on one target ends if you or your allies do anything the target notices to injure it.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

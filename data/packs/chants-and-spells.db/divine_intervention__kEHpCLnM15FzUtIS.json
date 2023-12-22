@@ -1,0 +1,27 @@
+{
+	"_id": "kEHpCLnM15FzUtIS",
+	"_key": "!items!kEHpCLnM15FzUtIS",
+	"effects": [
+	],
+	"folder": "KaL43Y1RpXfrK0Xi",
+	"img": "icons/environment/people/charge.webp",
+	"name": "Divine Intervention",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>Your revered ancestors intercede on your behalf. All allies within a near distance from you may reroll 1s, keeping the second result.</p><p></p><p>This applies to all rolls, including damage dice.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

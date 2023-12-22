@@ -7,11 +7,11 @@
 	"img": "icons/magic/death/hand-dirt-undead-zombie.webp",
 	"name": "Corpse Walking",
 	"system": {
-		"description": "<p><span class=\"fontstyle0\">At 0 hp you remain active but are still dying. Someone else must stabilize you. You die early if you receive your full hp of damage again</span>.</p>",
+		"description": "<p>At 0 hp you remain active but are still dying. Someone else must stabilize you. You die early if you receive your full hp of damage again.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		},
 		"talentClass": "ancestry"
 	},

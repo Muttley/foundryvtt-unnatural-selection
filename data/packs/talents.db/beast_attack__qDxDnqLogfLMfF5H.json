@@ -7,11 +7,11 @@
 	"img": "icons/creatures/abilities/mouth-teeth-lamprey-red.webp",
 	"name": "Beast Attack",
 	"system": {
-		"description": "<p>Choose one animal type to use for all melee attacks (see Beast Attacks table). If your talents allow for multiple animals (see Beastmaster Talents chart), you may choose which animal to use with every individual attack.</p><p>@UUID[Compendium.unnatural-selection.gear.Item.VPgQSNB5RRsqxEqm]{Bear}</p><p>@UUID[Compendium.unnatural-selection.gear.Item.muCQflvxYkoMRP5x]{Eagle}</p><p>@UUID[Compendium.unnatural-selection.gear.Item.53Yk2gIe8vAxbp9E]{Snake}</p><p>@UUID[Compendium.unnatural-selection.gear.Item.8BxUYQV7Qgy6lM8S]{Wolf}</p>",
+		"description": "<p>Choose one animal type to use for all melee attacks (see Beast Attacks table). If your talents allow for multiple animals (see Beastmaster Talents chart), you may choose which animal to use with every individual attack.</p><p>@UUID[Compendium.unnatural-selection.gear.Item.VPgQSNB5RRsqxEqm]{Bear}</p><p>@UUID[Compendium.unnatural-selection.gear.Item.muCQflvxYkoMRP5x]{Eagle}</p><p>@UUID[Compendium.unnatural-selection.gear.Item.53Yk2gIe8vAxbp9E]{Cobra}</p><p>@UUID[Compendium.unnatural-selection.gear.Item.8BxUYQV7Qgy6lM8S]{Wolf}</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		},
 		"talentClass": "class"
 	},

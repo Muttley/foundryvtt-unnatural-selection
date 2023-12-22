@@ -1,0 +1,27 @@
+{
+	"_id": "zgsIcZ7I98jlYQo8",
+	"_key": "!items!zgsIcZ7I98jlYQo8",
+	"effects": [
+	],
+	"folder": "DWtwpWjJFLstl7rY",
+	"img": "icons/magic/nature/root-vine-thorned-coil-green.webp",
+	"name": "Reduce Animal",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>An animal you touch is reduced to a quarter of its normal size and any giant animal is reduced to normal size. If animal is engaged in combat, it makes a morale check.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.y4DTKhnX7LmGLEIT]{Spell Effect: Reduce Animal}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

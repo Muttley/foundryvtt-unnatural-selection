@@ -1,0 +1,27 @@
+{
+	"_id": "q3hEfif9h5AFLr9K",
+	"_key": "!items!q3hEfif9h5AFLr9K",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/creatures/invertebrates/beetle-grub-larvae-gray.webp",
+	"name": "Grub Geyser",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>You breathe a stream of flesheating maggots at a close target. Target must make a CON vs. your spellcasting check check or take [[/r 1d6]] damage and suffer DISADV on attacks and spellcasting checks as long as they are covered in maggots.</p><p></p><p>Target continues to take [[/r 1d6]] damage each round until the effect ends or until they take an action to brush them off.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.9KUYhwrAQ5QGAHV5]{Spell Effect: Grub Geyser}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

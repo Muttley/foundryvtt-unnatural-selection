@@ -1,0 +1,27 @@
+{
+	"_id": "wGIKytEMLRESl7Br",
+	"_key": "!items!wGIKytEMLRESl7Br",
+	"effects": [
+	],
+	"folder": "DWtwpWjJFLstl7rY",
+	"img": "icons/magic/nature/mushrooms-fire-glow-blue.webp",
+	"name": "Obscuring Spores",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>You create and cause a mushroom to explode, causing a dense cloud of obscuring spores to fill a near cube centered on a point within near. Creatures cannot see in or out of the cloud. It lasts for the full duration or until a wind disperses it.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.Zztg0pfMYUEmGgAb]{Spell Effect: Obscuring Spores}</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "5"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

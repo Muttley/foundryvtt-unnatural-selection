@@ -1,0 +1,24 @@
+{
+	"_id": "FCWBh8UnqESU4ZMv",
+	"_key": "!items.effects!CQ1NsobeTGexh4QR.FCWBh8UnqESU4ZMv",
+	"changes": [
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": 3600,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/magic/death/skull-fire-white-yellow.webp",
+	"name": "Fireskull Familiar",
+	"origin": "Compendium.unnatural-selection.chant-and-spell-effects.Item.CQ1NsobeTGexh4QR",
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

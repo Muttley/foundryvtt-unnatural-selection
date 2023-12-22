@@ -1,0 +1,17 @@
+{
+	"_id": "uZuKUIH3Xz13QKPU",
+	"_key": "!items!uZuKUIH3Xz13QKPU",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Marsupial",
+	"system": {
+		"description": "<p>Kangaroos, koalas, opossums, tasmanian devils</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

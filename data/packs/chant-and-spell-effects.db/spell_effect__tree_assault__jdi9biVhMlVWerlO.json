@@ -1,0 +1,41 @@
+{
+	"_id": "jdi9biVhMlVWerlO",
+	"_key": "!items!jdi9biVhMlVWerlO",
+	"effects": [
+		"dccS2eFgs5jds2qx"
+	],
+	"folder": null,
+	"img": "icons/magic/nature/tree-animated-strike.webp",
+	"name": "Spell Effect: Tree Assault",
+	"system": {
+		"category": "effect",
+		"description": "",
+		"duration": {
+			"type": "unlimited",
+			"value": -1
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"start": {
+			"combatTime": "11.0",
+			"value": 21898
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

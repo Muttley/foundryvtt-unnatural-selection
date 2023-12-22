@@ -1,0 +1,27 @@
+{
+	"_id": "z70J2goW5AnPZzXP",
+	"_key": "!items!z70J2goW5AnPZzXP",
+	"effects": [
+	],
+	"folder": "gUzqyWOW1Riq2jYE",
+	"img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
+	"name": "Shamanic Purge",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>You compel your allies within a near range from you to undergo a violent upheaval, expelling possessing spirits, compulsions, or beguilements.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

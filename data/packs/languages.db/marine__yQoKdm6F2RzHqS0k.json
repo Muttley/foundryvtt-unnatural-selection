@@ -1,0 +1,17 @@
+{
+	"_id": "yQoKdm6F2RzHqS0k",
+	"_key": "!items!yQoKdm6F2RzHqS0k",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Marine",
+	"system": {
+		"description": "<p>Dolphins, fish, otters, sharks, whales</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

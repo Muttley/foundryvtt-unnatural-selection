@@ -1,0 +1,41 @@
+{
+	"_id": "hIM8YttWf1wW9pKv",
+	"_key": "!items!hIM8YttWf1wW9pKv",
+	"effects": [
+		"VrMQ5iu8gjS9afZ6"
+	],
+	"folder": null,
+	"img": "icons/creatures/mammals/deer-movement-leap-green.webp",
+	"name": "Spell Effect: Charm Animals",
+	"system": {
+		"category": "effect",
+		"description": "",
+		"duration": {
+			"type": "days",
+			"value": "1"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"start": {
+			"combatTime": "11.0",
+			"value": 21898
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

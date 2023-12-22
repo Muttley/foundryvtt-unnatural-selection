@@ -1,0 +1,27 @@
+{
+	"_id": "CVMmyj1dbrSCIbKJ",
+	"_key": "!items!CVMmyj1dbrSCIbKJ",
+	"effects": [
+	],
+	"folder": "KaL43Y1RpXfrK0Xi",
+	"img": "icons/environment/creatures/horses.webp",
+	"name": "Call to the Wild",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>Your voice carries the ancient melody that invites animals within far to come to your aid.</p><p></p><p>The GM decides which and how many arrive; the animals’ combined LV being twice yours.</p><p></p><p>They begin arriving in one round and will take the most obvious, instinctual action that can assist you and your allies.</p><p></p><p>This chant does not grant you the ability to speak to them or control them.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "far",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

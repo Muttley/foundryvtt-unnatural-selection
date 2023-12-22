@@ -1,0 +1,27 @@
+{
+	"_id": "M0GrhsdhgXhQtmle",
+	"_key": "!items!M0GrhsdhgXhQtmle",
+	"effects": [
+	],
+	"folder": "gUzqyWOW1Riq2jYE",
+	"img": "icons/magic/life/heart-red-blue.webp",
+	"name": "Heart of the Lion",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.N7X1fRTHh45YqjjM"
+		],
+		"description": "<p>You bang your drum with ferocity, causing yourself and your allies within near range to gain unwavering determination. Those affected cannot be surprised and have advantage on initiative rolls.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

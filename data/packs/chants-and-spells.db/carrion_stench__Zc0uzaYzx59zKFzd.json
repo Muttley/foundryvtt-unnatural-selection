@@ -1,0 +1,27 @@
+{
+	"_id": "Zc0uzaYzx59zKFzd",
+	"_key": "!items!Zc0uzaYzx59zKFzd",
+	"effects": [
+	],
+	"folder": "bYbhaD3ucJiqTLkl",
+	"img": "icons/magic/death/gallows-hanged-humanoid.webp",
+	"name": "Carrion Stench",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>You exude the putrid essence of a ghast.</p><p></p><p>Living creatures must make a DC 12 CON check within a near radius centered on you. Those affected have disadvantage on attacks and spellcasting on their next turn.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

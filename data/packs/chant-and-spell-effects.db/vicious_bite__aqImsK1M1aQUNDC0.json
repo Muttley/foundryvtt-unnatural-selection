@@ -1,0 +1,29 @@
+{
+	"_id": "aqImsK1M1aQUNDC0",
+	"_key": "!items.effects!VoC1nZefkhuUX9Z5.aqImsK1M1aQUNDC0",
+	"changes": [
+		{
+			"key": "system.bonuses.weaponDamageExtraDieByProperty",
+			"mode": 2,
+			"value": "d6|bite-attack"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"icon": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+	"name": "Vicious Bite",
+	"origin": null,
+	"statuses": [
+	],
+	"tint": null,
+	"transfer": true
+}

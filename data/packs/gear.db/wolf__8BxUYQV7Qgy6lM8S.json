@@ -30,7 +30,7 @@
 			"oneHanded": "d6",
 			"twoHanded": ""
 		},
-		"description": "<p>Bite deals d6 damage equal to half your level rounded down. Minimum of 1d6.</p>",
+		"description": "<p>Bite deals d6 damage equal to half your level rounded down. Minimum of [[/r 1d6]].</p><p></p><p>Beast Shape: <strong>Wolf</strong> (see pg. 264 from sourcebook).</p>",
 		"equipped": false,
 		"isPhysical": true,
 		"magicItem": false,
@@ -46,7 +46,7 @@
 			"slots_used": 0
 		},
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		},
 		"stashed": false,
 		"type": "melee",

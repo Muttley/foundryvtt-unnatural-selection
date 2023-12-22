@@ -1,0 +1,27 @@
+{
+	"_id": "h1xA1gWlxOdaNIP7",
+	"_key": "!items!h1xA1gWlxOdaNIP7",
+	"effects": [
+	],
+	"folder": "Txxz2KUbyfzlc0ug",
+	"img": "icons/creatures/invertebrates/wasp-swarm-attack.webp",
+	"name": "Arrow of Hornets",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>A mass of hornets you summon coalesce into an arrow that hits a target, dealing [[/r 1d6]] damage.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "far",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

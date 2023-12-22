@@ -2,7 +2,7 @@
     "id": "unnatural-selection",
     "title": "Unnatural Selection",
 	"description": "",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
@@ -46,6 +46,18 @@
                 "PLAYER": "OBSERVER"
             },
             "path": "packs/backgrounds",
+            "system": "shadowdark",
+            "type": "Item"
+        },
+        {
+            "flags": {},
+            "label": "Chant and Spell Effects",
+            "name": "chant-and-spell-effects",
+            "ownership": {
+                "ASSISTANT": "OWNER",
+                "PLAYER": "OBSERVER"
+            },
+            "path": "packs/chant-and-spell-effects",
             "system": "shadowdark",
             "type": "Item"
         },
@@ -188,6 +200,8 @@
 			"sorting": "a",
 			"color": "#472022",
 			"packs": [
+				"chant-and-spell-effects",
+				"chants-and-spells",
 				"documents",
 				"effects",
 				"gear",
@@ -202,7 +216,6 @@
 					"packs": [
 						"ancestries",
 						"backgrounds",
-						"chants-and-spells",
 						"class-abilities",
 						"classes",
 						"deities",
@@ -219,5 +232,8 @@
 				"unnatural_selection": "Unnatural Selection"
 			}
 		}
-	}
+	},
+	"url": "https://github.com/Muttley/foundryvtt-unnatural-selection",
+	"manifest": "https://raw.githubusercontent.com/Muttley/foundryvtt-unnatural-selection/main/module/module.json",
+	"download": "https://github.com/Muttley/foundryvtt-unnatural-selection/releases/latest/download/unnatural-selection.zip"
 }

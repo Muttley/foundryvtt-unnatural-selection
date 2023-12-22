@@ -1,0 +1,27 @@
+{
+	"_id": "hYB5EsqnnkKbuWJC",
+	"_key": "!items!hYB5EsqnnkKbuWJC",
+	"effects": [
+	],
+	"folder": "DWtwpWjJFLstl7rY",
+	"img": "icons/creatures/mammals/deer-movement-leap-green.webp",
+	"name": "Charm Animals",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>You magically beguile a number of natural animals whose combined LV equals your level. Two LV 0 animals count as 1 LV.</p><p></p><p>They regard you as their master, but if they cannot understand you, they will take the most obvious, instinctual action to assist you.</p><p></p><p>The spell ends if you or your allies cause harm to any of them. The animals return to their wild form when the spell ends.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.hIM8YttWf1wW9pKv]{Spell Effect: Charm Animals}</p>",
+		"duration": {
+			"type": "days",
+			"value": "1"
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

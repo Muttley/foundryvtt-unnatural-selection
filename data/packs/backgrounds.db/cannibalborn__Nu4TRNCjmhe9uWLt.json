@@ -9,7 +9,7 @@
 	"system": {
 		"description": "<p>You renounced your heritage.</p>",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		}
 	},
 	"type": "Background"

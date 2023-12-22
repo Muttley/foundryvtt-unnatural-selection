@@ -30,7 +30,7 @@
 			"oneHanded": "d6",
 			"twoHanded": ""
 		},
-		"description": "<p>Talon grasp attack does 1d6 from additional pecking. Target must make a DC 9 STR check to escape. If grappled, do automatic 1d6 peck damage each round.</p>",
+		"description": "<p>Talon grasp attack grapples and target is pecked for [[/r 1d6]]. Target must make a DC 9 STR check to escape. If grappled, do automatic [[/r 1d6]] peck damage each round.</p><p></p><p>Beast Shape: <strong>Eagle</strong> (see pg. 106).</p>",
 		"equipped": false,
 		"isPhysical": true,
 		"magicItem": false,
@@ -46,7 +46,7 @@
 			"slots_used": 0
 		},
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		},
 		"stashed": false,
 		"type": "melee",

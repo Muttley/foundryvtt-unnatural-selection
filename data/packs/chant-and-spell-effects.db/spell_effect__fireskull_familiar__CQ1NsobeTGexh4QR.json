@@ -1,0 +1,41 @@
+{
+	"_id": "CQ1NsobeTGexh4QR",
+	"_key": "!items!CQ1NsobeTGexh4QR",
+	"effects": [
+		"FCWBh8UnqESU4ZMv"
+	],
+	"folder": null,
+	"img": "icons/magic/death/skull-fire-white-yellow.webp",
+	"name": "Spell Effect: Fireskull Familiar",
+	"system": {
+		"category": "effect",
+		"description": "",
+		"duration": {
+			"type": "hours",
+			"value": "1"
+		},
+		"effectPanel": {
+			"show": true
+		},
+		"light": {
+			"active": false,
+			"hasBeenUsed": false,
+			"isSource": false,
+			"longevityMins": 60,
+			"remainingSecs": 3600,
+			"template": "torch"
+		},
+		"predefinedEffects": "",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"start": {
+			"combatTime": "0.null",
+			"value": 8878
+		},
+		"tokenIcon": {
+			"show": true
+		}
+	},
+	"type": "Effect"
+}

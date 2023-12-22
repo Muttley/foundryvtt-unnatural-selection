@@ -1,0 +1,27 @@
+{
+	"_id": "HlOUWKLeqtitEItD",
+	"_key": "!items!HlOUWKLeqtitEItD",
+	"effects": [
+	],
+	"folder": "Txxz2KUbyfzlc0ug",
+	"img": "icons/magic/nature/mushroom-glow-red.webp",
+	"name": "Fungal Cloud",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
+		],
+		"description": "<p>You lift your hands and a shrub-sized mushroom grows from any surface and explodes, causing a cloud of spores to fill a near radius.</p><p></p><p>Any living creatures must make a DC 12 CON check or have DISADV on attacks and checks for the next round.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "near",
+		"source": {
+			"title": "unnatural_selection"
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

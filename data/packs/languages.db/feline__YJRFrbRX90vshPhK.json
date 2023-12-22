@@ -1,0 +1,17 @@
+{
+	"_id": "YJRFrbRX90vshPhK",
+	"_key": "!items!YJRFrbRX90vshPhK",
+	"effects": [
+	],
+	"folder": "s6ne6SAAH4gEomlq",
+	"img": "icons/tools/scribal/ink-quill-pink.webp",
+	"name": "Feline",
+	"system": {
+		"description": "<p>Cheetahs, house cats, lions, panthers, tigers</p>",
+		"rarity": "common",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "Language"
+}

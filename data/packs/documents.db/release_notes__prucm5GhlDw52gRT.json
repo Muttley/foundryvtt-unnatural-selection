@@ -1,0 +1,23 @@
+{
+	"_id": "prucm5GhlDw52gRT",
+	"_key": "!journal.pages!Ov0Sh4qe3p6yHTb2.prucm5GhlDw52gRT",
+	"image": {
+	},
+	"name": "Release Notes",
+	"src": null,
+	"system": {
+	},
+	"text": {
+		"content": "<h1>v1.0.0</h1>\n<p>Initial Release</p>\n",
+		"format": 1
+	},
+	"title": {
+		"level": 1,
+		"show": false
+	},
+	"type": "text",
+	"video": {
+		"controls": true,
+		"volume": 0.5
+	}
+}

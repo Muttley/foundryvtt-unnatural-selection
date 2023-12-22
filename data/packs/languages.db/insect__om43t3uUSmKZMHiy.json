@@ -1,14 +1,13 @@
 {
-	"_id": "QMAq46gShp5EAmNF",
-	"_key": "!items!QMAq46gShp5EAmNF",
+	"_id": "om43t3uUSmKZMHiy",
+	"_key": "!items!om43t3uUSmKZMHiy",
 	"effects": [
 	],
-	"folder": null,
+	"folder": "s6ne6SAAH4gEomlq",
 	"img": "icons/tools/scribal/ink-quill-pink.webp",
-	"name": "Snake",
+	"name": "Insect",
 	"system": {
-		"description": "",
-		"predefinedEffects": "",
+		"description": "<p>All insects</p>",
 		"rarity": "common",
 		"source": {
 			"title": ""

@@ -11,7 +11,7 @@
 		"itemType": "weapon",
 		"predefinedEffects": "",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		}
 	},
 	"type": "Property"
