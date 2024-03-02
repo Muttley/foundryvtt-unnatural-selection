@@ -8,9 +8,10 @@
 	"name": "Bear",
 	"system": {
 		"description": "<p>Bears, raccoons</p>",
+		"predefinedEffects": "",
 		"rarity": "common",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		}
 	},
 	"type": "Language"

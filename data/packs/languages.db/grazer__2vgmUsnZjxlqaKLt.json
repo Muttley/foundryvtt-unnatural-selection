@@ -8,9 +8,10 @@
 	"name": "Grazer",
 	"system": {
 		"description": "<p>Antelopes, boar, camels, deer, giraffes, goats, horses, moose, steer</p>",
+		"predefinedEffects": "",
 		"rarity": "common",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		}
 	},
 	"type": "Language"

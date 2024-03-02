@@ -8,9 +8,10 @@
 	"name": "Canine",
 	"system": {
 		"description": "<p>Coyotes, dogs, foxes, hyenas, mastiffs, wolves</p>",
+		"predefinedEffects": "",
 		"rarity": "common",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		}
 	},
 	"type": "Language"

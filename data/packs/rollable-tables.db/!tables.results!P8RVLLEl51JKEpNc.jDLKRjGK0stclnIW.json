@@ -6,7 +6,7 @@
 	"drawn": false,
 	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
 	"range": [
-		8,
+		7,
 		9
 	],
 	"text": "+2 to Intelligence",

@@ -8,9 +8,10 @@
 	"name": "Marine",
 	"system": {
 		"description": "<p>Dolphins, fish, otters, sharks, whales</p>",
+		"predefinedEffects": "",
 		"rarity": "common",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		}
 	},
 	"type": "Language"

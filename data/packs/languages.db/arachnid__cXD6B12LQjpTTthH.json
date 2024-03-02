@@ -8,9 +8,10 @@
 	"name": "Arachnid",
 	"system": {
 		"description": "<p>Scorpions, spiders, ticks</p>",
+		"predefinedEffects": "",
 		"rarity": "common",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		}
 	},
 	"type": "Language"
