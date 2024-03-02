@@ -8,9 +8,10 @@
 	"name": "Marsupial",
 	"system": {
 		"description": "<p>Kangaroos, koalas, opossums, tasmanian devils</p>",
+		"predefinedEffects": "",
 		"rarity": "common",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		}
 	},
 	"type": "Language"
