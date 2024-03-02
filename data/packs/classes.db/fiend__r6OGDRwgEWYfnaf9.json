@@ -22,11 +22,11 @@
 		"languages": {
 			"common": 0,
 			"fixed": [
+				"Compendium.shadowdark.languages.Item.b5yBrLaRIl7ZEWKu"
 			],
 			"rare": 0,
 			"select": 0,
 			"selectOptions": [
-				"Compendium.shadowdark.languages.Item.b5yBrLaRIl7ZEWKu"
 			]
 		},
 		"predefinedEffects": "",

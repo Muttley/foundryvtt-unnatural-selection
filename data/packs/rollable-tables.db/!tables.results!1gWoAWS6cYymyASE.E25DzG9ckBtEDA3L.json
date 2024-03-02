@@ -1,0 +1,14 @@
+{
+	"_id": "E25DzG9ckBtEDA3L",
+	"_key": "!tables.results!1gWoAWS6cYymyASE.E25DzG9ckBtEDA3L",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		5,
+		5
+	],
+	"text": "Carnoa",
+	"type": 0,
+	"weight": 1
+}

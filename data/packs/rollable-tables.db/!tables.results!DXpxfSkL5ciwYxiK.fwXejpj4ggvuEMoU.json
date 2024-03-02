@@ -1,0 +1,14 @@
+{
+	"_id": "fwXejpj4ggvuEMoU",
+	"_key": "!tables.results!DXpxfSkL5ciwYxiK.fwXejpj4ggvuEMoU",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		20,
+		20
+	],
+	"text": "Zephyrion",
+	"type": 0,
+	"weight": 1
+}

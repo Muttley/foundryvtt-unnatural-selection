@@ -1,0 +1,14 @@
+{
+	"_id": "5RXlnykgc2CXbEMF",
+	"_key": "!tables.results!udTpI36QSmv6zypg.5RXlnykgc2CXbEMF",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		1,
+		1
+	],
+	"text": "Boblib",
+	"type": 0,
+	"weight": 1
+}

@@ -1,0 +1,14 @@
+{
+	"_id": "izE2xHi0oueuDESw",
+	"_key": "!tables.results!W0JizrndnNR7Z5km.izE2xHi0oueuDESw",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		10,
+		10
+	],
+	"text": "Krugnok",
+	"type": 0,
+	"weight": 1
+}
