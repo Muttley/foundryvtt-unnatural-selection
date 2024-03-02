@@ -8,6 +8,6 @@ export default gulp.series(
 	packs.compile
 );
 
-export const build = gulp.series(notes.compile, packs.compile);
+export const build = gulp.series(packs.compile);
 export const clean = gulp.series(packs.clean);
 export const compileNotes = gulp.series(notes.compile);

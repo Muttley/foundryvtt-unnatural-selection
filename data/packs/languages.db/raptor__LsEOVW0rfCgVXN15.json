@@ -8,9 +8,10 @@
 	"name": "Raptor",
 	"system": {
 		"description": "<p>Hawks, eagles, ostriches, owls, pelicans, vultures</p>",
+		"predefinedEffects": "",
 		"rarity": "common",
 		"source": {
-			"title": ""
+			"title": "unnatural_selection"
 		}
 	},
 	"type": "Language"

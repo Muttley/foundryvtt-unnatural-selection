@@ -1,0 +1,14 @@
+{
+	"_id": "NhDykRirZoq1bIKB",
+	"_key": "!tables.results!FYI4zkoWHeZu62g9.NhDykRirZoq1bIKB",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		3,
+		3
+	],
+	"text": "Clyze",
+	"type": 0,
+	"weight": 1
+}

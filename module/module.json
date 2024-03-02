@@ -2,7 +2,7 @@
     "id": "unnatural-selection",
     "title": "Unnatural Selection",
 	"description": "",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
@@ -22,7 +22,11 @@
             "email": "mu77ley@gmail.com",
             "flags": {},
             "name": "Paul Maskelyne"
-        }
+        },
+		{
+			"name": "Prototype",
+			"discord": "prototypesbu"
+		}
     ],
     "packs": [
         {

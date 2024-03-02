@@ -1,0 +1,14 @@
+{
+	"_id": "UOSQrWdYQoFSQY8h",
+	"_key": "!tables.results!W0JizrndnNR7Z5km.UOSQrWdYQoFSQY8h",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		20,
+		20
+	],
+	"text": "Vonkna",
+	"type": 0,
+	"weight": 1
+}

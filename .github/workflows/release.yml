@@ -25,6 +25,7 @@ jobs:
 
     - name: Build
       run: |
+        npm run notes
         npm run build
         cp --force LICENSE.txt module/.
         cp --force README.md module/.

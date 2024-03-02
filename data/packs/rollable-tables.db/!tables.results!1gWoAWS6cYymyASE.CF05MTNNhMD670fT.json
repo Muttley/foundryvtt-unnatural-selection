@@ -1,0 +1,14 @@
+{
+	"_id": "CF05MTNNhMD670fT",
+	"_key": "!tables.results!1gWoAWS6cYymyASE.CF05MTNNhMD670fT",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		10,
+		10
+	],
+	"text": "Kriphlix",
+	"type": 0,
+	"weight": 1
+}

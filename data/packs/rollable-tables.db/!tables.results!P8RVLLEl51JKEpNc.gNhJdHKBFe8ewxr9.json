@@ -6,9 +6,9 @@
 	"img": "icons/svg/d20-black.svg",
 	"range": [
 		3,
-		7
+		6
 	],
-	"text": "Increase elixir die cateogry by one on an elixir you choose. d12 is max.",
+	"text": "Add an extra die rolled on an elixir you choose.",
 	"type": 0,
 	"weight": 1
 }

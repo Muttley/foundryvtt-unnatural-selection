@@ -26,8 +26,23 @@
 			"fixed": [
 			],
 			"rare": 0,
-			"select": 0,
+			"select": 2,
 			"selectOptions": [
+				"Compendium.unnatural-selection.languages.Item.2vgmUsnZjxlqaKLt",
+				"Compendium.unnatural-selection.languages.Item.3uNr4vHswwghnovc",
+				"Compendium.unnatural-selection.languages.Item.7rSUco4mAId4f02q",
+				"Compendium.unnatural-selection.languages.Item.cXD6B12LQjpTTthH",
+				"Compendium.unnatural-selection.languages.Item.d3folnkeaUFnzQFp",
+				"Compendium.unnatural-selection.languages.Item.evYALAVCOa9nBOsP",
+				"Compendium.unnatural-selection.languages.Item.lm4xCcFXKhwVbKt0",
+				"Compendium.unnatural-selection.languages.Item.LsEOVW0rfCgVXN15",
+				"Compendium.unnatural-selection.languages.Item.om43t3uUSmKZMHiy",
+				"Compendium.unnatural-selection.languages.Item.Qj9BldAsO0AixXPS",
+				"Compendium.unnatural-selection.languages.Item.RsKj0yhROFIotHbs",
+				"Compendium.unnatural-selection.languages.Item.uZuKUIH3Xz13QKPU",
+				"Compendium.unnatural-selection.languages.Item.YGJOrZPDyQHapSWy",
+				"Compendium.unnatural-selection.languages.Item.YJRFrbRX90vshPhK",
+				"Compendium.unnatural-selection.languages.Item.yQoKdm6F2RzHqS0k"
 			]
 		},
 		"predefinedEffects": "",

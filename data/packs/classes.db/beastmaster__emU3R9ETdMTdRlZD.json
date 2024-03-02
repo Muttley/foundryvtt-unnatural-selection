@@ -17,14 +17,14 @@
 		"description": "<p>Limbs and mouths contort and crack as bones and jaws rearrange themselves.</p><p></p><p><strong>Weapons:</strong> All ranged weapons</p><p></p><p><strong>Armor:</strong> None</p><p></p><p><strong>Hit Points:</strong> 1d8 per level</p><p></p><p><strong>Languages.</strong> You can speak to your chosen animal species.</p><p></p><p><strong>Beast Attack.</strong> Choose one animal type to use for all melee attacks (see Beast Attacks table). If your talents allow for multiple animals (see Beastmaster Talents chart), you may choose which animal to use with every individual attack.</p><p></p><p><strong>Beast Hyde.</strong> Your skin is covered with a protective hide. If your CON modifier is positive, add it to your AC.</p><p></p><p><strong>Beast Shape.</strong> Once per day, you and your possessions may transform into the natural form of your chosen beast for 3 rounds, taking on the animal’s statistics, attacks, and abilities. You still need light to see.</p><p></p><p>If you take damage while in this form, do not transfer that damage to your own hp when you return to your humanoid form. If you reach 0 HP in your animal form, you transform back at 0 HP, starting your death timer as normal.</p>",
 		"hitPoints": "d8",
 		"language": {
-			"select": 1
+			"select": null
 		},
 		"languages": {
 			"common": 0,
 			"fixed": [
 			],
 			"rare": 0,
-			"select": 0,
+			"select": 1,
 			"selectOptions": [
 				"Compendium.unnatural-selection.languages.Item.3uNr4vHswwghnovc",
 				"Compendium.unnatural-selection.languages.Item.d3folnkeaUFnzQFp",

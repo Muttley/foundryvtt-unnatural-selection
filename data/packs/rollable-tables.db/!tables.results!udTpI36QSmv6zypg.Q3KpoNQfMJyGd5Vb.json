@@ -1,0 +1,14 @@
+{
+	"_id": "Q3KpoNQfMJyGd5Vb",
+	"_key": "!tables.results!udTpI36QSmv6zypg.Q3KpoNQfMJyGd5Vb",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		15,
+		15
+	],
+	"text": "Snurb",
+	"type": 0,
+	"weight": 1
+}

@@ -1,0 +1,14 @@
+{
+	"_id": "lZgP7m8j4jG8qQBU",
+	"_key": "!tables.results!GsR5duGs7DXBAA4h.lZgP7m8j4jG8qQBU",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		10,
+		10
+	],
+	"text": "Phaeris",
+	"type": 0,
+	"weight": 1
+}
