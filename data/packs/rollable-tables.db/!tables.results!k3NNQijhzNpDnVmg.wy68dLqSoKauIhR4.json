@@ -1,0 +1,14 @@
+{
+	"_id": "wy68dLqSoKauIhR4",
+	"_key": "!tables.results!k3NNQijhzNpDnVmg.wy68dLqSoKauIhR4",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		20,
+		20
+	],
+	"text": "Yucca",
+	"type": 0,
+	"weight": 1
+}

@@ -1,0 +1,14 @@
+{
+	"_id": "OQzdbzRprAU6eR0Y",
+	"_key": "!tables.results!1gWoAWS6cYymyASE.OQzdbzRprAU6eR0Y",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		16,
+		16
+	],
+	"text": "Tolendril",
+	"type": 0,
+	"weight": 1
+}
