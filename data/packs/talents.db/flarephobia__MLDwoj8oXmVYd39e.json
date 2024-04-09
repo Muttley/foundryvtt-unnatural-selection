@@ -7,7 +7,7 @@
 	"img": "icons/magic/fire/projectile-flaming-eyeball-red.webp",
 	"name": "Flarephobia",
 	"system": {
-		"description": "<p><strong>Flarephobia.</strong> Creatures hit by a Firebond weapon must make a morale check at DC 9. Increase DC by one step on duplicate.</p>",
+		"description": "<p><strong>Flarephobia.</strong> Creatures hit by a Firebond weapon must make a morale check at DC 9. Do not check again for the same creature. Increase DC by one step on duplicate.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {
