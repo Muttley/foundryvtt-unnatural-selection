@@ -1,0 +1,15 @@
+{
+	"_id": "iePQMbTBZCBiFf11",
+	"_key": "!tables.results!Ddp7F05Uhi9lKwgB.iePQMbTBZCBiFf11",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "6Zm9I7f7yvIXjOtC",
+	"drawn": false,
+	"img": "icons/magic/perception/hand-eye-fire-blue.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Know Desires or Fears",
+	"type": 2,
+	"weight": 1
+}

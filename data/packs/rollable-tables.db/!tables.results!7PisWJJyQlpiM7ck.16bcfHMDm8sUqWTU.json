@@ -1,0 +1,15 @@
+{
+	"_id": "16bcfHMDm8sUqWTU",
+	"_key": "!tables.results!7PisWJJyQlpiM7ck.16bcfHMDm8sUqWTU",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "NqlKplAbAaJlXMsJ",
+	"drawn": false,
+	"img": "icons/magic/sonic/explosion-impact-shock-wave.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Learn Additional Chant",
+	"type": 2,
+	"weight": 1
+}

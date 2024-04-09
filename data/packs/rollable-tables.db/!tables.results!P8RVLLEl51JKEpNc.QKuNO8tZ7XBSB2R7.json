@@ -2,14 +2,14 @@
 	"_id": "QKuNO8tZ7XBSB2R7",
 	"_key": "!tables.results!P8RVLLEl51JKEpNc.QKuNO8tZ7XBSB2R7",
 	"documentCollection": "shadowdark.talents",
-	"documentId": null,
+	"documentId": "aRY0hjpvzYpdRbfR",
 	"drawn": false,
-	"img": "icons/svg/d20-black.svg",
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
 	"range": [
 		7,
 		9
 	],
-	"text": "+1 to elixir checks",
-	"type": 0,
+	"text": "+2 to Intelligence",
+	"type": 2,
 	"weight": 1
 }

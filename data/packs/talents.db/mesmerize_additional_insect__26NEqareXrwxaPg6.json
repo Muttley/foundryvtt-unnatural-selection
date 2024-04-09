@@ -1,0 +1,19 @@
+{
+	"_id": "26NEqareXrwxaPg6",
+	"_key": "!items!26NEqareXrwxaPg6",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/creatures/invertebrates/ant-strength-green.webp",
+	"name": "Mesmerize Additional Insect",
+	"system": {
+		"description": "<p>Mesmerize one additional insect per day.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "LNmdLZfuvoIjXEn0",
+	"_key": "!tables.results!7PisWJJyQlpiM7ck.LNmdLZfuvoIjXEn0",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "J2hUl4d33oOr5V4m",
+	"drawn": false,
+	"img": "icons/magic/sonic/projectile-sound-rings-wave.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Chant Advantage",
+	"type": 2,
+	"weight": 1
+}

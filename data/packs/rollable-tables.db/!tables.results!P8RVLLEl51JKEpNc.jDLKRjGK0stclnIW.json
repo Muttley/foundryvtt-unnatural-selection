@@ -2,14 +2,14 @@
 	"_id": "jDLKRjGK0stclnIW",
 	"_key": "!tables.results!P8RVLLEl51JKEpNc.jDLKRjGK0stclnIW",
 	"documentCollection": "shadowdark.talents",
-	"documentId": "aRY0hjpvzYpdRbfR",
+	"documentId": "vIbwotCa1eqCVZMU",
 	"drawn": false,
 	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
 	"range": [
 		7,
 		9
 	],
-	"text": "+2 to Intelligence",
+	"text": "+2 to Dexterity",
 	"type": 2,
 	"weight": 1
 }

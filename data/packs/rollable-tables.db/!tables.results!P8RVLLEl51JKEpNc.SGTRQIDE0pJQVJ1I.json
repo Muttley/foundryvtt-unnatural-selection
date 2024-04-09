@@ -1,0 +1,15 @@
+{
+	"_id": "SGTRQIDE0pJQVJ1I",
+	"_key": "!tables.results!P8RVLLEl51JKEpNc.SGTRQIDE0pJQVJ1I",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "EzXGk05M7Hff5TOL",
+	"drawn": false,
+	"img": "icons/consumables/potions/bottle-round-ring-teal.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "+1 to Elixir Checks",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "Olu7c8mG4dnQRUPs",
+	"_key": "!tables.results!Ddp7F05Uhi9lKwgB.Olu7c8mG4dnQRUPs",
+	"documentCollection": "shadowdark.talents",
+	"documentId": "WSm6JESNoyFBnkW2",
+	"drawn": false,
+	"img": "icons/skills/melee/spear-tips-triple-orange.webp",
+	"range": [
+		3,
+		6
+	],
+	"text": "+1 to Melee and Ranged Attacks",
+	"type": 2,
+	"weight": 1
+}

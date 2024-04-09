@@ -1,0 +1,15 @@
+{
+	"_id": "IYux4CwFhhNmEtGQ",
+	"_key": "!tables.results!Ya0ZEMkdPNipXpRM.IYux4CwFhhNmEtGQ",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "F8WKoChnpdyOozBD",
+	"drawn": false,
+	"img": "icons/magic/death/weapon-scythe-rune-green.webp",
+	"range": [
+		10,
+		11
+	],
+	"text": "Necrotic Reap Bonus",
+	"type": 2,
+	"weight": 1
+}

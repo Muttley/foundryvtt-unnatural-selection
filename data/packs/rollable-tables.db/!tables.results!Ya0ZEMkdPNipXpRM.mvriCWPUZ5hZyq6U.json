@@ -1,0 +1,15 @@
+{
+	"_id": "mvriCWPUZ5hZyq6U",
+	"_key": "!tables.results!Ya0ZEMkdPNipXpRM.mvriCWPUZ5hZyq6U",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "3w0aOahluisjacUC",
+	"drawn": false,
+	"img": "icons/magic/death/undead-skeleton-fire-green.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Claim Undead Bonus",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "rrmj1ReKD8uZ2V95",
+	"_key": "!tables.results!LrtpYPohlJ9P3cYI.rrmj1ReKD8uZ2V95",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "6CM0N7U5BRxdjS2O",
+	"drawn": false,
+	"img": "icons/creatures/mammals/deer-antlers-glowing-blue.webp",
+	"range": [
+		10,
+		11
+	],
+	"text": "Speak to Additional Species",
+	"type": 2,
+	"weight": 1
+}

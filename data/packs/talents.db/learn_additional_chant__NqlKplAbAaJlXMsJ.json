@@ -1,0 +1,19 @@
+{
+	"_id": "NqlKplAbAaJlXMsJ",
+	"_key": "!items!NqlKplAbAaJlXMsJ",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/magic/sonic/explosion-impact-shock-wave.webp",
+	"name": "Learn Additional Chant",
+	"system": {
+		"description": "<p>Learn one additional shamanic chant of any tier you know.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

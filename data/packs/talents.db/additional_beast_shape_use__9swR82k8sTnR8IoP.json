@@ -1,0 +1,19 @@
+{
+	"_id": "9swR82k8sTnR8IoP",
+	"_key": "!items!9swR82k8sTnR8IoP",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/creatures/abilities/bear-roar-bite-brown.webp",
+	"name": "Additional Beast Shape Use",
+	"system": {
+		"description": "<p>You may use Beast Shape 1 additional time per day.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

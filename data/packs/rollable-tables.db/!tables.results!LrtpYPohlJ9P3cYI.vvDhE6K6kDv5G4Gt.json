@@ -1,0 +1,15 @@
+{
+	"_id": "vvDhE6K6kDv5G4Gt",
+	"_key": "!tables.results!LrtpYPohlJ9P3cYI.vvDhE6K6kDv5G4Gt",
+	"documentCollection": "shadowdark.talents",
+	"documentId": "0WmG5j0Wv685YTqO",
+	"drawn": false,
+	"img": "icons/magic/fire/flame-burning-fist-strike.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "+1 on Spellcasting Checks",
+	"type": 2,
+	"weight": 1
+}

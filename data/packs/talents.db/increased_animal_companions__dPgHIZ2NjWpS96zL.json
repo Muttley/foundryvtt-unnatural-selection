@@ -1,0 +1,19 @@
+{
+	"_id": "dPgHIZ2NjWpS96zL",
+	"_key": "!items!dPgHIZ2NjWpS96zL",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/creatures/birds/raptor-owl-flying-moon.webp",
+	"name": "Increased Animal Companions",
+	"system": {
+		"description": "<p>The number of animal companions you can have increases by one.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

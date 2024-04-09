@@ -1,0 +1,19 @@
+{
+	"_id": "6CM0N7U5BRxdjS2O",
+	"_key": "!items!6CM0N7U5BRxdjS2O",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/creatures/mammals/deer-antlers-glowing-blue.webp",
+	"name": "Speak to Additional Species",
+	"system": {
+		"description": "<p>You can speak to an additional species of animal.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}
