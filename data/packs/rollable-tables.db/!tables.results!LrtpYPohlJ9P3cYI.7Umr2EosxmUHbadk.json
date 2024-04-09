@@ -2,14 +2,14 @@
 	"_id": "7Umr2EosxmUHbadk",
 	"_key": "!tables.results!LrtpYPohlJ9P3cYI.7Umr2EosxmUHbadk",
 	"documentCollection": "shadowdark.talents",
-	"documentId": "0WmG5j0Wv685YTqO",
+	"documentId": "excvhYcpm1qd09IV",
 	"drawn": false,
-	"img": "icons/magic/fire/flame-burning-fist-strike.webp",
+	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
 	"range": [
 		7,
 		9
 	],
-	"text": "+1 on Spellcasting Checks",
+	"text": "+2 to Wisdom",
 	"type": 2,
 	"weight": 1
 }

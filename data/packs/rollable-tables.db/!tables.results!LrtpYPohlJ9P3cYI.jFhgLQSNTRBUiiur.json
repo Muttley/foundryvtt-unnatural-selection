@@ -1,0 +1,15 @@
+{
+	"_id": "jFhgLQSNTRBUiiur",
+	"_key": "!tables.results!LrtpYPohlJ9P3cYI.jFhgLQSNTRBUiiur",
+	"documentCollection": "shadowdark.talents",
+	"documentId": "IZZnFjWhZurAIZPP",
+	"drawn": false,
+	"img": "icons/magic/air/air-smoke-casting.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Spellcasting Advantage",
+	"type": 2,
+	"weight": 1
+}

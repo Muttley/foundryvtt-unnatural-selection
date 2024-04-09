@@ -2,14 +2,14 @@
 	"_id": "TKkynGSIqNrTWEf3",
 	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.TKkynGSIqNrTWEf3",
 	"documentCollection": "unnatural-selection.gear",
-	"documentId": "8BxUYQV7Qgy6lM8S",
+	"documentId": "muCQflvxYkoMRP5x",
 	"drawn": false,
-	"img": "icons/weapons/swords/swords-short.webp",
+	"img": "icons/commodities/claws/claw-bird-pink.webp",
 	"range": [
 		12,
 		12
 	],
-	"text": "Wolf",
+	"text": "Eagle",
 	"type": 2,
 	"weight": 1
 }

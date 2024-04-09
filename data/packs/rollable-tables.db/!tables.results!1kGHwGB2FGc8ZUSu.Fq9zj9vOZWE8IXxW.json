@@ -1,0 +1,15 @@
+{
+	"_id": "Fq9zj9vOZWE8IXxW",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.Fq9zj9vOZWE8IXxW",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "9swR82k8sTnR8IoP",
+	"drawn": false,
+	"img": "icons/creatures/abilities/bear-roar-bite-brown.webp",
+	"range": [
+		2,
+		2
+	],
+	"text": "Additional Beast Shape Use",
+	"type": 2,
+	"weight": 1
+}

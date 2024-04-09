@@ -1,0 +1,15 @@
+{
+	"_id": "Zm2aVrBY4Iik6k9W",
+	"_key": "!tables.results!P8RVLLEl51JKEpNc.Zm2aVrBY4Iik6k9W",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "9hBD67dUrkDIbxeH",
+	"drawn": false,
+	"img": "icons/consumables/potions/bottle-round-ring-teal.webp",
+	"range": [
+		3,
+		6
+	],
+	"text": "Extra Die on Elixir Use",
+	"type": 2,
+	"weight": 1
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "D0KjPe2ASTUvxYJr",
+	"_key": "!tables.results!7PisWJJyQlpiM7ck.D0KjPe2ASTUvxYJr",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "k19qtACM5PYDaYVI",
+	"drawn": false,
+	"img": "icons/magic/sonic/scream-wail-shout-teal.webp",
+	"range": [
+		3,
+		7
+	],
+	"text": "+1 to Chanting Checks",
+	"type": 2,
+	"weight": 1
+}

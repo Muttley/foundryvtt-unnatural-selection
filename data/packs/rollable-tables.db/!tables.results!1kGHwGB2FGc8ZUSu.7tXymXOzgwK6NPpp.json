@@ -2,14 +2,14 @@
 	"_id": "7tXymXOzgwK6NPpp",
 	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.7tXymXOzgwK6NPpp",
 	"documentCollection": "unnatural-selection.gear",
-	"documentId": "muCQflvxYkoMRP5x",
+	"documentId": "VPgQSNB5RRsqxEqm",
 	"drawn": false,
-	"img": "icons/weapons/swords/swords-short.webp",
+	"img": "icons/creatures/claws/claw-bear-paw-swipe-red.webp",
 	"range": [
 		12,
 		12
 	],
-	"text": "Eagle",
+	"text": "Bear",
 	"type": 2,
 	"weight": 1
 }

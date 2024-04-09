@@ -2,14 +2,14 @@
 	"_id": "ntX2XXfKTsO28J0L",
 	"_key": "!tables.results!7PisWJJyQlpiM7ck.ntX2XXfKTsO28J0L",
 	"documentCollection": "unnatural-selection.talents",
-	"documentId": "k19qtACM5PYDaYVI",
+	"documentId": null,
 	"drawn": false,
-	"img": "icons/magic/sonic/scream-wail-shout-teal.webp",
+	"img": "icons/svg/d20-black.svg",
 	"range": [
 		3,
 		7
 	],
-	"text": "+1 to Shamanic Chanting Checks",
-	"type": 2,
+	"text": "Choose 1",
+	"type": 0,
 	"weight": 1
 }

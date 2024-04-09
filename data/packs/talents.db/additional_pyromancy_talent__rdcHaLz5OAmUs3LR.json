@@ -1,0 +1,19 @@
+{
+	"_id": "rdcHaLz5OAmUs3LR",
+	"_key": "!items!rdcHaLz5OAmUs3LR",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/magic/fire/barrier-wall-flame-ring-yellow.webp",
+	"name": "Additional Pyromancy Talent",
+	"system": {
+		"description": "<p>Roll an additional talent on the @UUID[Compendium.unnatural-selection.rollable-tables.RollTable.K61rWLqV8GrQNQbB]{Pyromancy Talents} table.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

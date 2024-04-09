@@ -1,0 +1,15 @@
+{
+	"_id": "35jXCQqc9suza2IA",
+	"_key": "!tables.results!7PisWJJyQlpiM7ck.35jXCQqc9suza2IA",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "Z9UZkrD3ga1H0N9s",
+	"drawn": false,
+	"img": "icons/magic/life/cross-area-circle-green-white.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Additional Use of Healing Circle",
+	"type": 2,
+	"weight": 1
+}

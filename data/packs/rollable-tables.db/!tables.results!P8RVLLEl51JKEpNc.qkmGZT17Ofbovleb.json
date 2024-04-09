@@ -1,0 +1,15 @@
+{
+	"_id": "qkmGZT17Ofbovleb",
+	"_key": "!tables.results!P8RVLLEl51JKEpNc.qkmGZT17Ofbovleb",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "D4AnxPnxITeYkcli",
+	"drawn": false,
+	"img": "icons/consumables/potions/bottle-round-ring-teal.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Advantage on Elixir Checks",
+	"type": 2,
+	"weight": 1
+}

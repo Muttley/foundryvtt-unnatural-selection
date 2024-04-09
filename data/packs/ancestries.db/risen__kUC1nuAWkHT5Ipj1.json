@@ -20,7 +20,9 @@
 				"Compendium.shadowdark.languages.Item.EP8NdjL8B5xXK7u9"
 			]
 		},
+		"nameTable": "",
 		"predefinedEffects": "",
+		"randomWeight": null,
 		"source": {
 			"title": "unnatural_selection"
 		},

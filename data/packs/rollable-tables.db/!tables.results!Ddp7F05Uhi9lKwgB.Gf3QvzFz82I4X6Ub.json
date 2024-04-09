@@ -1,0 +1,15 @@
+{
+	"_id": "Gf3QvzFz82I4X6Ub",
+	"_key": "!tables.results!Ddp7F05Uhi9lKwgB.Gf3QvzFz82I4X6Ub",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "rdcHaLz5OAmUs3LR",
+	"drawn": false,
+	"img": "icons/magic/fire/flame-burning-fist-strike.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Additional Pyromancy Talent",
+	"type": 2,
+	"weight": 1
+}

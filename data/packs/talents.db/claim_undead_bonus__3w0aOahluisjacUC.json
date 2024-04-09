@@ -1,0 +1,19 @@
+{
+	"_id": "3w0aOahluisjacUC",
+	"_key": "!items!3w0aOahluisjacUC",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/magic/death/undead-skeleton-fire-green.webp",
+	"name": "Claim Undead Bonus",
+	"system": {
+		"description": "<p>Claim Undead gains one DC step for undead resistance.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,19 @@
+{
+	"_id": "Z9UZkrD3ga1H0N9s",
+	"_key": "!items!Z9UZkrD3ga1H0N9s",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/magic/life/cross-area-circle-green-white.webp",
+	"name": "Additional Use of Healing Circle",
+	"system": {
+		"description": "<p>Gain an additional use of your Healing Circle talent each day.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

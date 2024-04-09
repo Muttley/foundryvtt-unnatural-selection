@@ -1,0 +1,15 @@
+{
+	"_id": "MrJhOU5EC3I1wO9G",
+	"_key": "!tables.results!P8RVLLEl51JKEpNc.MrJhOU5EC3I1wO9G",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "26NEqareXrwxaPg6",
+	"drawn": false,
+	"img": "icons/creatures/invertebrates/ant-strength-green.webp",
+	"range": [
+		2,
+		2
+	],
+	"text": "Mesmerize Additional Insect",
+	"type": 2,
+	"weight": 1
+}
