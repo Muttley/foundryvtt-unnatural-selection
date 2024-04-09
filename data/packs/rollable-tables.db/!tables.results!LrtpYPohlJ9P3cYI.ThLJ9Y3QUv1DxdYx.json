@@ -1,0 +1,15 @@
+{
+	"_id": "ThLJ9Y3QUv1DxdYx",
+	"_key": "!tables.results!LrtpYPohlJ9P3cYI.ThLJ9Y3QUv1DxdYx",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "dPgHIZ2NjWpS96zL",
+	"drawn": false,
+	"img": "icons/creatures/birds/raptor-owl-flying-moon.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Increased Animal Companions",
+	"type": 2,
+	"weight": 1
+}

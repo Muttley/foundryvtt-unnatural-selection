@@ -1,0 +1,19 @@
+{
+	"_id": "F8WKoChnpdyOozBD",
+	"_key": "!items!F8WKoChnpdyOozBD",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/magic/death/weapon-scythe-rune-green.webp",
+	"name": "Necrotic Reap Bonus",
+	"system": {
+		"description": "<p>Increase the Necrotic Reap bonus by an additional +2.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

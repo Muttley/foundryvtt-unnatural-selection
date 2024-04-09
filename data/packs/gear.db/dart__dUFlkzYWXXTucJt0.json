@@ -27,7 +27,7 @@
 		},
 		"damage": {
 			"numDice": 1,
-			"oneHanded": "",
+			"oneHanded": "d2",
 			"twoHanded": ""
 		},
 		"description": "",
@@ -50,7 +50,7 @@
 			"title": "unnatural_selection"
 		},
 		"stashed": false,
-		"type": "ranged",
+		"type": "melee",
 		"weaponMastery": false
 	},
 	"type": "Weapon"

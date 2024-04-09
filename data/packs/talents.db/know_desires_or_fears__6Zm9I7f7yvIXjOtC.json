@@ -1,0 +1,19 @@
+{
+	"_id": "6Zm9I7f7yvIXjOtC",
+	"_key": "!items!6Zm9I7f7yvIXjOtC",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/magic/perception/hand-eye-fire-blue.webp",
+	"name": "Know Desires or Fears",
+	"system": {
+		"description": "<p>1/day, know the desires or fears of a creature in near range.</p><p></p><p>duplicate = +1 use/day</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

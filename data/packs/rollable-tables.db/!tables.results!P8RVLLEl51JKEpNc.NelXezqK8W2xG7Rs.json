@@ -2,14 +2,14 @@
 	"_id": "NelXezqK8W2xG7Rs",
 	"_key": "!tables.results!P8RVLLEl51JKEpNc.NelXezqK8W2xG7Rs",
 	"documentCollection": "shadowdark.talents",
-	"documentId": "vIbwotCa1eqCVZMU",
+	"documentId": null,
 	"drawn": false,
-	"img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+	"img": "icons/svg/d20-black.svg",
 	"range": [
 		7,
 		9
 	],
-	"text": "+2 to Dexterity",
-	"type": 2,
+	"text": "Choose 1",
+	"type": 0,
 	"weight": 1
 }

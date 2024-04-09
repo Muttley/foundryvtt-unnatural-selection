@@ -4,12 +4,12 @@
 	"documentCollection": "unnatural-selection.gear",
 	"documentId": "53Yk2gIe8vAxbp9E",
 	"drawn": false,
-	"img": "icons/weapons/swords/swords-short.webp",
+	"img": "icons/creatures/reptiles/snake-fangs-bite-green.webp",
 	"range": [
 		12,
 		12
 	],
-	"text": "Snake",
+	"text": "Cobra",
 	"type": 2,
 	"weight": 1
 }

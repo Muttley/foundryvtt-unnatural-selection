@@ -1,0 +1,19 @@
+{
+	"_id": "9hBD67dUrkDIbxeH",
+	"_key": "!items!9hBD67dUrkDIbxeH",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/consumables/potions/bottle-round-ring-teal.webp",
+	"name": "Extra Die on Elixir Use",
+	"system": {
+		"description": "<p>Add an extra die rolled on an elixir you choose.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

@@ -1,0 +1,19 @@
+{
+	"_id": "EzXGk05M7Hff5TOL",
+	"_key": "!items!EzXGk05M7Hff5TOL",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/consumables/potions/bottle-round-ring-teal.webp",
+	"name": "+1 to Elixir Checks",
+	"system": {
+		"description": "<p>+1 to elixir checks</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

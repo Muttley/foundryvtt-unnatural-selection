@@ -1,0 +1,19 @@
+{
+	"_id": "eIoQkXLzGRdFKwy5",
+	"_key": "!items!eIoQkXLzGRdFKwy5",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/commodities/claws/talon-tan.webp",
+	"name": "Make Animal Magic Item",
+	"system": {
+		"description": "<p>Make an animal magic item (see pgs. 136, 137, and 145).</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

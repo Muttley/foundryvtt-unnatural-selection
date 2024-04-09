@@ -19,7 +19,9 @@
 			"selectOptions": [
 			]
 		},
+		"nameTable": "Compendium.unnatural-selection.rollable-tables.RollTable.udTpI36QSmv6zypg",
 		"predefinedEffects": "",
+		"randomWeight": null,
 		"source": {
 			"title": "unnatural_selection"
 		},

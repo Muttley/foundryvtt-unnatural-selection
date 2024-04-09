@@ -1,0 +1,15 @@
+{
+	"_id": "4Ga4RfHnpEkPKTQk",
+	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.4Ga4RfHnpEkPKTQk",
+	"documentCollection": "unnatural-selection.talents",
+	"documentId": "eIoQkXLzGRdFKwy5",
+	"drawn": false,
+	"img": "icons/commodities/claws/talon-tan.webp",
+	"range": [
+		10,
+		11
+	],
+	"text": "Make Animal Magic Item",
+	"type": 2,
+	"weight": 1
+}

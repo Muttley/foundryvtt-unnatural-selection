@@ -1,0 +1,19 @@
+{
+	"_id": "D4AnxPnxITeYkcli",
+	"_key": "!items!D4AnxPnxITeYkcli",
+	"effects": [
+	],
+	"folder": "4NqkKssttTXPngor",
+	"img": "icons/consumables/potions/bottle-round-ring-teal.webp",
+	"name": "Advantage on Elixir Checks",
+	"system": {
+		"description": "<p>You gain ADV on elixir checks for an elixir you choose.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

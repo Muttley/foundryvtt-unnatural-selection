@@ -2,14 +2,14 @@
 	"_id": "K2Y52rEYV9ZjKj5M",
 	"_key": "!tables.results!1kGHwGB2FGc8ZUSu.K2Y52rEYV9ZjKj5M",
 	"documentCollection": "unnatural-selection.gear",
-	"documentId": "VPgQSNB5RRsqxEqm",
+	"documentId": "8BxUYQV7Qgy6lM8S",
 	"drawn": false,
-	"img": "icons/weapons/swords/swords-short.webp",
+	"img": "icons/creatures/mammals/wolf-shadow-black.webp",
 	"range": [
 		12,
 		12
 	],
-	"text": "Bear",
+	"text": "Wolf",
 	"type": 2,
 	"weight": 1
 }
