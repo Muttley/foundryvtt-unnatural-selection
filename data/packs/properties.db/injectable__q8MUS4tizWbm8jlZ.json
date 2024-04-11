@@ -7,7 +7,7 @@
 	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
 	"name": "Injectable",
 	"system": {
-		"description": "<p>You can forgo moving to apply a poison or elixer to this weapon and inject a target with a successful hit.</p>",
+		"description": "<p>You can apply a poison or elixir to this weapon and inject a target with a successful hit.</p>",
 		"itemType": "weapon",
 		"predefinedEffects": "",
 		"source": {

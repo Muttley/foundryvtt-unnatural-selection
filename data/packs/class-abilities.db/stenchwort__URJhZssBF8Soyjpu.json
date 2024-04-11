@@ -9,10 +9,10 @@
 	"system": {
 		"ability": "int",
 		"dc": 10,
-		"description": "<p>Immune to smells and cures paralysis.</p>",
+		"description": "<p>Cures paralysis and is immune to smells and smell-based effects for 5 rounds.</p>",
 		"group": "Elixir Crafting",
 		"limitedUses": false,
-		"loseOnFailure": false,
+		"loseOnFailure": true,
 		"lost": false,
 		"predefinedEffects": "",
 		"source": {

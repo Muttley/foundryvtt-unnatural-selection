@@ -8,6 +8,7 @@
 	"name": "Cannibalborn",
 	"system": {
 		"description": "<p>You renounced your heritage.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

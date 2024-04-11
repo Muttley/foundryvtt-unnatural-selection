@@ -9,10 +9,10 @@
 	"system": {
 		"ability": "int",
 		"dc": 14,
-		"description": "<p>[[/r 1d6]] healing. Mask infusion allows you to activate at any time, including during death timer.</p>",
+		"description": "<p>Heals a number of [[/r 1d6]] equal to 1 plus half your level rounded down. Mask infusion allows you to inhale one premade herbal elixir from your mask for immediate infusion. Lasts all day, expires on use.</p>",
 		"group": "Elixir Crafting",
 		"limitedUses": false,
-		"loseOnFailure": false,
+		"loseOnFailure": true,
 		"lost": false,
 		"predefinedEffects": "",
 		"source": {

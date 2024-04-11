@@ -14,7 +14,7 @@
 		"armor": [
 		],
 		"classTalentTable": "Compendium.unnatural-selection.rollable-tables.RollTable.7PisWJJyQlpiM7ck",
-		"description": "<p>Indispensible medicine men and oracles who serve as healers, guardians of ancient wisdom, and conduits between the tangible and ethereal realms.</p><p></p><p><strong>Weapons:</strong> Bows, club, dagger, javelin, spear, staff</p><p></p><p><strong>Armor:</strong> None</p><p></p><p><strong>Hit Points:</strong> 1d6 per level</p><p></p><p><strong>Languages.</strong> You know Primordial.</p><p></p><p><strong>Healing Circle.</strong> 1/day you can perform a 10-minute drumming and chanting meditation. All participants are healed for 1d4 HP if the performance is not interrupted. A spellcaster or herbalist can recover a lost spell or elixir instead. Wandering monster chance is increased.</p><p></p><p><strong>Chanting.</strong> You can perform shamanic chants you know using your drum and voice.</p><p></p><p>You may choose two tier 1 chants from the shamanic chants list.</p><p></p><p>Each time you gain a level, you choose new shamanic chants to learn according to the @UUID[Compendium.unnatural-selection.documents.JournalEntry.4G9LZfiREUuQViCf.JournalEntryPage.Dq63Y8VDba4aaKlw]{Shamanic Chants Known} table.</p><p></p><p>Add your Wisdom bonus to perform shamanic chants. The DC is 9 + the chant’s tier.</p><p></p><p>If you fail a chanting check, you can’t perform that chant again until you complete a rest.</p>",
+		"description": "<p>Indispensible medicine men and oracles who serve as healers, guardians of ancient wisdom, and conduits between the tangible and ethereal realms.</p><p></p><p><strong>Weapons:</strong> Bows, club, dagger, hunting knife, javelin, spear, staff</p><p></p><p><strong>Armor:</strong> None</p><p></p><p><strong>Hit Points:</strong> 1d6 per level</p><p></p><p><strong>Languages.</strong> You know Primordial.</p><p></p><p><strong>Healing Circle.</strong> 1/day you can perform a 10-minute drumming and chanting meditation. All participants are healed for 1d6 HP if the performance is not interrupted. A spellcaster or herbalist can recover a lost spell or elixir instead. Wandering monster chance is increased.</p><p></p><p><strong>Chanting.</strong> You can perform shamanic chants you know using your drum and voice.</p><p></p><p>You may choose two tier 1 chants from the shamanic chants list.</p><p></p><p>Each time you gain a level, you choose new shamanic chants to learn according to the @UUID[Compendium.unnatural-selection.documents.JournalEntry.4G9LZfiREUuQViCf.JournalEntryPage.Dq63Y8VDba4aaKlw]{Shamanic Chants Known} table.</p><p></p><p>Add your Wisdom bonus to perform shamanic chants. The DC is 9 + the chant’s tier.</p><p></p><p>If you fail a chanting check, you can’t perform that chant again until you complete a rest.</p>",
 		"hitPoints": "1d6",
 		"language": {
 			"select": null
@@ -162,7 +162,8 @@
 			"Compendium.shadowdark.gear.Item.eeVEJexfirwWzOVu",
 			"Compendium.shadowdark.gear.Item.GzA5T0aewhouRsa3",
 			"Compendium.shadowdark.gear.Item.JM2XN855QYNhgtre",
-			"Compendium.shadowdark.gear.Item.UfHAWj5weH111Bea"
+			"Compendium.shadowdark.gear.Item.UfHAWj5weH111Bea",
+			"Compendium.update-to-unnatselect.update-gear.Item.OmaUdbPcg4MqtwZg"
 		]
 	},
 	"type": "Class"

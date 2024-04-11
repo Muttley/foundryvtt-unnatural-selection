@@ -9,7 +9,7 @@
 	"name": "Cannot be Unseen!",
 	"system": {
 		"category": "effect",
-		"description": "<p>You scream uncontrollably for 3 rounds, instilling fear to all in near radius. They must make a DC 12 CON check or flee for the duration.</p>",
+		"description": "<p>You scream uncontrollably for 3 rounds, instilling fear to all in near radius. They must make a DC 12 CHA check or flee for the duration.</p>",
 		"duration": {
 			"type": "rounds",
 			"value": "3"

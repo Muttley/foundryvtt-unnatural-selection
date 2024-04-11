@@ -7,7 +7,7 @@
 	"img": "icons/magic/death/undead-skeleton-fire-green.webp",
 	"name": "Claim Undead Bonus",
 	"system": {
-		"description": "<p>Claim Undead gains one DC step for undead resistance.</p>",
+		"description": "<p>Increase the DC to resist Claim Undead by one step.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

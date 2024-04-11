@@ -8,6 +8,7 @@
 	"name": "Grave Warden Apprentice",
 	"system": {
 		"description": "<p>You learned the dead.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

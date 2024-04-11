@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Gnome",
 	"system": {
-		"description": "<p>Diminutive, elusive tricksters who delight in playful pranks. As clever as they are tiny.</p><p></p><p>You know the Common and Sylvan languages.</p><p></p><p><strong>Trickster.</strong> 1/day, target one creature to become the object of your nettlesome pranks, granting you the ability to force a re-roll on one attack or check.</p>",
+		"description": "<p>Diminutive, elusive tricksters who delight in playful pranks. As clever as they are tiny.</p><p></p><p>You know the Common and Sylvan languages.</p><p></p><p><strong>Trickster.</strong> 1/day, target one creature to become the object of your nettlesome pranks, you can force a re-roll on one attack or check.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

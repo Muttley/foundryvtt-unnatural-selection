@@ -10,7 +10,7 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
 		],
-		"description": "<p>You instantly know the intention of one creature a near distance from you.</p>",
+		"description": "<p>You instantly know the intention of a creature within range.</p>",
 		"duration": {
 			"type": "instant",
 			"value": -1

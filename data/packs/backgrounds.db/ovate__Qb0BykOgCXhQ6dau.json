@@ -8,6 +8,7 @@
 	"name": "Ovate",
 	"system": {
 		"description": "<p>Natural wisdom flows through you.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

@@ -7,7 +7,7 @@
 	"img": "icons/magic/fire/flame-burning-fist-strike.webp",
 	"name": "Hot Hands",
 	"system": {
-		"description": "<p><strong>Hot Hands.</strong> When you hit an opponent with a Firebond weapon, They make DC 12 CON check or they drop their weapon. Increase DC die category on duplicate.</p>",
+		"description": "<p><strong>Hot Hands.</strong> When you hit an opponent with a Firebond weapon, They make DC 12 CON check or they drop their weapon. Increase DC step on duplicate..</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

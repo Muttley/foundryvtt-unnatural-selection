@@ -7,7 +7,8 @@
 	"img": "icons/environment/people/commoner.webp",
 	"name": "Former Slaver",
 	"system": {
-		"description": "<p>Your family thrived in the slave trad</p>",
+		"description": "<p>Your family thrived in the slave trade.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

@@ -30,7 +30,7 @@
 			"oneHanded": "d8",
 			"twoHanded": ""
 		},
-		"description": "<p>Claw deals [[/r 1d8]] damage. Can attack with disadvantage to double damage dice from bear hug.</p><p></p><p>Beast Shape: <strong>Black Bear</strong> (see pg. 100).</p>",
+		"description": "<p>Claw deals [[/r 1d8]] damage. Can attack with disadvantage to double damage dice from bear hug.</p><p></p><p>Beast Shape: <strong>Black Bear</strong> (see pg. 101).</p>",
 		"equipped": false,
 		"isPhysical": true,
 		"magicItem": false,

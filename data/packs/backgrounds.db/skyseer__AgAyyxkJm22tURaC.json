@@ -8,6 +8,7 @@
 	"name": "Skyseer",
 	"system": {
 		"description": "<p>You predict the weather through nature.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

@@ -8,6 +8,7 @@
 	"name": "Lupine",
 	"system": {
 		"description": "<p>You were raised by a pack of wolves.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

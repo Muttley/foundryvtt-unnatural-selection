@@ -7,7 +7,7 @@
 	"img": "icons/creatures/claws/claw-bear-paw-swipe-brown.webp",
 	"name": "Beast Shape",
 	"system": {
-		"description": "<p>Once per day, you may transform into the natural form of your chosen beast for 3 rounds. You still need light to see.</p>",
+		"description": "<p>Once per day, you and your possessions may transform into the natural form</p><p>of your chosen beast for 3 rounds, taking on the animal’s statistics, attacks, and abilities. You still need light to see.</p><p></p><p>If you take damage while in this form, do not transfer that damage to your own HP when you return to your humanoid form. If you reach 0 HP in your animal form, you transform back at 0 HP, starting your death timer as normal.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

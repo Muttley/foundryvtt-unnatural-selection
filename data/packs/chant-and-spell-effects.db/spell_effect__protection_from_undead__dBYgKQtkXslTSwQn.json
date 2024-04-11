@@ -11,8 +11,8 @@
 		"category": "effect",
 		"description": "",
 		"duration": {
-			"type": "focus",
-			"value": -1
+			"type": "rounds",
+			"value": "5"
 		},
 		"effectPanel": {
 			"show": true

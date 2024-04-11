@@ -9,7 +9,7 @@
 	"name": "Wall of Fire",
 	"system": {
 		"category": "effect",
-		"description": "",
+		"description": "<p><span style=\"font-family: Signika, sans-serif\">Wall of Fire. 1/day as an action, create a near-length wall of fire in a straight line from any point a near distance from you for 5 rounds. The wall deals [[/r 1d4]] damage on touch. Increase damage die category on dupe.</span></p>",
 		"duration": {
 			"type": "rounds",
 			"value": "5"

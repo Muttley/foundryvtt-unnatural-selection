@@ -10,7 +10,7 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
 		],
-		"description": "<p>You exude the putrid essence of a ghast.</p><p></p><p>Living creatures must make a DC 12 CON check within a near radius centered on you. Those affected have disadvantage on attacks and spellcasting on their next turn.</p>",
+		"description": "<p>You exude the putrid essence of a ghast.</p><p></p><p>Other living creatures within a near area centered on you make a CON check vs. your spellcasting check or suffer DISADV on attack rolls and spellcasting checks on their next turn.</p>",
 		"duration": {
 			"type": "instant",
 			"value": -1

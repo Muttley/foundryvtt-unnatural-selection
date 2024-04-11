@@ -8,6 +8,7 @@
 	"name": "Executioner",
 	"system": {
 		"description": "<p>You carried out the will of a king.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

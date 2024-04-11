@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Dragonborn",
 	"system": {
-		"description": "<p>Proud descendants of dragons whose honor holds greater value than their own lives.</p><p></p><p>You know the Common and Draconic languages.</p><p></p><p><strong>Breath Weapon.</strong> 1/day, unleash a breath weapon based on your draconic heritage via ranged attack, dealing [[/r 1d8]] damage to a near-sized cube in near range.</p><p></p>",
+		"description": "<p>Proud descendants of dragons whose honor holds greater value than their own lives.</p><p></p><p>You know the Common and Draconic languages.</p><p></p><p><strong>Breath Weapon.</strong> 1/day, unleash a breath weapon based on your draconic heritage, dealing [[/r 1d8]] damage in a near-length line starting from you. This is an automatic hit.</p><p></p>",
 		"languages": {
 			"common": 0,
 			"fixed": [
@@ -21,6 +21,7 @@
 		},
 		"nameTable": "Compendium.unnatural-selection.rollable-tables.RollTable.Cpcf5cnXJ83TZBw9",
 		"predefinedEffects": "",
+		"randomWeight": null,
 		"source": {
 			"title": "unnatural_selection"
 		},

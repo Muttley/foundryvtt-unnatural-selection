@@ -9,7 +9,7 @@
 	"name": "Silver Susceptibility!",
 	"system": {
 		"category": "effect",
-		"description": "<p>Contact with silver inflicts [[/r 1d4]] damage, and silver weapons have advantage when determining damage against you, permanently.</p>",
+		"description": "<p>Contact with silver inflicts [[/r 1d4]] damage, and silver weapons do double damage against you, permanently.</p>",
 		"duration": {
 			"type": "permanent",
 			"value": -1

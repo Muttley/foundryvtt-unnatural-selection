@@ -8,6 +8,7 @@
 	"name": "Bone Setter",
 	"system": {
 		"description": "<p>You know anatomy and surgery.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

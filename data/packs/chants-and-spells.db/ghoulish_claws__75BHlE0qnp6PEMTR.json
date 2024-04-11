@@ -10,14 +10,14 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
 		],
-		"description": "<p>By your touch, a willing target’s hands transform into ghastly claws. Your target may make two claw attacks that cause [[/r 1d4]] points of damage each plus paralyze. Victims hit by this attack must make a DC 12 CON check or be paralyzed for [[/r 1d4]] rounds.</p><p></p><p>@UUID[Compendium.shadowdark.conditions.Item.ROTpAUAHx5s4AZZh]{Condition: Paralyzed}</p>",
+		"description": "<p>By your touch, a willing target’s hands transform into ghastly claws. Your target may make a claw attack that deals [[/r 1d8]] points of damage each plus paralyze.</p><p></p><p>Victims hit by this attack must make a DC 12 CON check or be paralyzed for [[/r 1d4]] rounds.</p><p></p><p>@UUID[Compendium.shadowdark.conditions.Item.ROTpAUAHx5s4AZZh]{Condition: Paralyzed}</p>",
 		"duration": {
 			"type": "rounds",
 			"value": "5"
 		},
 		"lost": false,
 		"predefinedEffects": "",
-		"range": "self",
+		"range": "close",
 		"source": {
 			"title": "unnatural_selection"
 		},
