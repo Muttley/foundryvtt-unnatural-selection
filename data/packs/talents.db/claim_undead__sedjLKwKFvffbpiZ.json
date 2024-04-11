@@ -7,7 +7,7 @@
 	"img": "icons/magic/death/skull-trio-badge-purple.webp",
 	"name": "Claim Undead",
 	"system": {
-		"description": "<p>1/Day you can seize control of any number of undead not controlled by you. Their total LV cannot exceed your own. Undead make a DC 12 CON check to resist.</p>",
+		"description": "<p>1/Day you can seize control of any number of undead not controlled by you. Their total LV cannot exceed your own. Undead make a DC 12 CHA check to resist.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

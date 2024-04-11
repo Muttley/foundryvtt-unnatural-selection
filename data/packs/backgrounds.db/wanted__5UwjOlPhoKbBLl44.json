@@ -8,6 +8,7 @@
 	"name": "Wanted",
 	"system": {
 		"description": "<p>You have a price on your head.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

@@ -12,7 +12,7 @@
 		"description": "<p>DC 12 CON check or paralyzed for [[/r 1d4]] rounds.</p>",
 		"group": "Elixir Crafting",
 		"limitedUses": false,
-		"loseOnFailure": false,
+		"loseOnFailure": true,
 		"lost": false,
 		"predefinedEffects": "",
 		"source": {

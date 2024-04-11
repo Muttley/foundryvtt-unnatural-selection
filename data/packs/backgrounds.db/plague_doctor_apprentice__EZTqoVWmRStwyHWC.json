@@ -8,6 +8,7 @@
 	"name": "Plague Doctor Apprentice",
 	"system": {
 		"description": "<p>You studied disease.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

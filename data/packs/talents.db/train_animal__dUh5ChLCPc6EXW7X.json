@@ -7,7 +7,7 @@
 	"img": "icons/creatures/mammals/deer-movement-leap-green.webp",
 	"name": "Train Animal",
 	"system": {
-		"description": "<p>You can train a calm or captive animal to become your verbally controlled companion whose LV does not exceed yours. For every 2 LV of the animal, training takes 1 day. The trained animal can’t talk to you unless you know its language.</p>",
+		"description": "<p>You can train a calm or captive animal to become your new Animal Companion. You can only have one Animal Companion at a time, and its LV cannot exceed yours. For every 2 LV of the animal, training takes 1 day.</p><p></p><p>You must know its language to understand it but not to train it.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

@@ -10,14 +10,14 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
 		],
-		"description": "<p>You are able to understand any animals within a near radius and you may ask them any question.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.Di8MgPAFHUvDLlfC]{Spell Effect: Speak with Animals}</p>",
+		"description": "<p>You are able to speak to and understand all types of animals for the duration of the spell.</p><p></p><p>@UUID[Compendium.unnatural-selection.chant-and-spell-effects.Item.Di8MgPAFHUvDLlfC]{Spell Effect: Speak with Animals}</p>",
 		"duration": {
 			"type": "rounds",
 			"value": "5"
 		},
 		"lost": false,
 		"predefinedEffects": "",
-		"range": "near",
+		"range": "self",
 		"source": {
 			"title": "unnatural_selection"
 		},

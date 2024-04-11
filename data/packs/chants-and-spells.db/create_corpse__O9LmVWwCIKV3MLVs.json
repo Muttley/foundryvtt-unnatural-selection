@@ -1,0 +1,27 @@
+{
+	"_id": "O9LmVWwCIKV3MLVs",
+	"_key": "!items!O9LmVWwCIKV3MLVs",
+	"effects": [
+	],
+	"folder": "umjEZ1pGe5J7jf9h",
+	"img": "icons/magic/death/skeleton-worn-skull-tan.webp",
+	"name": "Create Corpse",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>With the snap of your fingers, a fresh human corpse materializes at your feet.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": ""
+		},
+		"tier": 2
+	},
+	"type": "Spell"
+}

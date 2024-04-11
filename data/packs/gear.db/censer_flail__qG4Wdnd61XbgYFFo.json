@@ -27,7 +27,7 @@
 		},
 		"damage": {
 			"numDice": 1,
-			"oneHanded": "d8",
+			"oneHanded": "d6",
 			"twoHanded": ""
 		},
 		"description": "",

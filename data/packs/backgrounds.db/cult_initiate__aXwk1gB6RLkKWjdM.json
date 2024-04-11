@@ -8,6 +8,7 @@
 	"name": "Cult Initiate",
 	"system": {
 		"description": "<p>You know blasphemous rituals.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

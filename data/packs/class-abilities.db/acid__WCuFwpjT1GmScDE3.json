@@ -9,10 +9,10 @@
 	"system": {
 		"ability": "int",
 		"dc": 13,
-		"description": "<p>Target takes [[/r 1d6]] damage.</p>",
+		"description": "<p>Target takes [[/r 1d8]] damage.</p>",
 		"group": "Elixir Crafting",
 		"limitedUses": false,
-		"loseOnFailure": false,
+		"loseOnFailure": true,
 		"lost": false,
 		"predefinedEffects": "",
 		"source": {

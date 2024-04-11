@@ -8,6 +8,7 @@
 	"name": "Hunter",
 	"system": {
 		"description": "<p>You know where to find game.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

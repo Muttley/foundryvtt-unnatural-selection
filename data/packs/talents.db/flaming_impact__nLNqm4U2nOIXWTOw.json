@@ -7,7 +7,7 @@
 	"img": "icons/magic/fire/flame-burning-creature-skeleton.webp",
 	"name": "Flaming Impact",
 	"system": {
-		"description": "<p><strong>Flaming Impact.</strong> A Firebond Weapon strike ignites target, doing 1 damage per round until extinguished. +1 on duplicate.</p>",
+		"description": "<p><strong>Flaming Impact.</strong> A Firebond Weapon strike ignites target, doing 1 damage per round until extinguished. +1 damage on duplicate.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

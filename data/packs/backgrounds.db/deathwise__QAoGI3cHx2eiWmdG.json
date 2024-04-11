@@ -8,6 +8,7 @@
 	"name": "Deathwise",
 	"system": {
 		"description": "<p>You perceive mortality at a deep level.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

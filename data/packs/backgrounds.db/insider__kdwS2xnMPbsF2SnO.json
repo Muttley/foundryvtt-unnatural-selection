@@ -7,7 +7,8 @@
 	"img": "icons/environment/people/commoner.webp",
 	"name": "Insider",
 	"system": {
-		"description": "<p>You were a part of the criminal underworld</p>",
+		"description": "<p>You were a part of the criminal underworld.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

@@ -7,7 +7,7 @@
 	"img": "icons/magic/life/cross-area-circle-green-white.webp",
 	"name": "Healing Circle",
 	"system": {
-		"description": "<p>1/day you can perform a 10-minute drumming and chanting meditation. All participants are healed for [[/r 1d4]] HP if the performance is not interrupted. A spellcaster or herbalist can recover a lost spell or elixir instead. Wandering monster chance is increased.</p>",
+		"description": "<p>1/day you can perform a 10-minute drumming and chanting meditation. All participants are healed for [[/r 1d6]] HP if the performance is not interrupted. A spellcaster or herbalist can recover a lost spell or elixir instead. Random</p><p>encounter chance is increased.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

@@ -12,7 +12,7 @@
 		"description": "<p>DC 12 WIS check or living creatures are calmed and consider you a reluctant friend for 5 rounds or until they are attacked by you or an ally.</p>",
 		"group": "Elixir Crafting",
 		"limitedUses": false,
-		"loseOnFailure": false,
+		"loseOnFailure": true,
 		"lost": false,
 		"predefinedEffects": "",
 		"source": {

@@ -8,6 +8,7 @@
 	"name": "Snake Charmer",
 	"system": {
 		"description": "<p>Snakes are your best friends.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

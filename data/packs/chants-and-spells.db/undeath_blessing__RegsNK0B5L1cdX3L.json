@@ -1,0 +1,27 @@
+{
+	"_id": "RegsNK0B5L1cdX3L",
+	"_key": "!items!RegsNK0B5L1cdX3L",
+	"effects": [
+	],
+	"folder": "bYbhaD3ucJiqTLkl",
+	"img": "icons/magic/death/skull-flames-white-blue.webp",
+	"name": "Undeath Blessing",
+	"system": {
+		"class": [
+			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
+		],
+		"description": "<p>Your touch infuses necrotic vitality to an undead or withers the living.</p><p></p><p>The undead target you touch regains [[/r 1d6]]  hit points, while a living target you touch takes [[/r 1d6]] damage instead.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"predefinedEffects": "",
+		"range": "close",
+		"source": {
+			"title": ""
+		},
+		"tier": 1
+	},
+	"type": "Spell"
+}

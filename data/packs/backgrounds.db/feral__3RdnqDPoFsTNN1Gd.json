@@ -8,6 +8,7 @@
 	"name": "Feral",
 	"system": {
 		"description": "<p>Your family found refuge in untamed wilds.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

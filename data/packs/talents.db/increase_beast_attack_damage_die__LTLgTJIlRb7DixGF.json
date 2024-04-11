@@ -11,7 +11,7 @@
 		"bonuses": {
 			"weaponDamageDieImprovementByProperty": "beast-attack"
 		},
-		"description": "<p>Increase Beast Attack damage die category by one.</p>",
+		"description": "<p>Increase die category of chosen Beast Attack damage.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

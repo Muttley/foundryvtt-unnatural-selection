@@ -8,6 +8,7 @@
 	"name": "Avenger",
 	"system": {
 		"description": "<p>Your family fell to assassins .</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

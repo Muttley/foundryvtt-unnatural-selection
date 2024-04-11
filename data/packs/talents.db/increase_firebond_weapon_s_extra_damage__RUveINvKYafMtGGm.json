@@ -11,7 +11,7 @@
 		"bonuses": {
 			"weaponDamageExtraDieImprovementByProperty": "firebond-weapon"
 		},
-		"description": "<p>Increase die category of Firebond Weapon’s extra damage.</p>",
+		"description": "<p><strong>Increase Firebond Weapon's Extra Damage.</strong> Increase die category of Firebond Weapon’s extra damage.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

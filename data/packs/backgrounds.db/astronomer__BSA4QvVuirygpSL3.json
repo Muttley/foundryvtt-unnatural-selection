@@ -8,6 +8,7 @@
 	"name": "Astronomer",
 	"system": {
 		"description": "<p>You find guidance in celestial patterns.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

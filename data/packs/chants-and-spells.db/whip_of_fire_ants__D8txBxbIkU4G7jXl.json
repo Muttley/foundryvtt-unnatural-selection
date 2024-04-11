@@ -10,7 +10,7 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
 		],
-		"description": "<p>With the snap of your fingers, a colony of fire ants form into a living needle whip that hits a creature within near, causing [[/r 1d6]] damage.</p><p></p><p>The hit causes fire ants to remain on the target, biting for an additional 1d4 per round until they are actively removed.</p>",
+		"description": "<p>With the snap of your fingers, a colony of fire ants form into a living needle whip that hits a creature within near, causing [[/r 1d6]] damage.</p><p></p><p>The hit causes fire ants to remain on the target, biting for an additional [[/r 1d4]] per round until they are actively removed.</p>",
 		"duration": {
 			"type": "instant",
 			"value": -1

@@ -9,10 +9,10 @@
 	"system": {
 		"ability": "int",
 		"dc": 12,
-		"description": "<p>1 hp of healing. Stabilizes and revives unconscious targets.</p>",
+		"description": "<p>Heals 1 HP.</p>",
 		"group": "Elixir Crafting",
 		"limitedUses": false,
-		"loseOnFailure": false,
+		"loseOnFailure": true,
 		"lost": false,
 		"predefinedEffects": "",
 		"source": {

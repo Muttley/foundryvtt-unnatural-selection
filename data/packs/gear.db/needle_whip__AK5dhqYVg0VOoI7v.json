@@ -41,7 +41,7 @@
 			"Compendium.unnatural-selection.properties.Item.q8MUS4tizWbm8jlZ"
 		],
 		"quantity": 1,
-		"range": "close",
+		"range": "near",
 		"slots": {
 			"free_carry": 0,
 			"per_slot": 1,
@@ -51,7 +51,7 @@
 			"title": "unnatural_selection"
 		},
 		"stashed": false,
-		"type": "melee",
+		"type": "ranged",
 		"weaponMastery": false
 	},
 	"type": "Weapon"

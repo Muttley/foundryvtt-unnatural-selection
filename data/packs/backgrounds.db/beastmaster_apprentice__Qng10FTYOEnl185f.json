@@ -8,6 +8,7 @@
 	"name": "Beastmaster Apprentice",
 	"system": {
 		"description": "<p>You learned to roar.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}
