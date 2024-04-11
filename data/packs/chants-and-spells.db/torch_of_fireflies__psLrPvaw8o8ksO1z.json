@@ -10,7 +10,7 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.luBez0cQ9fHboMrN"
 		],
-		"description": "<p>You summon a cloud of fireflies that illuminate out to a near distance for 1 hour of real time.</p><p></p><p>The fireflies are attracted to any invisible creatures, revealing their position if encountered.</p><p></p><p>The fireflies can be targeted as a 0 LV animal with 1 hp.</p>",
+		"description": "<p>You summon a cloud of fireflies that illuminate out to a near distance for 1 hour of real time.</p><p></p><p>The fireflies follow the ovate around. Treat them as a LV 0 animal with 1 HP.</p><p></p><p>They are attracted to any invisible creatures, revealing their position if encountered.</p>",
 		"duration": {
 			"type": "realTime",
 			"value": "1h"

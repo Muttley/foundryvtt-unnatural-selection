@@ -8,6 +8,7 @@
 	"name": "Chiefling",
 	"system": {
 		"description": "<p>You are the progeny of a tribal chief.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

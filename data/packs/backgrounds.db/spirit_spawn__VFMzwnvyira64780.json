@@ -8,6 +8,7 @@
 	"name": "Spirit Spawn",
 	"system": {
 		"description": "<p>You are the child of a nature spirit.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

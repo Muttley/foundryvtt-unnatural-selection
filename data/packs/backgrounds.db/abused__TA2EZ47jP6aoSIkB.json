@@ -8,6 +8,7 @@
 	"name": "Abused",
 	"system": {
 		"description": "<p>You were tormented by your noble family</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

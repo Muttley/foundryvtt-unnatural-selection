@@ -10,7 +10,7 @@
 		"class": [
 			"Compendium.unnatural-selection.classes.Item.H49iA883JOyMYJFl"
 		],
-		"description": "<p>You light a corpse into a magical campfire that cannot be moved, illuminating a near radius.</p><p></p><p>There’s a 50% chance that the necromantic energy from the fire will deter wandering monsters from attacking a resting party.</p>",
+		"description": "<p>You light a corpse into a magical campfire that cannot be moved, illuminating a near radius.</p><p></p><p>There is a 50% chance that the necromantic energy from the fire will deter random monsters.</p>",
 		"duration": {
 			"type": "days",
 			"value": "1"

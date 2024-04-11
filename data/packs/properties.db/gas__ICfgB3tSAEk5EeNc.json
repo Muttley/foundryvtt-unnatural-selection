@@ -7,7 +7,7 @@
 	"img": "icons/sundries/documents/document-torn-diagram-tan.webp",
 	"name": "Gas",
 	"system": {
-		"description": "<p>Cause the center of your Inhaled Plague Doctor elixir to originate a near distance away.</p>",
+		"description": "<p>Cause the center of your Inhaled Plague Doctor elixir to originate a near distance away and lasts an additional round.</p>",
 		"itemType": "weapon",
 		"predefinedEffects": "",
 		"source": {

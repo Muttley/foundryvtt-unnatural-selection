@@ -7,7 +7,7 @@
 	"img": "icons/creatures/mammals/rodent-rat-green.webp",
 	"name": "Vibrating Whiskers",
 	"system": {
-		"description": "<p>If you focus, you sense living beings behind closed doors and darkness (near).</p>",
+		"description": "<p>If you focus, you sense living beings within near of you, even through doors.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

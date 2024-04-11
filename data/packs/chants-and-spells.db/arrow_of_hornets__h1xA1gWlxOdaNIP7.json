@@ -17,7 +17,7 @@
 		},
 		"lost": false,
 		"predefinedEffects": "",
-		"range": "far",
+		"range": "near",
 		"source": {
 			"title": "unnatural_selection"
 		},

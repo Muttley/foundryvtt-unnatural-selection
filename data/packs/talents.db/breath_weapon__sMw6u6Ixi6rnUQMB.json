@@ -7,7 +7,7 @@
 	"img": "icons/creatures/reptiles/dragon-horned-blue.webp",
 	"name": "Breath Weapon",
 	"system": {
-		"description": "<p>1/day, unleash a breath weapon based on your draconic heritage via ranged attack, dealing [[/r 1d8]] damage to a near-sized cube in near range.</p>",
+		"description": "<p>1/day, unleash a breath weapon based on your draconic heritage that deals [[/r 1d8]] damage in a near-length line starting from you.</p><p>This does not require an attack roll.</p>",
 		"level": 0,
 		"predefinedEffects": "",
 		"source": {

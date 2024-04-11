@@ -9,7 +9,7 @@
 	"name": "Black Vortex!",
 	"system": {
 		"category": "effect",
-		"description": "<p>A portal opens, absorbing nearby magic for 3 rounds, including your own spells.</p>",
+		"description": "<p>A portal opens, absorbing all magic within near for 3 rounds, including your own spells.</p>",
 		"duration": {
 			"type": "rounds",
 			"value": "3"

@@ -9,10 +9,10 @@
 	"system": {
 		"ability": "int",
 		"dc": 13,
-		"description": "<p>DC 12 CON check or [[/r 1d6]] permanent damage. Check daily to fully recover or take another [[/r 1d6]].</p>",
+		"description": "<p>Deals [[/r 1d6]] permanent damage. DC 12 CON check or check daily to fully recover or take another [[/r 1d6]].</p>",
 		"group": "Elixir Crafting",
 		"limitedUses": false,
-		"loseOnFailure": false,
+		"loseOnFailure": true,
 		"lost": false,
 		"predefinedEffects": "",
 		"source": {

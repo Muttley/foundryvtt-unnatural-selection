@@ -11,7 +11,7 @@
 		"bonuses": {
 			"spellcastingCheckBonus": "1"
 		},
-		"description": "",
+		"description": "<p>+1 to shamanic chanting checks.</p>",
 		"level": null,
 		"magicItem": false,
 		"predefinedEffects": "",

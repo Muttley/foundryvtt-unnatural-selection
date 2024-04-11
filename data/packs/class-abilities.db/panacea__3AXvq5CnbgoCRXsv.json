@@ -12,7 +12,7 @@
 		"description": "<p>Ends one poison, disease, or plague.</p>",
 		"group": "Elixir Crafting",
 		"limitedUses": false,
-		"loseOnFailure": false,
+		"loseOnFailure": true,
 		"lost": false,
 		"predefinedEffects": "",
 		"source": {

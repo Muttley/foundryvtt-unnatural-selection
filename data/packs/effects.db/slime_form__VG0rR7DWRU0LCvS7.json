@@ -9,7 +9,7 @@
 	"name": "Slime Form",
 	"system": {
 		"category": "effect",
-		"description": "",
+		"description": "<p>You can freely alter your shape to mimic other humanoids. 1/day, you can also</p><p>morph into a puddle of goo for 3 rounds. Puddle speed is halved and equipment does not morph.</p>",
 		"duration": {
 			"type": "rounds",
 			"value": "3"

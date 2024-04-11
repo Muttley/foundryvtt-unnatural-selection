@@ -8,6 +8,7 @@
 	"name": "Barbarian",
 	"system": {
 		"description": "<p>The wrath within can consume you.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

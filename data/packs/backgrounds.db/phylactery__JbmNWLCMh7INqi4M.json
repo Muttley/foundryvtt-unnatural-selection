@@ -8,6 +8,7 @@
 	"name": "Phylactery",
 	"system": {
 		"description": "<p>A lich can’t die unless you do.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

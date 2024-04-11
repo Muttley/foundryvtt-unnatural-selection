@@ -7,7 +7,8 @@
 	"img": "icons/environment/people/commoner.webp",
 	"name": "Treasonous",
 	"system": {
-		"description": "<p>You are marked by a traitorous lineag</p>",
+		"description": "<p>You are marked by a traitorous lineage.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

@@ -8,6 +8,7 @@
 	"name": "Rescued",
 	"system": {
 		"description": "<p>You were almost eaten by a savage beast.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}

@@ -7,7 +7,8 @@
 	"img": "icons/environment/people/commoner.webp",
 	"name": "Forager",
 	"system": {
-		"description": "<p>You can discern medicinal from death.</p>",
+		"description": "<p>You can discern medicinal from deadly.</p>",
+		"predefinedEffects": "",
 		"source": {
 			"title": "unnatural_selection"
 		}
