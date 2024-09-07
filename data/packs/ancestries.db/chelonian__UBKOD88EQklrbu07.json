@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Chelonian",
 	"system": {
-		"description": "<p>Contemplative, wise turtle beings who act with caution and carry their homes on their backs.</p><p></p><p>You know the common and chelonian languages.</p><p></p><p><strong>Armored Shell.</strong> You gain a +1 to AC.</p>",
+		"description": "<p>Contemplative, wise turtle beings who act with caution and carry their homes on their backs.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

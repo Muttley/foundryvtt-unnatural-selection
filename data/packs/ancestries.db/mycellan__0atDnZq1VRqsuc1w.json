@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Mycellan",
 	"system": {
-		"description": "<p>Peaceful mushroom folk who connect with their natural environment through the mycelial network and telepathy.</p><p></p><p>You know the Common and Sylvan languages.</p><p></p><p><strong>Telepathic.</strong> Once per day, release rapport spores to gain telepathic communication with all in a near radius. Lasts for 10 rounds.</p>",
+		"description": "<p>Peaceful mushroom folk who connect with their natural environment through the mycelial network and telepathy.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

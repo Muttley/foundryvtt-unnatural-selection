@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Risen",
 	"system": {
-		"description": "<p>Resurrected heroes, chosen to fulfill their purpose even in undeath.</p><p></p><p>You know the Common and either the Celestial or Diabolic languages.</p><p></p><p><strong>Corpse Walking.</strong> At 0 hp you remain active but are still dying. Someone else must stabilize you. You die early if you receive your full hp of damage again.</p>",
+		"description": "<p>Resurrected heroes, chosen to fulfill their purpose even in undeath.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

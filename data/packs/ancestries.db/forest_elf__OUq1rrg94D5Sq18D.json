@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Forest Elf",
 	"system": {
-		"description": "<p>Slender, patient elves who are one with nature and uneasy amidst urban bustle.</p><p></p><p>You know the Common, Elvish, and Sylvan languages.</p><p></p><p><strong>Forest Footwork.</strong> In a forest, you can move up to near again without skipping an action on your turn.</p><p></p>",
+		"description": "<p>Slender, patient elves who are one with nature and uneasy amidst urban bustle.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [
