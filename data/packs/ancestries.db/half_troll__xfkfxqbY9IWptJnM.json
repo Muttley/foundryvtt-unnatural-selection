@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Half Troll",
 	"system": {
-		"description": "<p>Ugly, burly beasts who easily anger and struggle to find their place within humanoid society.</p><p></p><p>You know the Common and Giant languages.</p><p></p><p><strong>Regenerate.</strong> Regain 1HP per hour unless damaged by fire or acid.</p>",
+		"description": "<p>Ugly, burly beasts who easily anger and struggle to find their place within humanoid society.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

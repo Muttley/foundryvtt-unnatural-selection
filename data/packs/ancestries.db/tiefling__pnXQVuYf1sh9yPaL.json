@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Tiefling",
 	"system": {
-		"description": "<p>Devout, self-reliant outcasts who have diabolic ancestry and sport demonic horns.</p><p></p><p>You know the Common and Diabolic languages.</p><p></p><p><strong>Heatsight.</strong> 1/day you can see the heat signatures of living creatures for 3 rounds.</p>",
+		"description": "<p>Devout, self-reliant outcasts who have diabolic ancestry and sport demonic horns.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [
