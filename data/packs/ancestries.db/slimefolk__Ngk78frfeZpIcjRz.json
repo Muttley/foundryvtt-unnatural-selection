@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Slimefolk",
 	"system": {
-		"description": "<p>Oddly-shaped humanoids made of congealed slime who have chosen to coexist with solids.</p><p></p><p>You know the Common and Primordial languages.</p><p></p><p><strong>Slime Form. </strong>You can freely alter your shape to mimic other humanoids. 1/day, you can also morph into a puddle of goo for 3 rounds. Puddle speed is halved and equipment does not morph.</p>",
+		"description": "<p>Oddly-shaped humanoids made of congealed slime who have chosen to coexist with solids.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

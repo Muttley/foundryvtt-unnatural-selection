@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Skurrid",
 	"system": {
-		"description": "<p>Furry ratfolk, as tall as elves, famed for their role in citywide subterranean vermin networks.</p><p></p><p>You know the Common and Skurrid languages.</p><p></p><p><strong>Vibrating Whiskers.</strong> If you focus, you sense living beings within near of you, even through doors.</p>",
+		"description": "<p>Furry ratfolk, as tall as elves, famed for their role in citywide subterranean vermin networks.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

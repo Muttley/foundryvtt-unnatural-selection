@@ -2,7 +2,7 @@
     "id": "unnatural-selection",
     "title": "Unnatural Selection",
 	"description": "",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "compatibility": {
         "minimum": "11",
         "verified": "12"

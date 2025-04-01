@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Shadow Elf",
 	"system": {
-		"description": "<p>Lithe, stealthy offspring of drow who have embraced the surface as their home.</p><p></p><p>You know the Common, Elvish, and Drow languages.</p><p></p><p><strong>Friend of the Shadows.</strong> When shrouded in darkness, monsters attack your allies first.</p>",
+		"description": "<p>Lithe, stealthy offspring of drow who have embraced the surface as their home.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [

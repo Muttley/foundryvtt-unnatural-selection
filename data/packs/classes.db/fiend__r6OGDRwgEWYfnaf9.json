@@ -14,7 +14,7 @@
 		"armor": [
 		],
 		"classTalentTable": "Compendium.unnatural-selection.rollable-tables.RollTable.Ddp7F05Uhi9lKwgB",
-		"description": "<p>Disciplined inferno keepers, molten architects, or diabolical pyromancers harness the energy of arcane flame from the molten heart of the earth, the nightmarish abyss, or the searing forges of fallen stars.</p><p></p><p><strong>Weapons:</strong> All weapons</p><p></p><p><strong>Armor:</strong> All armor and shields</p><p></p><p><strong>Hit Points:</strong> 1d8 per level</p><p></p><p><strong>Languages.</strong> You can speak the Diabolic language.</p><p></p><p><strong>Wicked Tongue.</strong> Your oratory prowess deceives others, granting you advantage on any negotiation, intimidation, persuasion, or misdirection check.</p><p></p><p><strong>Firebond Weapon.</strong> Pulling from the eternal flames of the abyss, you can ignite your melee or ranged weapon as part of making an attack. It deals an additional d4 of fire damage on hit.</p><p></p><p>The weapon’s flame is not enough to pierce the darkness.</p><p></p><p><strong>Pyromancy.</strong> You wield the relentless energy of the eternal flame in powerful and unique ways. Only one pyromancy talent can be active at a time.</p><p></p><p>Upon reaching level 2, roll one talent from the @UUID[Compendium.unnatural-selection.rollable-tables.RollTable.K61rWLqV8GrQNQbB]{Pyromancy} table, with additional rolls at every even level.</p><p></p><p>You are immune to your own pyromancy.</p>",
+		"description": "<p>Disciplined inferno keepers, molten architects, or diabolical pyromancers harness the energy of arcane flame from the molten heart of the earth, the nightmarish abyss, or the searing forges of fallen stars.</p>",
 		"hitPoints": "d8",
 		"language": {
 			"select": null

@@ -7,7 +7,7 @@
 	"img": "icons/environment/people/group.webp",
 	"name": "Sylvaren",
 	"system": {
-		"description": "<p>Botanical beings with leaves, vines and/or berries growing from their humanoid forms.</p><p></p><p>You know the Common and Sylvan languages.</p><p></p><p><strong>Plant Medicine.</strong> Take 2 damage to sprout a healing berry on your body. Eating it will heal 1 HP.</p>",
+		"description": "<p>Botanical beings with leaves, vines and/or berries growing from their humanoid forms.</p>",
 		"languages": {
 			"common": 0,
 			"fixed": [
