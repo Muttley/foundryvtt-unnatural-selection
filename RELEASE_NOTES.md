@@ -1,3 +1,10 @@
+# v1.5.0
+
+- Verified with FoundryVTT v13.x
+- Updated node modules used by build system
+
+---
+
 # v1.4.1
 
 - Correct descriptions for classes and ancestries so they play nicer with the Shadowdark System Character Generator (thanks ***Prototype***)
